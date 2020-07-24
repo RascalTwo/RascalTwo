@@ -8,11 +8,20 @@
 
 [gists]: https://gist.github.com/RascalTwo/
 
+[js-calc-img]: https://i.imgur.com/qxwLglx.png
+[js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
+
+[python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
+
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
+
+|                       JavaScript Calculator                        |     Python Testing Bug-Hunt     |
+| :----------------------------------------------------------------: | :-----------------------------: |
+| [![calculator with 1337 in text field][js-calc-img]][js-calc-link] | [Gist][python testing bug-hunt] |
 
 ## Where to find me?
 
-Feel free to reach out with any questions you'd like answered, or if you'd like some help help or to hire for a project of yours!
+Feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
 
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:therealrascaltwo@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/RascalTwo)
