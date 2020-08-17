@@ -7,17 +7,47 @@
 ## Projects
 
 [gists]: https://gist.github.com/RascalTwo/
-
+[wgr614v9 monitor]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
+[wgr615v9 thumbnail]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg
 [js-calc-img]: https://i.imgur.com/qxwLglx.png
 [js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
-
 [python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
 
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
 
-|                       JavaScript Calculator                        |     Python Testing Bug-Hunt     |
-| :----------------------------------------------------------------: | :-----------------------------: |
-| [![calculator with 1337 in text field][js-calc-img]][js-calc-link] | [Gist][python testing bug-hunt] |
+<details open>
+  <summary>Generic</summary>
+
+|                       [NETGEAR WGR614v9<br/>Network Monitor][wgt614v9 monitor]                       |               [JavaScript Calculator][js-calc-link]                | [Python Testing Bug-Hunt][python testing bug-hunt] |
+| :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |             Python bug scavenger hunt              |
+
+</details>
+
+[pybuddies bot]: https://github.com/RascalTwo/main_bot
+[rotten tomatoes bot]: https://github.com/RascalTwo/RedditRottenTomatoesBot
+[reddit googlealert rss]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
+[reddit pokemon giveaway]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
+
+<details open>
+  <summary>Bots</summary>
+
+| [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |
+| :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: |
+| Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    |
+
+</details>
+
+[business review]: https://github.com/RascalTwo/Business-Review.git
+
+<details open>
+  <summary>Incomplete</summary>
+
+|           [Business Review][business review]            |
+| :-----------------------------------------------------: |
+| A site to review businesses, backend is fully completed |
+
+</details>
 
 ## Where to find me?
 
