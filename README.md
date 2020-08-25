@@ -12,15 +12,34 @@
 [js-calc-img]: https://i.imgur.com/qxwLglx.png
 [js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
 [python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
+[tkinter password generator thumbnail]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
+[tkinter password generator video]: https://www.youtube.com/watch?v=1wepX5_ptTA
+[tkinter password generator repo]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
 
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
 
 <details open>
   <summary>Generic</summary>
 
-|                       [NETGEAR WGR614v9<br/>Network Monitor][wgt614v9 monitor]                       |               [JavaScript Calculator][js-calc-link]                | [Python Testing Bug-Hunt][python testing bug-hunt] |
-| :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |             Python bug scavenger hunt              |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+| :-------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] |             Python bug scavenger hunt              | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
+
+</details>
+
+[calculator chaos repo]: https://github.com/RascalTwo/Calculator-Chaos
+[calculator chaos link]: https://rascaltwo.github.io/Calculator-Chaos/
+[calculator chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png
+[number memory repo]: https://github.com/RascalTwo/Number-Memory-Game
+[number memory link]: https://rascaltwo.github.io/Number-Memory-Game/
+[number memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png
+
+<details open>
+  <summary>Games</summary>
+
+|                      [Calculator Chaos][calculator chaos repo]                      |                   [Number Memory][number memory repo]                   |
+| :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] | [![number memory game screen][number memory image]][number memory link] |
 
 </details>
 
