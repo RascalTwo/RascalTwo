@@ -9,6 +9,9 @@
 [gists]: https://gist.github.com/RascalTwo/
 [wgr614v9 monitor]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
 [wgr615v9 thumbnail]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg
+[vonage chroma-key branch]: https://github.com/RascalTwo/build-a-thing-video/tree/feature/greenscreen-background-image
+[vonage chroma-key gif]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif
+[vonage chroma-key video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
 [js-calc-img]: https://i.imgur.com/qxwLglx.png
 [js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
 [python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
@@ -21,9 +24,9 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
-| :-------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] |             Python bug scavenger hunt              | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                            [Vonage Chroma-Key Video][vonage chroma-key branch]                            | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] |             Python bug scavenger hunt              | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
 
 </details>
 
@@ -54,6 +57,22 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 | [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |
 | :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: |
 | Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    |
+
+</details>
+
+[dropbox circleci repo]: https://github.com/RascalTwo/dropbox-orb
+[dropbox circleci orb]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
+[dropbox http api]: https://www.dropbox.com/developers/documentation/http/documentation
+[reddit circleci repo]: https://github.com/RascalTwo/reddit-orb
+[reddit circleci orb]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
+[reddit http api]: https://www.reddit.com/dev/api/
+
+<details open>
+  <summary>Tools</summary>
+
+|                 [Dropbox CircleCI Orb][dropbox circleci repo]                 |                [Reddit CircleCI Orb][dropbox circleci repo]                 |
+| :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| [Dropbox HTTP API][dropbox http api] via [CircleCI Orb][dropbox circleci orb] | [Reddit HTTP API][reddit http api] via [CircleCI Orb][dropbox circleci orb] |
 
 </details>
 
