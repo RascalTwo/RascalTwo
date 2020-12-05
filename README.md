@@ -24,8 +24,8 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                            [Vonage Chroma-Key Video][vonage chroma-key branch]                            | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
-| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] |             Python bug scavenger hunt              | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
 
 </details>
@@ -50,13 +50,14 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [rotten tomatoes bot]: https://github.com/RascalTwo/RedditRottenTomatoesBot
 [reddit googlealert rss]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
 [reddit pokemon giveaway]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
+[hata]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
 
 <details open>
   <summary>Bots</summary>
 
-| [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |
-| :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: |
-| Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    |
+| [Hata Discord][hata] | [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |
+| :------------------: | :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: |
+|  Multiplayer games   | Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    |
 
 </details>
 
