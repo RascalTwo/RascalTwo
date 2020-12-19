@@ -14,7 +14,6 @@
 [vonage chroma-key video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
 [js-calc-img]: https://i.imgur.com/qxwLglx.png
 [js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
-[python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
 [tkinter password generator thumbnail]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
 [tkinter password generator video]: https://www.youtube.com/watch?v=1wepX5_ptTA
 [tkinter password generator repo]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
@@ -24,12 +23,14 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          | [Python Testing Bug-Hunt][python testing bug-hunt] |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
-| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] |             Python bug scavenger hunt              | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
 
 </details>
 
+[python hangman repo]: https://github.com/RascalTwo/PythonHangman
+[python hangman gui]: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif
 [calculator chaos repo]: https://github.com/RascalTwo/Calculator-Chaos
 [calculator chaos link]: https://rascaltwo.github.io/Calculator-Chaos/
 [calculator chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png
@@ -40,9 +41,21 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Games</summary>
 
-|                      [Calculator Chaos][calculator chaos repo]                      |                   [Number Memory][number memory repo]                   |
-| :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] | [![number memory game screen][number memory image]][number memory link] |
+|                      [Calculator Chaos][calculator chaos repo]                      | [Python Multi-Platform Hangman][python hangman repo] |                   [Number Memory][number memory repo]                   |
+| :---------------------------------------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------: |
+| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] |      ![GUI of hangman game][python hangman gui]      | [![number memory game screen][number memory image]][number memory link] |
+
+</details>
+
+[python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
+[aoc]: https://github.com/RascalTwo/AdventOfCode
+
+<details open>
+  <summary>Challenges</summary>
+
+| [Python Testing Bug-Hunt][python testing bug-hunt] |    [Advent Of Code][aoc]    |
+| :------------------------------------------------: | :-------------------------: |
+|             Python bug scavenger hunt              | My Advent Of Code Solutions |
 
 </details>
 
