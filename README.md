@@ -2563,15 +2563,18 @@
 [tkinter password generator thumbnail]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
 [tkinter password generator video]: https://www.youtube.com/watch?v=1wepX5_ptTA
 [tkinter password generator repo]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
+[replit jam 10 repo]: https://github.com/RascalTwo/Repl.itJam10
+[replit jam 10 thumbnail]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg
+[replit jam 10 video]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
 
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
 
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
-| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |                 [Repl.it Code Challenges][replit jam 10 repo]                 |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![replit jam 10 thumbnail][replit jam 10 thumbnail]][replit jam 10 video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
 
 </details>
 
