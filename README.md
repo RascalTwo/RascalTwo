@@ -2572,7 +2572,7 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |                 [Repl.it Code Challenges][replit jam 10 repo]                 |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |               [Repl.it Code Challenges][replit jam 10 repo]                |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
 | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![replit jam 10 thumbnail][replit jam 10 thumbnail]][replit jam 10 video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
 
@@ -2586,13 +2586,15 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [number memory repo]: https://github.com/RascalTwo/Number-Memory-Game
 [number memory link]: https://rascaltwo.github.io/Number-Memory-Game/
 [number memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png
+[brython hangman]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
+[brython hangman gif]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif
 
 <details open>
   <summary>Games</summary>
 
-|                      [Calculator Chaos][calculator chaos repo]                      | [Python Multi-Platform Hangman][python hangman repo] |                   [Number Memory][number memory repo]                   |
-| :---------------------------------------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------: |
-| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] |      ![GUI of hangman game][python hangman gui]      | [![number memory game screen][number memory image]][number memory link] |
+|                      [Calculator Chaos][calculator chaos repo]                      | [Python Multi-Platform Hangman][python hangman repo] |                   [Number Memory][number memory repo]                   |  [Brython Hangman][brython hangman]  |
+| :---------------------------------------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------: |
+| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] |      ![GUI of hangman game][python hangman gui]      | [![number memory game screen][number memory image]][number memory link] | ![gameplay gif][brython hangman gif] |
 
 </details>
 
