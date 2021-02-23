@@ -2588,13 +2588,16 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [number memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png
 [brython hangman]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
 [brython hangman gif]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif
+[minesweeper cli gist]: https://gist.github.com/RascalTwo/dbc362ccf8b2497f4d04a37df83575a9
+[minesweeper cli thumbnail]: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg
+[minesweeper cli video]: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
 
 <details open>
   <summary>Games</summary>
 
-|                      [Calculator Chaos][calculator chaos repo]                      | [Python Multi-Platform Hangman][python hangman repo] |                   [Number Memory][number memory repo]                   |  [Brython Hangman][brython hangman]  |
-| :---------------------------------------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------: |
-| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] |      ![GUI of hangman game][python hangman gui]      | [![number memory game screen][number memory image]][number memory link] | ![gameplay gif][brython hangman gif] |
+|                      [Calculator Chaos][calculator chaos repo]                      | [Python Multi-Platform Hangman][python hangman repo] |                   [Number Memory][number memory repo]                   |  [Brython Hangman][brython hangman]  |               [Minesweeper CLI][minesweeper cli gist]               |
+| :---------------------------------------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------: | :-----------------------------------------------------------------: |
+| [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] |      ![GUI of hangman game][python hangman gui]      | [![number memory game screen][number memory image]][number memory link] | ![gameplay gif][brython hangman gif] | [![gameplay gif][minesweeper cli thumbnail]][minesweeper cli video] |
 
 </details>
 
