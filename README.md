@@ -8,6 +8,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Polyglot;...and+more!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!">
 </p>
 
+<p align="center">
+  <img src="https://gpvc.arturio.dev/rascaltwo" />
+</p>
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascaltwo&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&hide_border=true&custom_title=GitHub%20Breakdown" alt="Top language used in my public repos" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=rascaltwo&theme=react-dark&hide_border=true&custom_title=Public%20Activity" />
+    <img src="https://metrics.lecoq.io/RascalTwo?template=classic&repositories.forks=true&isocalendar=1&gists=1&lines=1&achievements=1&activity=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York" />
+  </p>
+</details>
+
 <details>
   <summary>Experienced Technologies</summary>
 
