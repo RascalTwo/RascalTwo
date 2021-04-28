@@ -842,7 +842,9 @@
           <tr>
             <td>
               <p align="center">
-                PHP
+                <a href="https://github.com/search?q=user%3ARascalTwo&l=PHP">
+                  PHP
+                </a>
               </p>
             </td>
           </tr>
