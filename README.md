@@ -2582,15 +2582,18 @@
 [replit jam 10 repo]: https://github.com/RascalTwo/Repl.itJam10
 [replit jam 10 thumbnail]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg
 [replit jam 10 video]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
+[convex hull overlay gist]: https://gist.github.com/RascalTwo/72443978d4f8f4464197e34838b112cd
+[convex hull overlay thumbnail]: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg
+[convex hull overlay video]: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
 
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
 
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |               [Repl.it Code Challenges][replit jam 10 repo]                |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |
-| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![replit jam 10 thumbnail][replit jam 10 thumbnail]][replit jam 10 video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] |
+|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |               [Repl.it Code Challenges][replit jam 10 repo]                |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |                       [Convex Hull Overlay][convex hull overlay gist]                        |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![replit jam 10 thumbnail][replit jam 10 thumbnail]][replit jam 10 video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] | [![convex hull overlay thumbnail][convex hull overlay thumbnail]][convex hull overlay video] |
 
 </details>
 
