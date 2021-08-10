@@ -180,6 +180,24 @@
         <table>
           <tr>
             <td>
+              <img height="100px" src="https://www.redhat.com/misc/favicon.ico" alt="OpenShift" title="OpenShift" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                <a href="https://github.com/search?q=user%3ARascalTwo+OpenShift">
+                  OpenShift
+                </a>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
               <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="CodePen" title="CodePen" />
             </td>
           </tr>
