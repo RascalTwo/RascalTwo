@@ -2665,13 +2665,14 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [reddit pokemon giveaway]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
 [hata]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
 [reddit devflairer]: https://github.com/RascalTwo/RedditDevResponseFlairer
+[reddit soccer standings sync]: https://github.com/RascalTwo/RedditSoccerStandingsSidebarSync
 
 <details open>
   <summary>Bots</summary>
 
-| [Hata Discord][hata] | [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |      [Reddit Comment Flairer][reddit devflairer]      |
-| :------------------: | :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------: |
-|  Multiplayer games   | Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    | Automatically flair comments of certain accounts |
+| [Hata Discord][hata] | [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |   [Reddit Comment Flairer][reddit devflairer]    | [Reddit Soccer Standings Sync][reddit soccer standings sync] |
+| :------------------: | :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------: |
+|  Multiplayer games   | Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    | Automatically flair comments of certain accounts |  Sync standings table in sidebar of subreddit with website   |
 
 </details>
 
