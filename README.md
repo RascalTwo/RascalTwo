@@ -2637,13 +2637,17 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [flappy bird repo]: https://github.com/RascalTwo/FlappyBird
 [flappy bird thumbnail]: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg
 [flappy bird video]: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
+[morseknight repo]: https://github.com/RascalTwo/OneButtonMorseKnightPrototype
+[morseknight video]: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
+[morseknight thumbnail]: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg
+
 
 <details open>
   <summary>Games</summary>
 
-|                        [Flappy Bird][flappy bird repo]                        | [Python Multi-Platform Hangman][python hangman repo] |                       [Rail Snake][rail snake repo]                        |  [Brython Hangman][brython hangman]  |                      [Calculator Chaos][calculator chaos repo]                      |               [Minesweeper CLI][minesweeper cli gist]               |                   [Number Memory][number memory repo]                   |
-| :---------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| [![flappy bird gameplay thumbnail][flappy bird thumbnail]][flappy bird video] |      ![GUI of hangman game][python hangman gui]      | [![rail snake gameplay thumbnail][rail snake thumbnail]][rail snake video] | ![gameplay gif][brython hangman gif] | [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] | [![gameplay gif][minesweeper cli thumbnail]][minesweeper cli video] | [![number memory game screen][number memory image]][number memory link] |
+|                        [Flappy Bird][flappy bird repo]                        | [Python Multi-Platform Hangman][python hangman repo] |                       [Rail Snake][rail snake repo]                        |  [Brython Hangman][brython hangman]  |                      [Calculator Chaos][calculator chaos repo]                      |               [Minesweeper CLI][minesweeper cli gist]               |                   [Number Memory][number memory repo]                   | [Morse Knight][morseknight repo] |
+| :---------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------: | :-: |
+| [![flappy bird gameplay thumbnail][flappy bird thumbnail]][flappy bird video] |      ![GUI of hangman game][python hangman gui]      | [![rail snake gameplay thumbnail][rail snake thumbnail]][rail snake video] | ![gameplay gif][brython hangman gif] | [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] | [![gameplay gif][minesweeper cli thumbnail]][minesweeper cli video] | [![number memory game screen][number memory image]][number memory link] | [![gameplay gif][morseknight thumbnail]][morseknight video] |
 
 </details>
 
