@@ -2634,7 +2634,7 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [netgear-wgr614v9-monitor source]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
 [vonage-chroma-key-video image]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif "customizing allowing chroma-keying background on live href with little latency"
 [vonage-chroma-key-video href]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
-[vonage-chroma-key-video source]: https://github.com/RascalTwo/build-a-thing-href/tree/feature/greenscreen-background-image
+[vonage-chroma-key-video source]: https://github.com/RascalTwo/build-a-thing-video/tree/feature/greenscreen-background-image
 [replit-code-challenges image]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg "submitted code showing failed test"
 [replit-code-challenges href]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
 [replit-code-challenges source]: https://github.com/RascalTwo/Repl.itJam10
