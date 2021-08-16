@@ -25,7 +25,8 @@
 <details>
   <summary>Experienced Technologies</summary>
 
-  <table class="r2-icos">
+  <!-- TECHNOLOGIES BEGIN -->
+  <table>
     <tr><td>Services</td></tr>
     <tr>
       <td>
@@ -488,10 +489,10 @@
           </tr>
         </table>
       </td>
-    <tr>
+    </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Languages</td></tr>
     <tr>
       <td>
@@ -987,8 +988,8 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
-    <tr><td>Data</td></td>
+  <table>
+    <tr><td>Data</td></tr>
     <tr>
       <td>
         <table>
@@ -1179,7 +1180,7 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Frameworks</td></tr>
     <tr>
       <td>
@@ -1355,7 +1356,7 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Platforms</td></tr>
     <tr>
       <td>
@@ -1627,7 +1628,7 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Equipment</td></tr>
     <tr>
       <td>
@@ -2037,7 +2038,7 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Libraries</td></tr>
     <tr>
       <td>
@@ -2337,7 +2338,7 @@
     </tr>
   </table>
 
-  <table class="r2-icons">
+  <table>
     <tr><td>Tooling</td></tr>
     <tr>
       <td>
@@ -2488,6 +2489,22 @@
         <table>
           <tr>
             <td>
+              <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1280px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Blender
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
               <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" />
             </td>
           </tr>
@@ -2582,6 +2599,7 @@
       </td>
     </tr>
   </table>
+  <!-- TECHNOLOGIES END -->
 </details>
 
 ## Projects

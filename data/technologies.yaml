@@ -1,0 +1,511 @@
+Services:
+  gcp:
+    name: Google Cloud
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg
+  heroku:
+    name: Heroku
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg
+    query: +Heroku
+  digitalocean:
+    name: DigitalOcean
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg
+  replit:
+    name: Repl.it
+    image: https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg
+    query: +Repl
+  vercel:
+    name: Vercel
+    image: https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png
+  firebase:
+    name: Firebase
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg
+  aws:
+    name: Amazon Web Services
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg
+  supabase:
+    name: Supabase
+    image: https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png
+  netlify:
+    name: Netlify
+    image: https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png
+  openshift:
+    name: OpenShift
+    image: https://www.redhat.com/misc/favicon.ico
+    query: +OpenShift
+  codepen:
+    name: CodePen
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg
+  azure:
+    name: Azure
+    image: https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png
+  github:
+    name: GitHub
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg
+    query: +GitHub
+  bitbucket:
+    name: Bitbucket
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg
+  gitlab:
+    name: GitLab
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg
+  reddit:
+    name: Reddit
+    image: https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png
+    query: +Reddit
+  twitch:
+    name: Twitch
+    image: https://raw.githubusercontent.com/github/explore/main/topics/twitch/twitch.png
+  youtube:
+    name: YouTube
+    image: https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg
+  discord:
+    name: Discord
+    image: https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png
+    query: +Discord
+  auth0:
+    name: Auth0
+    image: https://raw.githubusercontent.com/github/explore/main/topics/auth0/auth0.png
+  namecheap:
+    name: Namecheap
+    image: https://www.namecheap.com/assets/img/nc-icon/namecheap-icon-152x152.png
+  twitter:
+    name: Twitter
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg
+  trello:
+    name: Trello
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg
+  travis-ci:
+    name: Travis CI
+    image: https://travis-ci.com/images/logos/TravisCI-Mascot-1.png
+  jupyter:
+    name: Jupyter
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg
+  jetbrains:
+    name: JetBrains
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg
+  jenkins:
+    name: Jenkins
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg
+  openstreetmap:
+    name: OpenStreetMap
+    image: https://raw.githubusercontent.com/github/explore/main/topics/openstreetmap/openstreetmap.png
+Languages:
+  javascript:
+    name: JavaScript
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+    query: '&l=JavaScript'
+  python:
+    name: Python
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+    query: '&l=Python'
+  java:
+    name: Java
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+    query: '&l=Java'
+  c:
+    name: C
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+  rust:
+    name: Rust
+    image: https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png
+  go:
+    name: Go
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg
+    query: '&l=Go'
+  typescript:
+    name: TypeScript
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
+    query: '&l=TypeScript'
+  html:
+    name: HTML
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
+    query: '&l=HTML'
+  css:
+    name: CSS
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+    query: '&l=CSS'
+  less:
+    name: Less
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg
+  bash:
+    name: Bash
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
+    query: '&l=Bash'
+  sass:
+    name: Sass
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg
+  webassembly:
+    name: WebAssembly
+    image: https://raw.githubusercontent.com/github/explore/main/topics/web-assembly/web-assembly.png
+  assemblyscript:
+    name: AssemblyScript
+    image: https://raw.githubusercontent.com/github/explore/main/topics/assemblyscript/assemblyscript.png
+  google-apps-script:
+    name: Google Apps Script
+    image: https://www.benlcollins.com/wp-content/uploads/2017/01/apps_script_log.png
+  c++:
+    name: C++
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
+    query: '&l=C%2B%2B'
+  c#:
+    name: C#
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+  dart:
+    name: Dart
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg
+  elm:
+    name: Elm
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg
+  kotlin:
+    name: Kotlin
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg
+  lua:
+    name: Lua
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg
+    query: '&l=Lua'
+  php:
+    name: PHP
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
+    query: '&l=PHP'
+  ruby:
+    name: Ruby
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg
+  markdown:
+    name: Markdown
+    image: https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png
+    query: '&l=Markdown'
+  ejs:
+    name: EJS
+    image: https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png
+  handlebars:
+    name: Handlebars
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg
+  nunjucks:
+    name: Nunjucks
+    image: https://raw.githubusercontent.com/github/explore/main/topics/nunjucks/nunjucks.jpg
+  jinga-2:
+    name: Jinga 2
+    image: https://jinja.palletsprojects.com/en/2.11.x/_static/jinja-logo-sidebar.png
+    query: '&l=Jinga%202'
+  pug:
+    name: Pug
+    image: https://raw.githubusercontent.com/github/explore/main/topics/pug/pug.png
+Data:
+  mysql:
+    name: MySQL
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
+  mongodb:
+    name: MongoDB
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg
+  postgresql:
+    name: PostgreSQL
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg
+  sqlite:
+    name: SQLite
+    image: https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
+    query: +SQLite
+  microsoft-access:
+    name: Microsoft Access
+    image: https://www.wizcase.com/wp-content/uploads/2020/10/Microsoft-Access-Logo.png
+  redis:
+    name: Redis
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg
+  microsoft-sql-server:
+    name: Microsoft SQL Server
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg
+  json:
+    name: JSON
+    image: https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
+    query: +JSON
+  yaml:
+    name: YAML
+    image: https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png
+    query: +YAML
+  toml:
+    name: TOML
+    image: https://raw.githubusercontent.com/toml-lang/toml/master/logos/toml-200.png
+    query: +TOML
+  rss:
+    name: RSS
+    image: https://raw.githubusercontent.com/github/explore/main/topics/rss/rss.png
+    query: +RSS
+Frameworks:
+  react:
+    name: React
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
+    query: +React
+  flask:
+    name: Flask
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg
+    query: +Flask
+  vue:
+    name: Vue.js
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg
+    query: +Vue.js
+  django:
+    name: Django
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg
+  svelte:
+    name: Svelte
+    image: https://svelte.dev/favicon.png
+  next:
+    name: Next.js
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg
+  meteor:
+    name: Meteor
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg
+    query: +Meteor
+  express:
+    name: Express
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg
+    query: +Express
+  laravel:
+    name: Laravel
+    image: https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png
+  fastify:
+    name: Fastify
+    image: https://raw.githubusercontent.com/github/explore/main/topics/fastify/fastify.png
+Platforms:
+  pwa:
+    name: Progressive Web App
+    image: https://raw.githubusercontent.com/github/explore/main/topics/pwa/pwa.png
+  docker:
+    name: Docker
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg
+    query: +Docker
+  electron:
+    name: Electron
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg
+  android:
+    name: Android
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg
+    query: +Android
+  alpine:
+    name: Alpine
+    image: https://alpinelinux.org/alpine-logo.ico
+  cli:
+    name: CLI
+    image: https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png
+    query: +CLI
+  qt:
+    name: Qt
+    image: https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg
+    query: +Qt
+  vagrant:
+    name: Vagrant
+    image: https://github.com/github/explore/blob/main/topics/vagrant/vagrant.png
+  chrome:
+    name: Chrome
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg
+  minecraft:
+    name: Minecraft
+    image: https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-svg-vector.svg
+  firefox:
+    name: Firefox
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg
+  kivy:
+    name: Kivy
+    image: https://raw.githubusercontent.com/github/explore/main/topics/kivy/kivy.png
+  tk:
+    name: Tk
+    image: https://www.tcl.tk/images/logoLarge.gif
+    query: +Tkinter
+  kubernetes:
+    name: Kubernetes
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg
+  flutter:
+    name: Flutter
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg
+  linux:
+    name: Linux
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+Equipment:
+  cypress-io:
+    name: Cypress.io
+    image: https://avatars.githubusercontent.com/u/8908513?s=200&v=4
+  webpack:
+    name: Webpack
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg
+    query: +Webpack
+  nginx:
+    name: Nginx
+    image: https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png
+  babel:
+    name: Babel
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg
+    query: +Babel
+  yarn:
+    name: Yarn
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg
+    query: +Yarn
+  github-actions:
+    name: GitHub Actions
+    image: https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png
+    query: +GitHub%20Actions
+  ansible:
+    name: Ansible
+    image: https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png
+  chef:
+    name: Chef
+    image: https://i.imgur.com/tN9Ctch.png
+  mocha:
+    name: Mocha
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg
+  eslint:
+    name: ESLint
+    image: https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png
+    query: +ESLint
+  gulp:
+    name: Gulp
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg
+  npm:
+    name: NPM
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg
+    query: +NPM
+  apache:
+    name: Apache
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg
+  vite:
+    name: Vite
+    image: https://vitejs.dev/logo.svg
+    query: +Vite
+  jasmine:
+    name: Jasmine
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg
+  playwright:
+    name: Playwright
+    image: https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png
+  jest:
+    name: Jest
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg
+    query: +Jest
+  puppeteer:
+    name: Puppeteer
+    image: https://developers.google.com/web/tools/images/puppeteer.png
+  gunicorn:
+    name: Gunicorn
+    image: https://cdn.worldvectorlogo.com/logos/gunicorn.svg
+  karma:
+    name: Karma
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg
+  selenium:
+    name: Selenium
+    image: https://www.selenium.dev/images/selenium_logo_square_red.png
+  u-wsgi:
+    name: uWSGI
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg
+  circle-ci:
+    name: Circle CI
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg
+    query: +Circle%20CI
+  gradle:
+    name: Gradle
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg
+    query: +Gradle
+Libraries:
+  socket-io:
+    name: Socket.IO
+    image: https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png
+  d3:
+    name: D3.js
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg
+  pandas:
+    name: Pandas
+    image: https://pandas.pydata.org/static/img/pandas_mark.svg
+  material-ui:
+    name: Material UI
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg
+    query: +Material%20UI
+  mongoose:
+    name: Mongoose
+    image: https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png
+  storybook:
+    name: Storybook
+    image: https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png
+  sequelize:
+    name: Sequelize
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg
+    query: +Sequelize
+  redux:
+    name: Redux
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg
+  matplotlib:
+    name: Matplotlib
+    image: https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg
+  kaboom:
+    name: Kaboom.js
+    image: https://kaboomjs.com/pub/img/kaboom.png
+  jquery:
+    name: jQuery
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg
+    query: +jQuery
+  tailwind:
+    name: Tailwind CSS
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg
+  tensorflow:
+    name: TensorFlow
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg
+  bootstrap:
+    name: Bootstrap
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg
+  bulma:
+    name: Bulma
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg
+  opencv:
+    name: OpenCV
+    image: https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png
+  numpy:
+    name: NumPy
+    image: https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png
+  graphql:
+    name: GraphQL
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg
+Tooling:
+  git:
+    name: git
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
+  vscode:
+    name: VSCode
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg
+  ssh:
+    name: SSH
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg
+  gimp:
+    name: Gimp
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg
+  ubuntu:
+    name: Ubuntu
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg
+  debian:
+    name: Debian
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg
+  vim:
+    name: Vim
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg
+  google-suite:
+    name: Google Suite
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg
+  raspberry-pi:
+    name: Raspberry Pi
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg
+  blender:
+    name: Blender
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1280px-Blender_logo_no_text.svg.png
+  inkscape:
+    name: Inkscape
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg
+  atom:
+    name: Atom
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg
+  pycharm:
+    name: PyCharm
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg
+  godot:
+    name: Godot
+    image: https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg
+  visual-studio:
+    name: Visual Studio
+    image: https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg
+  sublime-text:
+    name: Sublime Text
+    image: https://www.sublimetext.com/images/logo.svg
