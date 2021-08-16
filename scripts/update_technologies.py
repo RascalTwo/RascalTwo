@@ -3,6 +3,8 @@ Automatically update Markdown files from data files
 """
 import yaml
 
+import string
+
 from typing import Dict, Optional, TypedDict
 
 Technology = TypedDict('Technology', { 'image': str, 'name': str, 'query': Optional[str] })
@@ -29,7 +31,7 @@ def generate_technologies(input_filepath: str):
 			section += '\n          </td>\n        </tr>\n        <tr>\n          <td>\n            <p align="center">\n              '
 
 			if query:
-				section += f'<a href="{QUERY_PREFIX}{query}">\n                {name}\n              </a>'
+				section += f'<a href="{QUERY_PREFIX}{string.Template(query).substitute(n=name)}">\n                {name}\n              </a>'
 			else:
 				section += f'{name}'
 

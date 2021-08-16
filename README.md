@@ -1229,7 +1229,7 @@
           <tr>
             <td>
               <p align="center">
-                <a href="https://github.com/search?q=user%3ARascalTwo+Vue.js">
+                <a href="https://github.com/search?q=user%3ARascalTwo+Vue">
                   Vue.js
                 </a>
               </p>
