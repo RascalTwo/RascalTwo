@@ -2605,8 +2605,6 @@
 ## Projects
 
 [gists]: https://gist.github.com/RascalTwo/
-[wgr614v9 monitor]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
-[wgr615v9 thumbnail]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg
 [vonage chroma-key branch]: https://github.com/RascalTwo/build-a-thing-video/tree/feature/greenscreen-background-image
 [vonage chroma-key gif]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif
 [vonage chroma-key video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
@@ -2630,103 +2628,128 @@
 
 Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
 
+<!-- PROJECTS BEGIN -->
+[netgear-wgr614v9-monitor image]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg "dashboard showing graph of network trafic with table below"
+[netgear-wgr614v9-monitor href]: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
+[netgear-wgr614v9-monitor source]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
+[vonage-chroma-key-video image]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif "customizing allowing chroma-keying background on live href with little latency"
+[vonage-chroma-key-video href]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
+[vonage-chroma-key-video source]: https://github.com/RascalTwo/build-a-thing-href/tree/feature/greenscreen-background-image
+[replit-code-challenges image]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg "submitted code showing failed test"
+[replit-code-challenges href]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
+[replit-code-challenges source]: https://github.com/RascalTwo/Repl.itJam10
+[todo-fullstack image]: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg "empty todo list with field to add new entries"
+[todo-fullstack href]: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
+[todo-fullstack source]: https://github.com/RascalTwo/Todo-Fullstack
+[camp-kid-tracker image]: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg "two students being listed in tracker"
+[camp-kid-tracker href]: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
+[camp-kid-tracker source]: https://github.com/RascalTwo/CampKidTracker
+[password-generator image]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg "YouTube thumbnail"
+[password-generator href]: https://www.youtube.com/watch?v=1wepX5_ptTA
+[password-generator source]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
+[javascript-calculator image]: https://i.imgur.com/qxwLglx.png "calculator with 1337 in text field"
+[javascript-calculator source]: https://codepen.io/Rascal_Two/pen/RMMEXp
+[convex-hull-overlay image]: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg "convex hull overlay around points in radius of center"
+[convex-hull-overlay href]: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
+[convex-hull-overlay source]: https://gist.github.com/RascalTwo/72443978d4f8f4464197e34838b112cd
+
 <details open>
   <summary>Generic</summary>
 
-|             [NETGEAR WGR614v9<br/>Network Monitor][wgr614v9 monitor]              |                                         [Vonage Chroma-Key Video][vonage chroma-key branch]                                          |               [Repl.it Code Challenges][replit jam 10 repo]                |                     [Todo Fullstack][todo fullstack repo]                     |               [Camp Kid Tracker][campkidtracker repo]                         |                [Tkinter Password Generator][tkinter password generator repo]                 |               [JavaScript Calculator][js-calc-link]                |                       [Convex Hull Overlay][convex hull overlay gist]                        |
-| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------:    | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-| ![dashboard showing graph of network trafic with table below][wgr615v9 thumbnail] | [![customizing allowing chroma-keying background on live video with little latency][vonage chroma-key gif]][vonage chroma-key video] | [![replit jam 10 thumbnail][replit jam 10 thumbnail]][replit jam 10 video] | [![todo fullstack thumbnail][todo fullstack thumbnail]][todo fullstack video] | [![campkidtracker thumbnail][campkidtracker thumbnail]][campkidtracker video] | [![video thumbnail][tkinter password generator thumbnail]][tkinter password generator video] | [![calculator with 1337 in text field][js-calc-img]][js-calc-link] | [![convex hull overlay thumbnail][convex hull overlay thumbnail]][convex hull overlay video] |
+|                            [NETGEAR WGR614v9<bt/>Network Monitor][netgear-wgr614v9-monitor source]                             |                                            [Vonage Chroma-Key Video][vonage-chroma-key-video source]                                             |                      [Repl.it Code Challenges][replit-code-challenges source]                      |                            [Todo Fullstack][todo-fullstack source]                            |                       [Camp Kid Tracker][camp-kid-tracker source]                        |          [Tkinter Password Generator][password-generator source]          |       [JavaScript Calculator][javascript-calculator source]        |                                [Convex Hull Overlay][convex-hull-overlay source]                                |
+| :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| [![dashboard showing graph of network trafic with table below][netgear-wgr614v9-monitor image]][netgear-wgr614v9-monitor href] | [![customizing allowing chroma-keying background on live href with little latency][vonage-chroma-key-video image]][vonage-chroma-key-video href] | [![submitted code showing failed test][replit-code-challenges image]][replit-code-challenges href] | [![empty todo list with field to add new entries][todo-fullstack image]][todo-fullstack href] | [![two students being listed in tracker][camp-kid-tracker image]][camp-kid-tracker href] | [![YouTube thumbnail][password-generator image]][password-generator href] | ![calculator with 1337 in text field][javascript-calculator image] | [![convex hull overlay around points in radius of center][convex-hull-overlay image]][convex-hull-overlay href] |
 
 </details>
 
-[python hangman repo]: https://github.com/RascalTwo/PythonHangman
-[python hangman gui]: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif
-[calculator chaos repo]: https://github.com/RascalTwo/Calculator-Chaos
-[calculator chaos link]: https://rascaltwo.github.io/Calculator-Chaos/
-[calculator chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png
-[number memory repo]: https://github.com/RascalTwo/Number-Memory-Game
-[number memory link]: https://rascaltwo.github.io/Number-Memory-Game/
-[number memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png
-[brython hangman]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
-[brython hangman gif]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif
-[minesweeper cli gist]: https://gist.github.com/RascalTwo/dbc362ccf8b2497f4d04a37df83575a9
-[minesweeper cli thumbnail]: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg
-[minesweeper cli video]: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
-[rail snake repo]: https://github.com/RascalTwo/RailSnake
-[rail snake thumbnail]: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg
-[rail snake video]: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
-[flappy bird repo]: https://github.com/RascalTwo/FlappyBird
-[flappy bird thumbnail]: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg
-[flappy bird video]: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
-[morseknight repo]: https://github.com/RascalTwo/OneButtonMorseKnightPrototype
-[morseknight video]: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
-[morseknight thumbnail]: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg
-
+[flappy-bird image]: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg "flappy bird flying between pipes with a score of 4 and high score of 6"
+[flappy-bird href]: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
+[flappy-bird source]: https://github.com/RascalTwo/FlappyBird
+[cross-platform-hangman image]: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif "GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'"
+[cross-platform-hangman source]: https://github.com/RascalTwo/PythonHangman
+[rail-snake image]: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg "rail snake turning around after picking up food in top right corner"
+[rail-snake href]: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
+[rail-snake source]: https://github.com/RascalTwo/RailSnake
+[brython-hangman image]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif "correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'"
+[brython-hangman source]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
+[calculator-chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png "Nearly-perfect recreation of the flash game 'Calculator Chaos'"
+[calculator-chaos href]: https://rascaltwo.github.io/Calculator-Chaos/
+[calculator-chaos source]: https://github.com/RascalTwo/Calculator-Chaos
+[minesweeper-cli image]: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg "Minesweeper board half cleared of bombs"
+[minesweeper-cli href]: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
+[minesweeper-cli source]: https://gist.github.com/RascalTwo/dbc362ccf8b2497f4d04a37df83575a9
+[number-memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png "four pairs of numbers matched with 8 pairs remaining"
+[number-memory href]: https://rascaltwo.github.io/Number-Memory-Game/
+[number-memory source]: https://github.com/RascalTwo/Number-Memory-Game
+[morse-knight image]: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg "'Attack' menu action being selected"
+[morse-knight href]: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
+[morse-knight source]: https://github.com/RascalTwo/OneButtonMorseKnightPrototype
 
 <details open>
   <summary>Games</summary>
 
-|                        [Flappy Bird][flappy bird repo]                        | [Python Multi-Platform Hangman][python hangman repo] |                       [Rail Snake][rail snake repo]                        |  [Brython Hangman][brython hangman]  |                      [Calculator Chaos][calculator chaos repo]                      |               [Minesweeper CLI][minesweeper cli gist]               |                   [Number Memory][number memory repo]                   | [Morse Knight][morseknight repo] |
-| :---------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------: | :-: |
-| [![flappy bird gameplay thumbnail][flappy bird thumbnail]][flappy bird video] |      ![GUI of hangman game][python hangman gui]      | [![rail snake gameplay thumbnail][rail snake thumbnail]][rail snake video] | ![gameplay gif][brython hangman gif] | [![recreation of calculation chaos][calculator chaos image]][calculator chaos link] | [![gameplay gif][minesweeper cli thumbnail]][minesweeper cli video] | [![number memory game screen][number memory image]][number memory link] | [![gameplay gif][morseknight thumbnail]][morseknight video] |
+|                                        [Flappy Bird][flappy-bird source]                                         |                       [Python Cross-Platform Hangman][cross-platform-hangman source]                       |                                       [Rail Snake][rail-snake source]                                       |                                [Brython Hangman][brython-hangman source]                                |                                    [Calculator Chaos][calculator-chaos source]                                     |                         [Minesweeper CLI][minesweeper-cli source]                         |                               [Number Memory][number-memory source]                                |                       [Morse Knight][morse-knight source]                       |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| [![flappy bird flying between pipes with a score of 4 and high score of 6][flappy-bird image]][flappy-bird href] | ![GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'][cross-platform-hangman image] | [![rail snake turning around after picking up food in top right corner][rail-snake image]][rail-snake href] | ![correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'][brython-hangman image] | [![Nearly-perfect recreation of the flash game 'Calculator Chaos'][calculator-chaos image]][calculator-chaos href] | [![Minesweeper board half cleared of bombs][minesweeper-cli image]][minesweeper-cli href] | [![four pairs of numbers matched with 8 pairs remaining][number-memory image]][number-memory href] | [!['Attack' menu action being selected][morse-knight image]][morse-knight href] |
 
 </details>
 
-[python testing bug-hunt]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
-[aoc]: https://github.com/RascalTwo/AdventOfCode
+[python-testing-bug-hunt source]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
+[aoc source]: https://github.com/RascalTwo/AdventOfCode
 
 <details open>
   <summary>Challenges</summary>
 
-| [Python Testing Bug-Hunt][python testing bug-hunt] |    [Advent Of Code][aoc]    |
-| :------------------------------------------------: | :-------------------------: |
-|             Python bug scavenger hunt              | My Advent Of Code Solutions |
+| [Python Testing Bug-Hunt][python-testing-bug-hunt source] | [Advent of Code][aoc source] |
+| :-------------------------------------------------------: | :--------------------------: |
+|                 Python bug scavenger hunt                 | My Advent of Code solutions  |
 
 </details>
 
-[pybuddies bot]: https://github.com/RascalTwo/main_bot
-[rotten tomatoes bot]: https://github.com/RascalTwo/RedditRottenTomatoesBot
-[reddit googlealert rss]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
-[reddit pokemon giveaway]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
-[hata]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
-[reddit devflairer]: https://github.com/RascalTwo/RedditDevResponseFlairer
-[reddit soccer standings sync]: https://github.com/RascalTwo/RedditSoccerStandingsSidebarSync
+[hata-discord source]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
+[pybuddies-discord source]: https://github.com/RascalTwo/main_bot
+[reddit-rotten-tomatoes source]: https://github.com/RascalTwo/RedditRottenTomatoesBot
+[reddit-googlealert-rss source]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
+[reddit-pokemon-giveaway-flairer source]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
+[reddit-auto-flairer source]: https://github.com/RascalTwo/RedditDevResponseFlairer
+[reddit-soccer-standings-sync source]: https://github.com/RascalTwo/RedditSoccerStandingsSidebarSync
 
 <details open>
   <summary>Bots</summary>
 
-| [Hata Discord][hata] | [PyBuddies Discord][pybuddies bot]  | [Reddit RottenTomatos][rotten tomatoes bot] | [Reddit GoogleAlert RSS Poster][reddit googlealert rss] | [Reddit PokemonGiveaway Flairer][reddit pokemon giveaway] |   [Reddit Comment Flairer][reddit devflairer]    | [Reddit Soccer Standings Sync][reddit soccer standings sync] |
-| :------------------: | :---------------------------------: | :-----------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------: |
-|  Multiplayer games   | Collaborative multi-feature Discord |       Post the Top Movies of the week       |             Mirror items in GoogleAlert RSS             |    Allow users to set their flairs via private message    | Automatically flair comments of certain accounts |  Sync standings table in sidebar of subreddit with website   |
+| [Hata Discord][hata-discord source] | [PyBuddies Discord][pybuddies-discord source] | [Reddit RottenTomatoes][reddit-rotten-tomatoes source] | [Reddit GoogleAlert RSS][reddit-googlealert-rss source] | [Reddit PokemonGiveaway Flairer][reddit-pokemon-giveaway-flairer source] | [Reddit Auto Flairer][reddit-auto-flairer source] | [Reddit Soccer Standings Sync][reddit-soccer-standings-sync source] |
+| :---------------------------------: | :-------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------------------------: |
+|          Multiplayer Games          |      Collaborative multi-feature Discord      |            Post the Top Movies of the week             | Mirror items from GoogleAlert RSS as posts to Subreddit |           Allow users to set their floairs via private message           |  Automatically flair comments of certain accounts |      Sync standings table in sidebar of subreddit with website      |
 
 </details>
 
-[dropbox circleci repo]: https://github.com/RascalTwo/dropbox-orb
-[dropbox circleci orb]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
-[dropbox http api]: https://www.dropbox.com/developers/documentation/http/documentation
-[reddit circleci repo]: https://github.com/RascalTwo/reddit-orb
-[reddit circleci orb]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
-[reddit http api]: https://www.reddit.com/dev/api/
+[dropbox-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
+[dropbox-orb dropbox_http_api]: https://www.dropbox.com/developers/documentation/http/documentation
+[dropbox-orb source]: https://github.com/RascalTwo/dropbox-orb
+[reddit-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
+[reddit-orb reddit_http_api]: https://www.reddit.com/dev/api/
+[reddit-orb source]: https://github.com/RascalTwo/reddit-orb
 
 <details open>
   <summary>Tools</summary>
 
-|                 [Dropbox CircleCI Orb][dropbox circleci repo]                 |                [Reddit CircleCI Orb][dropbox circleci repo]                 |
-| :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| [Dropbox HTTP API][dropbox http api] via [CircleCI Orb][dropbox circleci orb] | [Reddit HTTP API][reddit http api] via [CircleCI Orb][dropbox circleci orb] |
+|                          [Dropbox CircleCI Orb][dropbox-orb source]                          |                         [Reddit CircleCI Orb][reddit-orb source]                         |
+| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing] | [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing] |
 
 </details>
 
-[business review]: https://github.com/RascalTwo/Business-Review.git
+[business-review source]: https://github.com/RascalTwo/Business-Review
 
 <details open>
-  <summary>Incomplete</summary>
+  <summary>Partial</summary>
 
-|           [Business Review][business review]            |
+|        [Business Review][business-review source]        |
 | :-----------------------------------------------------: |
 | A site to review businesses, backend is fully completed |
 
 </details>
+<!-- PROJECTS END -->
 
 ## Where to find me?
 

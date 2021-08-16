@@ -1,0 +1,34 @@
+Generic:
+  - netgear-wgr614v9-monitor
+  - vonage-chroma-key-video
+  - replit-code-challenges
+  - todo-fullstack
+  - camp-kid-tracker
+  - password-generator
+  - javascript-calculator
+  - convex-hull-overlay
+Games:
+  - flappy-bird
+  - cross-platform-hangman
+  - rail-snake
+  - brython-hangman
+  - calculator-chaos
+  - minesweeper-cli
+  - number-memory
+  - morse-knight
+Challenges:
+  - python-testing-bug-hunt
+  - aoc
+Bots:
+  - hata-discord
+  - pybuddies-discord
+  - reddit-rotten-tomatoes
+  - reddit-googlealert-rss
+  - reddit-pokemon-giveaway-flairer
+  - reddit-auto-flairer
+  - reddit-soccer-standings-sync
+Tools:
+  - dropbox-orb
+  - reddit-orb
+Partial:
+  - business-review
