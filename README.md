@@ -2710,7 +2710,7 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 </details>
 
 [hata-discord source]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
-[pybuddies-discord source]: https://github.com/RascalTwo/main_bot
+[pybuddies-discord source]: https://github.com/RascalTwo/PythonBuddiesBot
 [reddit-rotten-tomatoes source]: https://github.com/RascalTwo/RedditRottenTomatoesBot
 [reddit-googlealert-rss source]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
 [reddit-pokemon-giveaway-flairer source]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
