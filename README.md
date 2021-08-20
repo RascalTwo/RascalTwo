@@ -2732,13 +2732,14 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [reddit-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
 [reddit-orb reddit_http_api]: https://www.reddit.com/dev/api/
 [reddit-orb source]: https://github.com/RascalTwo/reddit-orb
+[subnet-scanner source]: https://github.com/RascalTwo/https://github.com/RascalTwo/RubySubnetScanner
 
 <details open>
   <summary>Tools</summary>
 
-|                          [Dropbox CircleCI Orb][dropbox-orb source]                          |                         [Reddit CircleCI Orb][reddit-orb source]                         |
-| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing] | [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing] |
+|                          [Dropbox CircleCI Orb][dropbox-orb source]                          |                         [Reddit CircleCI Orb][reddit-orb source]                         |   [Subnet Scanner][subnet-scanner source]    |
+| :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :------------------------------------------: |
+| [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing] | [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing] | Scan a given network for active IP addresses |
 
 </details>
 

@@ -209,3 +209,9 @@ bible-trivia:
     href: https://user-images.githubusercontent.com/9403665/129601925-3d74cc16-5327-45b3-8973-fc67ef2f72cb.mp4
   text:
     title: Bible Trivia
+subnet-scanner:
+  source:
+    repo: RubySubnetScanner
+  text:
+    title: Subnet Scanner
+    content: Scan a given network for active IP addresses

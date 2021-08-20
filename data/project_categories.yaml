@@ -31,5 +31,6 @@ Bots:
 Tools:
   - dropbox-orb
   - reddit-orb
+  - subnet-scanner
 Partial:
   - business-review
