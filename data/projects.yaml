@@ -215,3 +215,10 @@ subnet-scanner:
   text:
     title: Subnet Scanner
     content: Scan a given network for active IP addresses
+socket-size-grapher:
+  source:
+    repo: SocketSizeGrapher
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png "graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers"
+  text:
+    title: Socket Size Grapher

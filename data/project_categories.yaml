@@ -7,6 +7,7 @@ Generic:
   - password-generator
   - javascript-calculator
   - convex-hull-overlay
+  - socket-size-grapher
 Games:
   - flappy-bird
   - cross-platform-hangman
