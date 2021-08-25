@@ -222,3 +222,11 @@ socket-size-grapher:
     image: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png "graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers"
   text:
     title: Socket Size Grapher
+magicjack-call-forwarding-toggler:
+  source:
+    repo: MagicJackCallFowardingToggler
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/131440209-c7ee6f9c-8bc7-4671-bd2f-d60a95e0e415.jpg "dashboard showing call fowarding hving just been toggled on"
+    href: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
+  text:
+    title: MagicJack Call-Forwarding Toggler
