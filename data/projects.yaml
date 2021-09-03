@@ -230,3 +230,11 @@ magicjack-call-forwarding-toggler:
     href: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
   text:
     title: MagicJack Call-Forwarding Toggler
+bookmarks-backup-webextension:
+  source:
+    repo: BookmarksBackupExtension
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/131948277-6f5fd3e4-275c-4b21-95b5-e8f1cdb2dd46.jpg "bookmarks selected in extension popup, ready for download"
+    href: https://user-images.githubusercontent.com/9403665/131939321-0d49fd61-8cd6-4231-9af7-ea70526a2f7f.mp4
+  text:
+    title: Bookmarks Backup WebExtension
