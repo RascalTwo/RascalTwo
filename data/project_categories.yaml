@@ -32,6 +32,7 @@ Bots:
   - reddit-pokemon-giveaway-flairer
   - reddit-auto-flairer
   - reddit-soccer-standings-sync
+  - reddit-participation-flair-bot
 Tools:
   - dropbox-orb
   - reddit-orb

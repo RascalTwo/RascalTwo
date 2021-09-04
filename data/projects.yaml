@@ -246,3 +246,9 @@ video-subimage-search:
     href: https://user-images.githubusercontent.com/9403665/131947673-89d0a59d-2d5c-4cfb-a440-487d1a518668.mp4
   text:
     title: Video SubImage Search
+reddit-participation-flair-bot:
+  source:
+    repo: RedditParticipationFlairBot
+  text:
+    title: Reddit Participation Flair Bot
+    content: Assign flairs to users based on how active they are commenting/posting in a subreddit
