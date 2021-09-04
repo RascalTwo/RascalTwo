@@ -252,3 +252,9 @@ reddit-participation-flair-bot:
   text:
     title: Reddit Participation Flair Bot
     content: Assign flairs to users based on how active they are commenting/posting in a subreddit
+reddit-phrase-unbanner:
+  source:
+    repo: RedditPhraseUnbanner
+  text:
+    title: Reddit Phrase Unbanner
+    content: Unban users who comment any of the configured phrases

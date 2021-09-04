@@ -33,6 +33,7 @@ Bots:
   - reddit-auto-flairer
   - reddit-soccer-standings-sync
   - reddit-participation-flair-bot
+  - reddit-phrase-unbanner
 Tools:
   - dropbox-orb
   - reddit-orb
