@@ -258,3 +258,9 @@ reddit-phrase-unbanner:
   text:
     title: Reddit Phrase Unbanner
     content: Unban users who comment any of the configured phrases
+reddit-tellsyouajoke-bot:
+  source:
+    repo: RedditTellsYouAJokeBot
+  text:
+    title: Reddit TellsYouAJoke Bot
+    content: Tells users who summon it a joke, sourced locally and from Trello boards
