@@ -35,6 +35,7 @@ Bots:
   - reddit-participation-flair-bot
   - reddit-phrase-unbanner
   - reddit-tellsyouajoke-bot
+  - wedidit-reddit-bot
 Tools:
   - dropbox-orb
   - reddit-orb

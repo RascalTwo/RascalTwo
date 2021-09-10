@@ -264,3 +264,9 @@ reddit-tellsyouajoke-bot:
   text:
     title: Reddit TellsYouAJoke Bot
     content: Tells users who summon it a joke, sourced locally and from Trello boards
+wedidit-reddit-bot:
+  source:
+    repo: WeDidItRedditBot
+  text:
+    title: Reddit WeDidIt Bot
+    content: Responds to variable comments with responses
