@@ -33,7 +33,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924069/gcp_z8qwzf.svg" alt="Google Cloud" title="Google Cloud" />
             </td>
           </tr>
           <tr>
@@ -49,7 +49,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" title="Heroku" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924075/heroku_b4cuwx.svg" alt="Heroku" title="Heroku" />
             </td>
           </tr>
           <tr>
@@ -67,7 +67,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924066/digitalocean_hszulx.svg" alt="DigitalOcean" title="DigitalOcean" />
             </td>
           </tr>
           <tr>
@@ -83,7 +83,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Repl.it" title="Repl.it" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924089/replit_jwdu23.svg" alt="Repl.it" title="Repl.it" />
             </td>
           </tr>
           <tr>
@@ -101,7 +101,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" alt="Vercel" title="Vercel" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924096/vercel_oscxj9.png" alt="Vercel" title="Vercel" />
             </td>
           </tr>
           <tr>
@@ -117,7 +117,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/firebase_rwmd7q.svg" alt="Firebase" title="Firebase" />
             </td>
           </tr>
           <tr>
@@ -133,7 +133,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" title="Amazon Web Services" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/aws_qkfkqi.svg" alt="Amazon Web Services" title="Amazon Web Services" />
             </td>
           </tr>
           <tr>
@@ -149,7 +149,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" alt="Supabase" title="Supabase" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/supabase_pxwjk5.png" alt="Supabase" title="Supabase" />
             </td>
           </tr>
           <tr>
@@ -165,7 +165,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png" alt="Netlify" title="Netlify" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924084/netlify_t3jsa1.png" alt="Netlify" title="Netlify" />
             </td>
           </tr>
           <tr>
@@ -181,7 +181,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.redhat.com/misc/favicon.ico" alt="OpenShift" title="OpenShift" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/openshift_ptgrtr.png" alt="OpenShift" title="OpenShift" />
             </td>
           </tr>
           <tr>
@@ -199,7 +199,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="CodePen" title="CodePen" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/codepen_vvkzrf.svg" alt="CodePen" title="CodePen" />
             </td>
           </tr>
           <tr>
@@ -215,7 +215,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" title="Azure" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/azure_qrju2w.png" alt="Azure" title="Azure" />
             </td>
           </tr>
           <tr>
@@ -231,7 +231,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924070/github_ilqm1g.svg" alt="GitHub" title="GitHub" />
             </td>
           </tr>
           <tr>
@@ -249,7 +249,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bitbucket_vta5fm.svg" alt="Bitbucket" title="Bitbucket" />
             </td>
           </tr>
           <tr>
@@ -265,7 +265,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924071/gitlab_xkqac8.svg" alt="GitLab" title="GitLab" />
             </td>
           </tr>
           <tr>
@@ -281,7 +281,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png" alt="Reddit" title="Reddit" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924088/reddit_ntyopx.png" alt="Reddit" title="Reddit" />
             </td>
           </tr>
           <tr>
@@ -299,7 +299,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitch/twitch.png" alt="Twitch" title="Twitch" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924094/twitch_iorata.png" alt="Twitch" title="Twitch" />
             </td>
           </tr>
           <tr>
@@ -315,7 +315,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" title="YouTube" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924098/youtube_b2vidz.svg" alt="YouTube" title="YouTube" />
             </td>
           </tr>
           <tr>
@@ -331,7 +331,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" alt="Discord" title="Discord" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924066/discord_tfm93j.png" alt="Discord" title="Discord" />
             </td>
           </tr>
           <tr>
@@ -349,7 +349,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/auth0/auth0.png" alt="Auth0" title="Auth0" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/auth0_su4ibk.svg" alt="Auth0" title="Auth0" />
             </td>
           </tr>
           <tr>
@@ -365,7 +365,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.namecheap.com/assets/img/nc-icon/namecheap-icon-152x152.png" alt="Namecheap" title="Namecheap" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/namecheap_akegkf.png" alt="Namecheap" title="Namecheap" />
             </td>
           </tr>
           <tr>
@@ -381,7 +381,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" title="Twitter" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924094/twitter_plruty.svg" alt="Twitter" title="Twitter" />
             </td>
           </tr>
           <tr>
@@ -397,7 +397,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="Trello" title="Trello" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924093/trello_be5ld3.svg" alt="Trello" title="Trello" />
             </td>
           </tr>
           <tr>
@@ -413,7 +413,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://travis-ci.com/images/logos/TravisCI-Mascot-1.png" alt="Travis CI" title="Travis CI" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924093/travis-ci_jlli0q.svg" alt="Travis CI" title="Travis CI" />
             </td>
           </tr>
           <tr>
@@ -429,7 +429,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/jupyter_cryzu1.svg" alt="Jupyter" title="Jupyter" />
             </td>
           </tr>
           <tr>
@@ -445,7 +445,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" title="JetBrains" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924077/jetbrains_umgsit.svg" alt="JetBrains" title="JetBrains" />
             </td>
           </tr>
           <tr>
@@ -461,7 +461,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/jenkins_v6kgyz.svg" alt="Jenkins" title="Jenkins" />
             </td>
           </tr>
           <tr>
@@ -477,7 +477,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/openstreetmap/openstreetmap.png" alt="OpenStreetMap" title="OpenStreetMap" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/openstreetmap_xl0e7n.png" alt="OpenStreetMap" title="OpenStreetMap" />
             </td>
           </tr>
           <tr>
@@ -499,7 +499,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/javascript_ehszr7.svg" alt="JavaScript" title="JavaScript" />
             </td>
           </tr>
           <tr>
@@ -517,7 +517,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924087/python_xzdlti.svg" alt="Python" title="Python" />
             </td>
           </tr>
           <tr>
@@ -535,7 +535,23 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631990546/brython_s6cmaw.svg" alt="Brython" title="Brython" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Brython
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/java_un8ru7.svg" alt="Java" title="Java" />
             </td>
           </tr>
           <tr>
@@ -553,7 +569,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924062/c_q3vz0d.svg" alt="C" title="C" />
             </td>
           </tr>
           <tr>
@@ -569,7 +585,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" title="Rust" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/rust_d9gbov.png" alt="Rust" title="Rust" />
             </td>
           </tr>
           <tr>
@@ -585,7 +601,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924071/go_hrvltg.svg" alt="Go" title="Go" />
             </td>
           </tr>
           <tr>
@@ -603,7 +619,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924094/typescript_s5czgr.svg" alt="TypeScript" title="TypeScript" />
             </td>
           </tr>
           <tr>
@@ -621,7 +637,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924075/html_madoen.svg" alt="HTML" title="HTML" />
             </td>
           </tr>
           <tr>
@@ -639,7 +655,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/css_baq9pk.svg" alt="CSS" title="CSS" />
             </td>
           </tr>
           <tr>
@@ -657,7 +673,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="Less" title="Less" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/less_i27dep.svg" alt="Less" title="Less" />
             </td>
           </tr>
           <tr>
@@ -673,7 +689,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bash_pab85f.svg" alt="Bash" title="Bash" />
             </td>
           </tr>
           <tr>
@@ -691,7 +707,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/sass_dbwpjn.svg" alt="Sass" title="Sass" />
             </td>
           </tr>
           <tr>
@@ -707,7 +723,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/web-assembly/web-assembly.png" alt="WebAssembly" title="WebAssembly" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924097/webassembly_jgad0n.png" alt="WebAssembly" title="WebAssembly" />
             </td>
           </tr>
           <tr>
@@ -723,7 +739,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/assemblyscript/assemblyscript.png" alt="AssemblyScript" title="AssemblyScript" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/assemblyscript_u8rirl.png" alt="AssemblyScript" title="AssemblyScript" />
             </td>
           </tr>
           <tr>
@@ -739,7 +755,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.benlcollins.com/wp-content/uploads/2017/01/apps_script_log.png" alt="Google Apps Script" title="Google Apps Script" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924072/google-apps-script_ppzxvk.svg" alt="Google Apps Script" title="Google Apps Script" />
             </td>
           </tr>
           <tr>
@@ -755,7 +771,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924063/c_xystla.svg" alt="C++" title="C++" />
             </td>
           </tr>
           <tr>
@@ -773,7 +789,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924063/c_bnvpsm.svg" alt="C#" title="C#" />
             </td>
           </tr>
           <tr>
@@ -789,7 +805,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" title="Dart" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924065/dart_oeng60.svg" alt="Dart" title="Dart" />
             </td>
           </tr>
           <tr>
@@ -805,7 +821,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" alt="Elm" title="Elm" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/elm_i4ukxe.svg" alt="Elm" title="Elm" />
             </td>
           </tr>
           <tr>
@@ -821,7 +837,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924079/kotlin_rmdx6b.svg" alt="Kotlin" title="Kotlin" />
             </td>
           </tr>
           <tr>
@@ -837,7 +853,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" title="Lua" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/lua_neosme.svg" alt="Lua" title="Lua" />
             </td>
           </tr>
           <tr>
@@ -855,7 +871,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/php_wxp0v1.svg" alt="PHP" title="PHP" />
             </td>
           </tr>
           <tr>
@@ -873,7 +889,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/ruby_v4klwh.svg" alt="Ruby" title="Ruby" />
             </td>
           </tr>
           <tr>
@@ -889,7 +905,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png" alt="Markdown" title="Markdown" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924081/markdown_ikgbxz.svg" alt="Markdown" title="Markdown" />
             </td>
           </tr>
           <tr>
@@ -907,7 +923,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS" title="EJS" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/ejs_mvpwth.png" alt="EJS" title="EJS" />
             </td>
           </tr>
           <tr>
@@ -923,7 +939,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="Handlebars" title="Handlebars" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924074/handlebars_mukyok.svg" alt="Handlebars" title="Handlebars" />
             </td>
           </tr>
           <tr>
@@ -939,7 +955,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/nunjucks/nunjucks.jpg" alt="Nunjucks" title="Nunjucks" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/nunjucks_huojcd.jpg" alt="Nunjucks" title="Nunjucks" />
             </td>
           </tr>
           <tr>
@@ -955,7 +971,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://jinja.palletsprojects.com/en/2.11.x/_static/jinja-logo-sidebar.png" alt="Jinga 2" title="Jinga 2" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/jinga-2_lgvnrn.png" alt="Jinga 2" title="Jinga 2" />
             </td>
           </tr>
           <tr>
@@ -973,7 +989,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/pug/pug.png" alt="Pug" title="Pug" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/pug_qsigid.png" alt="Pug" title="Pug" />
             </td>
           </tr>
           <tr>
@@ -995,7 +1011,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/mysql_al7l8s.svg" alt="MySQL" title="MySQL" />
             </td>
           </tr>
           <tr>
@@ -1011,7 +1027,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/mongodb_rqlbyw.svg" alt="MongoDB" title="MongoDB" />
             </td>
           </tr>
           <tr>
@@ -1027,7 +1043,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/postgresql_pzymmo.svg" alt="PostgreSQL" title="PostgreSQL" />
             </td>
           </tr>
           <tr>
@@ -1043,7 +1059,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" alt="SQLite" title="SQLite" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924091/sqlite_mfc4ja.png" alt="SQLite" title="SQLite" />
             </td>
           </tr>
           <tr>
@@ -1061,7 +1077,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.wizcase.com/wp-content/uploads/2020/10/Microsoft-Access-Logo.png" alt="Microsoft Access" title="Microsoft Access" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924082/microsoft-access_eazsl7.png" alt="Microsoft Access" title="Microsoft Access" />
             </td>
           </tr>
           <tr>
@@ -1077,7 +1093,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924088/redis_fva08u.svg" alt="Redis" title="Redis" />
             </td>
           </tr>
           <tr>
@@ -1093,7 +1109,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924082/microsoft-sql-server_c4pbpl.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
             </td>
           </tr>
           <tr>
@@ -1109,7 +1125,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" title="JSON" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/json_ibbmdn.png" alt="JSON" title="JSON" />
             </td>
           </tr>
           <tr>
@@ -1127,7 +1143,23 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png" alt="YAML" title="YAML" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631990877/svg_njzxg6.svg" alt="SVG" title="SVG" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                SVG
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924098/yaml_zyyko8.svg" alt="YAML" title="YAML" />
             </td>
           </tr>
           <tr>
@@ -1145,7 +1177,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/toml-lang/toml/master/logos/toml-200.png" alt="TOML" title="TOML" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924093/toml_h3tqfu.svg" alt="TOML" title="TOML" />
             </td>
           </tr>
           <tr>
@@ -1163,7 +1195,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/rss/rss.png" alt="RSS" title="RSS" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924089/rss_abcqvp.png" alt="RSS" title="RSS" />
             </td>
           </tr>
           <tr>
@@ -1187,7 +1219,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924088/react_pqgyu0.svg" alt="React" title="React" />
             </td>
           </tr>
           <tr>
@@ -1205,7 +1237,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/flask_zn8efw.svg" alt="Flask" title="Flask" />
             </td>
           </tr>
           <tr>
@@ -1223,7 +1255,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924097/vue_xjttex.svg" alt="Vue.js" title="Vue.js" />
             </td>
           </tr>
           <tr>
@@ -1241,7 +1273,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" title="Django" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924066/django_yy2oau.svg" alt="Django" title="Django" />
             </td>
           </tr>
           <tr>
@@ -1257,7 +1289,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://svelte.dev/favicon.png" alt="Svelte" title="Svelte" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/svelte_mr9mx2.png" alt="Svelte" title="Svelte" />
             </td>
           </tr>
           <tr>
@@ -1273,7 +1305,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924084/next_rjhj0h.svg" alt="Next.js" title="Next.js" />
             </td>
           </tr>
           <tr>
@@ -1289,7 +1321,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="Meteor" title="Meteor" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924082/meteor_jkwzxf.svg" alt="Meteor" title="Meteor" />
             </td>
           </tr>
           <tr>
@@ -1307,7 +1339,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" title="Express" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/express_kfvl25.svg" alt="Express" title="Express" />
             </td>
           </tr>
           <tr>
@@ -1325,7 +1357,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" title="Laravel" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924079/laravel_trcdou.png" alt="Laravel" title="Laravel" />
             </td>
           </tr>
           <tr>
@@ -1341,7 +1373,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/fastify/fastify.png" alt="Fastify" title="Fastify" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/fastify_g4kef3.png" alt="Fastify" title="Fastify" />
             </td>
           </tr>
           <tr>
@@ -1363,7 +1395,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/pwa/pwa.png" alt="Progressive Web App" title="Progressive Web App" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924087/pwa_hjdeic.png" alt="Progressive Web App" title="Progressive Web App" />
             </td>
           </tr>
           <tr>
@@ -1379,7 +1411,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/docker_vt2rmk.svg" alt="Docker" title="Docker" />
             </td>
           </tr>
           <tr>
@@ -1397,7 +1429,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" title="Electron" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/electron_ewwuqp.svg" alt="Electron" title="Electron" />
             </td>
           </tr>
           <tr>
@@ -1413,7 +1445,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android" title="Android" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924059/android_vavxq5.svg" alt="Android" title="Android" />
             </td>
           </tr>
           <tr>
@@ -1431,7 +1463,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://alpinelinux.org/alpine-logo.ico" alt="Alpine" title="Alpine" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631923870/alpine_b4biat.svg" alt="Alpine" title="Alpine" />
             </td>
           </tr>
           <tr>
@@ -1447,7 +1479,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="CLI" title="CLI" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/cli_c4ngbl.png" alt="CLI" title="CLI" />
             </td>
           </tr>
           <tr>
@@ -1465,7 +1497,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" alt="Qt" title="Qt" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924087/qt_brghi8.svg" alt="Qt" title="Qt" />
             </td>
           </tr>
           <tr>
@@ -1483,7 +1515,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://github.com/github/explore/blob/main/topics/vagrant/vagrant.png" alt="Vagrant" title="Vagrant" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924095/vagrant_cbrwtv.svg" alt="Vagrant" title="Vagrant" />
             </td>
           </tr>
           <tr>
@@ -1499,7 +1531,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" title="Chrome" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/chrome_iril3f.svg" alt="Chrome" title="Chrome" />
             </td>
           </tr>
           <tr>
@@ -1515,7 +1547,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-svg-vector.svg" alt="Minecraft" title="Minecraft" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/minecraft_ycozi3.svg" alt="Minecraft" title="Minecraft" />
             </td>
           </tr>
           <tr>
@@ -1531,7 +1563,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox" title="Firefox" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/firefox_hp9t5c.svg" alt="Firefox" title="Firefox" />
             </td>
           </tr>
           <tr>
@@ -1547,7 +1579,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/kivy/kivy.png" alt="Kivy" title="Kivy" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924079/kivy_wac88f.png" alt="Kivy" title="Kivy" />
             </td>
           </tr>
           <tr>
@@ -1563,7 +1595,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.tcl.tk/images/logoLarge.gif" alt="Tk" title="Tk" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924093/tk_kjmqy3.gif" alt="Tk" title="Tk" />
             </td>
           </tr>
           <tr>
@@ -1581,7 +1613,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924079/kubernetes_wycvkg.svg" alt="Kubernetes" title="Kubernetes" />
             </td>
           </tr>
           <tr>
@@ -1597,7 +1629,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924069/flutter_eabsax.svg" alt="Flutter" title="Flutter" />
             </td>
           </tr>
           <tr>
@@ -1613,7 +1645,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/linux_emsnk6.svg" alt="Linux" title="Linux" />
             </td>
           </tr>
           <tr>
@@ -1635,7 +1667,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="Cypress.io" title="Cypress.io" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924065/cypress-io_ahkqds.png" alt="Cypress.io" title="Cypress.io" />
             </td>
           </tr>
           <tr>
@@ -1651,7 +1683,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924098/webpack_bwvvjt.svg" alt="Webpack" title="Webpack" />
             </td>
           </tr>
           <tr>
@@ -1669,7 +1701,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" alt="Nginx" title="Nginx" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/nginx_b4jnrn.png" alt="Nginx" title="Nginx" />
             </td>
           </tr>
           <tr>
@@ -1685,7 +1717,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" title="Babel" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/babel_qfhwys.svg" alt="Babel" title="Babel" />
             </td>
           </tr>
           <tr>
@@ -1703,7 +1735,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924098/yarn_s1hboh.svg" alt="Yarn" title="Yarn" />
             </td>
           </tr>
           <tr>
@@ -1721,7 +1753,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" alt="GitHub Actions" title="GitHub Actions" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924071/github-actions_nnsjgq.svg" alt="GitHub Actions" title="GitHub Actions" />
             </td>
           </tr>
           <tr>
@@ -1739,7 +1771,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="Ansible" title="Ansible" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924059/ansible_hbyyaj.png" alt="Ansible" title="Ansible" />
             </td>
           </tr>
           <tr>
@@ -1755,7 +1787,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://i.imgur.com/tN9Ctch.png" alt="Chef" title="Chef" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924063/chef_vbdbne.png" alt="Chef" title="Chef" />
             </td>
           </tr>
           <tr>
@@ -1771,7 +1803,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" title="Mocha" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/mocha_jltuho.svg" alt="Mocha" title="Mocha" />
             </td>
           </tr>
           <tr>
@@ -1787,7 +1819,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png" alt="ESLint" title="ESLint" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/eslint_c8yelu.png" alt="ESLint" title="ESLint" />
             </td>
           </tr>
           <tr>
@@ -1805,7 +1837,39 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" title="Gulp" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631989452/pylint_ztts4v.svg" alt="Pylint" title="Pylint" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Pylint
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631938915/prettier_latphh.png" alt="Prettier" title="Prettier" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Prettier
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924073/gulp_x8nu1n.svg" alt="Gulp" title="Gulp" />
             </td>
           </tr>
           <tr>
@@ -1821,7 +1885,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/npm_dbgzbp.svg" alt="NPM" title="NPM" />
             </td>
           </tr>
           <tr>
@@ -1839,7 +1903,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" title="Apache" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/apache_gyhbqc.svg" alt="Apache" title="Apache" />
             </td>
           </tr>
           <tr>
@@ -1855,7 +1919,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924096/vite_bpwxvg.svg" alt="Vite" title="Vite" />
             </td>
           </tr>
           <tr>
@@ -1873,7 +1937,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="Jasmine" title="Jasmine" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924075/jasmine_odxnjr.svg" alt="Jasmine" title="Jasmine" />
             </td>
           </tr>
           <tr>
@@ -1889,7 +1953,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" alt="Playwright" title="Playwright" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/playwright_cyfhqu.png" alt="Playwright" title="Playwright" />
             </td>
           </tr>
           <tr>
@@ -1905,7 +1969,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" title="Jest" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924077/jest_rgsclc.svg" alt="Jest" title="Jest" />
             </td>
           </tr>
           <tr>
@@ -1923,7 +1987,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://developers.google.com/web/tools/images/puppeteer.png" alt="Puppeteer" title="Puppeteer" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/puppeteer_kpehbi.png" alt="Puppeteer" title="Puppeteer" />
             </td>
           </tr>
           <tr>
@@ -1939,7 +2003,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="Gunicorn" title="Gunicorn" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924074/gunicorn_udsa1e.svg" alt="Gunicorn" title="Gunicorn" />
             </td>
           </tr>
           <tr>
@@ -1955,7 +2019,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" alt="Karma" title="Karma" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/karma_rfmnky.svg" alt="Karma" title="Karma" />
             </td>
           </tr>
           <tr>
@@ -1971,7 +2035,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.selenium.dev/images/selenium_logo_square_red.png" alt="Selenium" title="Selenium" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/selenium_ezaoxd.svg" alt="Selenium" title="Selenium" />
             </td>
           </tr>
           <tr>
@@ -1987,7 +2051,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="uWSGI" title="uWSGI" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924095/u-wsgi_namwpw.svg" alt="uWSGI" title="uWSGI" />
             </td>
           </tr>
           <tr>
@@ -2003,7 +2067,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="Circle CI" title="Circle CI" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/circle-ci_x9b3lt.svg" alt="Circle CI" title="Circle CI" />
             </td>
           </tr>
           <tr>
@@ -2021,7 +2085,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" title="Gradle" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924073/gradle_e3rimy.svg" alt="Gradle" title="Gradle" />
             </td>
           </tr>
           <tr>
@@ -2030,6 +2094,102 @@
                 <a href="https://github.com/search?q=user%3ARascalTwo+Gradle">
                   Gradle
                 </a>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631938774/nodemon_ity4tz.svg" alt="Nodemon" title="Nodemon" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Nodemon
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631939502/pytest_tcrhmt.png" alt="PyTest" title="PyTest" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                PyTest
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631993437/tox_dvnfv5.png" alt="tox" title="tox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                tox
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631991854/coverage-py_tvunu8.png" alt="coverage.py" title="coverage.py" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                coverage.py
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631987888/mypy_ve3zgu.svg" alt="MyPy" title="MyPy" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                MyPy
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631987892/poetry_bujxnx.svg" alt="Poetry" title="Poetry" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Poetry
               </p>
             </td>
           </tr>
@@ -2045,7 +2205,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png" alt="Socket.IO" title="Socket.IO" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924091/socket-io_dh2fbo.png" alt="Socket.IO" title="Socket.IO" />
             </td>
           </tr>
           <tr>
@@ -2061,7 +2221,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" title="D3.js" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924065/d3_zykpea.svg" alt="D3.js" title="D3.js" />
             </td>
           </tr>
           <tr>
@@ -2077,7 +2237,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" title="Pandas" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/pandas_fcz2te.svg" alt="Pandas" title="Pandas" />
             </td>
           </tr>
           <tr>
@@ -2093,7 +2253,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924081/material-ui_israzn.svg" alt="Material UI" title="Material UI" />
             </td>
           </tr>
           <tr>
@@ -2111,7 +2271,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" alt="Mongoose" title="Mongoose" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/mongoose_pyirwl.png" alt="Mongoose" title="Mongoose" />
             </td>
           </tr>
           <tr>
@@ -2127,7 +2287,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png" alt="Storybook" title="Storybook" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/storybook_r8vzpn.png" alt="Storybook" title="Storybook" />
             </td>
           </tr>
           <tr>
@@ -2143,7 +2303,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/sequelize_wvbsbj.svg" alt="Sequelize" title="Sequelize" />
             </td>
           </tr>
           <tr>
@@ -2161,7 +2321,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924089/redux_e7ckuj.svg" alt="Redux" title="Redux" />
             </td>
           </tr>
           <tr>
@@ -2177,7 +2337,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" title="Matplotlib" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924081/matplotlib_uak8vw.svg" alt="Matplotlib" title="Matplotlib" />
             </td>
           </tr>
           <tr>
@@ -2193,7 +2353,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://kaboomjs.com/pub/img/kaboom.png" alt="Kaboom.js" title="Kaboom.js" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/kaboom_edhzg4.png" alt="Kaboom.js" title="Kaboom.js" />
             </td>
           </tr>
           <tr>
@@ -2209,7 +2369,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/jquery_tfpn2e.svg" alt="jQuery" title="jQuery" />
             </td>
           </tr>
           <tr>
@@ -2227,7 +2387,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/tailwind_tazohl.svg" alt="Tailwind CSS" title="Tailwind CSS" />
             </td>
           </tr>
           <tr>
@@ -2243,7 +2403,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/tensorflow_pcqi9u.svg" alt="TensorFlow" title="TensorFlow" />
             </td>
           </tr>
           <tr>
@@ -2259,7 +2419,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" title="Bootstrap" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924062/bootstrap_xry6nl.svg" alt="Bootstrap" title="Bootstrap" />
             </td>
           </tr>
           <tr>
@@ -2275,7 +2435,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" title="Bulma" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924062/bulma_r1vook.svg" alt="Bulma" title="Bulma" />
             </td>
           </tr>
           <tr>
@@ -2291,7 +2451,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="OpenCV" title="OpenCV" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/opencv_czifcp.svg" alt="OpenCV" title="OpenCV" />
             </td>
           </tr>
           <tr>
@@ -2307,7 +2467,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy" title="NumPy" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924085/numpy_s7yzrh.png" alt="NumPy" title="NumPy" />
             </td>
           </tr>
           <tr>
@@ -2323,13 +2483,29 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924073/graphql_gl5lhc.svg" alt="GraphQL" title="GraphQL" />
             </td>
           </tr>
           <tr>
             <td>
               <p align="center">
                 GraphQL
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631991884/discord-py_rpkdvy.ico" alt="discord.py" title="discord.py" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                discord.py
               </p>
             </td>
           </tr>
@@ -2345,7 +2521,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="git" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924070/git_hb1byl.svg" alt="git" title="git" />
             </td>
           </tr>
           <tr>
@@ -2361,7 +2537,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924096/vscode_bggdkq.svg" alt="VSCode" title="VSCode" />
             </td>
           </tr>
           <tr>
@@ -2377,23 +2553,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="SSH" title="SSH" />
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <p align="center">
-                SSH
-              </p>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="Gimp" title="Gimp" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924069/gimp_f1g6f1.svg" alt="Gimp" title="Gimp" />
             </td>
           </tr>
           <tr>
@@ -2409,7 +2569,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924094/ubuntu_xicbhp.svg" alt="Ubuntu" title="Ubuntu" />
             </td>
           </tr>
           <tr>
@@ -2425,7 +2585,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" title="Debian" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924066/debian_tkrqvu.svg" alt="Debian" title="Debian" />
             </td>
           </tr>
           <tr>
@@ -2441,7 +2601,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" title="Vim" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924096/vim_olvye9.svg" alt="Vim" title="Vim" />
             </td>
           </tr>
           <tr>
@@ -2457,7 +2617,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Suite" title="Google Suite" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924073/google-suite_akxcga.svg" alt="Google Suite" title="Google Suite" />
             </td>
           </tr>
           <tr>
@@ -2473,7 +2633,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924088/raspberry-pi_dp2z5k.svg" alt="Raspberry Pi" title="Raspberry Pi" />
             </td>
           </tr>
           <tr>
@@ -2489,7 +2649,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1280px-Blender_logo_no_text.svg.png" alt="Blender" title="Blender" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924062/blender_mreqms.png" alt="Blender" title="Blender" />
             </td>
           </tr>
           <tr>
@@ -2505,7 +2665,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924075/inkscape_unwayo.svg" alt="Inkscape" title="Inkscape" />
             </td>
           </tr>
           <tr>
@@ -2521,7 +2681,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Atom" title="Atom" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/atom_wgfbl4.svg" alt="Atom" title="Atom" />
             </td>
           </tr>
           <tr>
@@ -2537,7 +2697,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924087/pycharm_dyxmqc.svg" alt="PyCharm" title="PyCharm" />
             </td>
           </tr>
           <tr>
@@ -2553,7 +2713,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" title="Godot" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924071/godot_qbvrhx.svg" alt="Godot" title="Godot" />
             </td>
           </tr>
           <tr>
@@ -2569,7 +2729,7 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" title="Visual Studio" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924096/visual-studio_e84cs2.svg" alt="Visual Studio" title="Visual Studio" />
             </td>
           </tr>
           <tr>
@@ -2585,13 +2745,83 @@
         <table>
           <tr>
             <td>
-              <img height="100px" src="https://www.sublimetext.com/images/logo.svg" alt="Sublime Text" title="Sublime Text" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/sublime-text_umugyx.svg" alt="Sublime Text" title="Sublime Text" />
             </td>
           </tr>
           <tr>
             <td>
               <p align="center">
                 Sublime Text
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr><td>Protocols</td></tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631937596/web-worker_sgy1cm.png" alt="Web Worker" title="Web Worker" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Web Worker
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924091/ssh_borz5v.svg" alt="SSH" title="SSH" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                SSH
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631938289/websocket_dnwt9b.svg" alt="WebSocket" title="WebSocket" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                WebSocket
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631938643/rest_e5g282.png" alt="REST" title="REST" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                REST
               </p>
             </td>
           </tr>
