@@ -26,9 +26,10 @@ def generate_technologies(input_filepath: str):
 	for category, technologies in data.items():
 		section = f'<table>\n  <tr><td>{category}</td></tr>\n  <tr>'
 		for technology in technologies.values():
-			image, name, query = technology['image'], technology['name'], technology.get('query', None)
+			image, name, query, background = technology['image'], technology['name'], technology.get('query', None), technology.get('background', 'dark')
 
-			section += '\n    <td>\n      <table>\n        <tr>\n          <td>\n            '
+			td_styles = '' if background == 'dark' else ' class="color-bg-tertiary"'
+			section += f'\n    <td>\n      <table>\n        <tr>\n          <td{td_styles}>\n            '
 			section += f'<img height="100px" src="{image}" alt="{name}" title="{name}" />'
 			section += '\n          </td>\n        </tr>\n        <tr>\n          <td>\n            <p align="center">\n              '
 

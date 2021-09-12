@@ -198,7 +198,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/codepen_vvkzrf.svg" alt="CodePen" title="CodePen" />
             </td>
           </tr>
@@ -230,7 +230,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924070/github_ilqm1g.svg" alt="GitHub" title="GitHub" />
             </td>
           </tr>
@@ -534,7 +534,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631990546/brython_s6cmaw.svg" alt="Brython" title="Brython" />
             </td>
           </tr>
@@ -550,7 +550,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/java_un8ru7.svg" alt="Java" title="Java" />
             </td>
           </tr>
@@ -584,7 +584,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924090/rust_d9gbov.png" alt="Rust" title="Rust" />
             </td>
           </tr>
@@ -688,7 +688,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bash_pab85f.svg" alt="Bash" title="Bash" />
             </td>
           </tr>
@@ -852,7 +852,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/lua_neosme.svg" alt="Lua" title="Lua" />
             </td>
           </tr>
@@ -904,7 +904,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924081/markdown_ikgbxz.svg" alt="Markdown" title="Markdown" />
             </td>
           </tr>
@@ -938,7 +938,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924074/handlebars_mukyok.svg" alt="Handlebars" title="Handlebars" />
             </td>
           </tr>
@@ -970,7 +970,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/jinga-2_lgvnrn.png" alt="Jinga 2" title="Jinga 2" />
             </td>
           </tr>
@@ -1010,7 +1010,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924083/mysql_al7l8s.svg" alt="MySQL" title="MySQL" />
             </td>
           </tr>
@@ -1108,7 +1108,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924082/microsoft-sql-server_c4pbpl.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
             </td>
           </tr>
@@ -1158,7 +1158,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924098/yaml_zyyko8.svg" alt="YAML" title="YAML" />
             </td>
           </tr>
@@ -1176,7 +1176,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924093/toml_h3tqfu.svg" alt="TOML" title="TOML" />
             </td>
           </tr>
@@ -1236,7 +1236,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/flask_zn8efw.svg" alt="Flask" title="Flask" />
             </td>
           </tr>
@@ -1304,7 +1304,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924084/next_rjhj0h.svg" alt="Next.js" title="Next.js" />
             </td>
           </tr>
@@ -1338,7 +1338,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924067/express_kfvl25.svg" alt="Express" title="Express" />
             </td>
           </tr>
@@ -1372,7 +1372,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924068/fastify_g4kef3.png" alt="Fastify" title="Fastify" />
             </td>
           </tr>
@@ -1394,7 +1394,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924087/pwa_hjdeic.png" alt="Progressive Web App" title="Progressive Web App" />
             </td>
           </tr>
@@ -1770,7 +1770,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924059/ansible_hbyyaj.png" alt="Ansible" title="Ansible" />
             </td>
           </tr>
@@ -2050,7 +2050,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924095/u-wsgi_namwpw.svg" alt="uWSGI" title="uWSGI" />
             </td>
           </tr>
@@ -2066,7 +2066,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/circle-ci_x9b3lt.svg" alt="Circle CI" title="Circle CI" />
             </td>
           </tr>
@@ -2084,7 +2084,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924073/gradle_e3rimy.svg" alt="Gradle" title="Gradle" />
             </td>
           </tr>
@@ -2134,7 +2134,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631993437/tox_dvnfv5.png" alt="tox" title="tox" />
             </td>
           </tr>
@@ -2236,7 +2236,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/pandas_fcz2te.svg" alt="Pandas" title="Pandas" />
             </td>
           </tr>
@@ -2766,7 +2766,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631937596/web-worker_sgy1cm.png" alt="Web Worker" title="Web Worker" />
             </td>
           </tr>
@@ -2782,7 +2782,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924091/ssh_borz5v.svg" alt="SSH" title="SSH" />
             </td>
           </tr>
@@ -2798,7 +2798,7 @@
       <td>
         <table>
           <tr>
-            <td>
+            <td class="color-bg-tertiary">
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631938289/websocket_dnwt9b.svg" alt="WebSocket" title="WebSocket" />
             </td>
           </tr>
