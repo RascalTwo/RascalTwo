@@ -270,3 +270,11 @@ wedidit-reddit-bot:
   text:
     title: Reddit WeDidIt Bot
     content: Responds to variable comments with responses
+dynabook-driver-downloader:
+  source:
+    gist: d83eac06da6ec85c4095f146cab55a2e
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/135499436-b69c95da-ba52-4dad-ae75-0624d2d18381.jpg "Table showing recommended drivers selected for download"
+    href: https://user-images.githubusercontent.com/9403665/134781311-fdd89f3f-083d-457e-90ad-3b0f3637e62b.mp4
+  text:
+    title: Dynabook Driver Downloader
