@@ -344,6 +344,9 @@ Platforms:
   linux:
     name: Linux
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/linux_emsnk6.svg
+  greasemonkey:
+    name: Greasemonkey
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633022193/greasemonkey_zpixwd.svg
 Equipment:
   cypress-io:
     name: Cypress.io
