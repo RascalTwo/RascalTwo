@@ -1,24 +1,33 @@
+import os
+import sys
+
 import yaml
 
 from shared import GITHUB_USERNAME
 
-from typing import Dict, Iterable, List, Optional, Tuple, TypedDict
+from typing import Dict, Iterable, List, Optional, TypedDict
 
-ProjectText = TypedDict('ProjecText', { 'header': str, 'content': str })
+ProjectText = TypedDict('ProjectText', { 'header': str, 'title': str, 'content': str, 'alt': str, 'description': Optional[str] })
 ProjectURLs = TypedDict('ProjectURLs', { 'source': str })
-ProjectSource = TypedDict('ProjectURLs', { 'repo': Optional[str], 'gist': Optional[str], 'url': Optional[str] })
-Project = TypedDict('Project', { 'slug': str, 'definitions': List[str], 'source': ProjectSource, 'urls': ProjectURLs, 'text': ProjectText })
+ProjectSource = TypedDict('ProjectURLs', { 'repo': Optional[str], 'gist': Optional[str] })
+Project = TypedDict('Project', { 'slug': str, 'definitions': List[str], 'source': Optional[ProjectSource], 'urls': ProjectURLs, 'text': ProjectText })
 
 
 ProjectsIterable = Iterable[Project]
 
 IMAGE_LINKABLE = ['href', 'video']
 
+URL_ORDER = ['live', 'source', 'video', 'image']
+
 
 SOURCE_PREFIXES = {
 	'repo': 'https://github.com/' + GITHUB_USERNAME + '/',
 	'gist': 'https://gist.github.com/' + GITHUB_USERNAME + '/'
 }
+
+
+def get_project_page_path(slug: str):
+	return os.path.join('docs', 'projects', slug + '.md')
 
 
 def load_projects(input_filepath: str) -> ProjectsIterable:
@@ -29,8 +38,8 @@ def load_projects(input_filepath: str) -> ProjectsIterable:
 	for slug, project in raw_projects.items():
 		project['slug'] = slug
 
-		if 'source' not in project.setdefault('urls', {}):
-			source_type, source = list(project['source'].items())[0]
+		if 'source' not in project.setdefault('urls', {}) and 'source' in project:
+			source_type, source = list(project['source'].items())[0]  # type: ignore
 			project.setdefault('urls', {})['source'] = SOURCE_PREFIXES.get(source_type, '') + source  # type: ignore
 
 
@@ -43,7 +52,7 @@ def load_projects(input_filepath: str) -> ProjectsIterable:
 
 
 		if title := project['text'].get('title', None):
-			project['text']['header'] = f'[{title}][{references["source"]}]'
+			project['text']['header'] = f'[{title}]({get_project_page_path(slug)}) <sup>[&#x1F5D7;][{references["source"]}]</sup>'
 
 
 		if 'image' in project['urls']:
@@ -62,5 +71,10 @@ def load_projects(input_filepath: str) -> ProjectsIterable:
 			project['text']['content'] = markdown
 		if 'content' not in project['text']:
 			project['text']['content'] = project['text']['alt']
+
+		project['urls'] = dict(sorted(  # type: ignore
+			project['urls'].items(),
+			key = lambda pair: URL_ORDER.index(pair[0]) if pair[0] in URL_ORDER else sys.maxsize
+		))
 
 		yield project

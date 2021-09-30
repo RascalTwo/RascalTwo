@@ -6,9 +6,40 @@ import sys
 import yaml
 
 from shared import insert_template
-from projects import Project, load_projects
+from projects import Project, load_projects, get_project_page_path
 
 from typing import Dict, List
+
+
+def generate_project_page(project: Project):
+	"""Generate markdown page for project."""
+	markdown = '\n'.join(project['definitions']) + '\n\n'
+	markdown += '# ' + project['text']['title'] + '\n\n'
+
+
+	# Table of URLs
+	headers: List[str] = []
+	for key in project['urls'].keys():
+		headers.append(f'[{key.capitalize().replace("_", " ")}][{project["slug"]} {key}]')
+	markdown += '| ' + ' | '.join(headers) + ' |\n'
+	markdown += '| ' + ' | '.join('-' for _ in range(len(headers))) + ' |\n\n'
+
+	has_image = 'image' in project['urls']
+
+	# Use description if available, fallback to alt text if not used by image
+	if desc := project['text'].get('description', project['text']['alt'] if not has_image else None):
+		markdown += desc + '\n\n'
+
+
+	# Media - video or image
+	if video_url := project['urls'].get('video', None):
+		markdown += video_url
+	elif has_image:
+		markdown += f'![{project["text"]["alt"]}][{project["slug"]} image]'
+
+
+	with open(get_project_page_path(project['slug']), 'w') as markdown_file:
+		markdown_file.write(markdown.strip() + '\n')
 
 
 def generate_projects(input_filepath: str, projects: Dict[str, Project]):
@@ -46,11 +77,17 @@ def generate_projects(input_filepath: str, projects: Dict[str, Project]):
 
 
 if __name__ == '__main__':
+	projects = list(load_projects('./data/projects.yaml'))
+
 	html = generate_projects(
 		'./data/project_categories.yaml',
 		dict(
 			(project['slug'], project)
-			for project in load_projects('./data/projects.yaml')
+			for project in projects
 		)
 	)
 	insert_template('PROJECTS', html)
+
+
+	for project in projects:
+		generate_project_page(project)
