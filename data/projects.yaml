@@ -2,181 +2,219 @@ netgear-wgr614v9-monitor:
   source:
     repo: NETGEAR-WGR614v9-Monitor
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg "dashboard showing graph of network trafic with table below"
-    href: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
+    image: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg
+    video: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
   text:
-    title: NETGEAR WGR614v9<bt/>Network Monitor
+    title: NETGEAR WGR614v9
+      Network Monitor
+    alt: Dashboard showing graph of network traffic with statistics table below
+    description: Scrapes network data from the router, then displays said data and generating a graph
 vonage-chroma-key-video:
-  source:
-    repo: build-a-thing-video/tree/feature/greenscreen-background-image
   urls:
-    image: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif "customizing allowing chroma-keying background on live href with little latency"
-    href: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
+    source: https://github.com/nexmo-community/build-a-thing-video/pull/13
+    image: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif
+    video: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
   text:
     title: Vonage Chroma-Key Video
+    alt: Customizable chroma-keying of a background on live video with little latency
+    description: Allows users to chroma-key-replace their background with an image they provide
 replit-code-challenges:
   source:
     repo: Repl.itJam10
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg "submitted code showing failed test"
-    href: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
+    image: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg
+    video: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
   text:
     title: Repl.it Code Challenges
+    alt: Submitted code showing failed test
+    description: User-submited and solvable Python coding challenges
 todo-fullstack:
   source:
     repo: Todo-Fullstack
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg "empty todo list with field to add new entries"
-    href: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
+    image: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg
+    video: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
   text:
     title: Todo Fullstack
+    alt: Empty todo list with field to add new entries
+    description: Enterprise Todo list editor with realtime collaboration and offline support
 camp-kid-tracker:
   source:
     repo: CampKidTracker
   urls:
-    image: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg "two students being listed in tracker"
-    href: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
+    image: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg
+    video: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
   text:
     title: Camp Kid Tracker
+    alt: Two students being listed in tracker
+    description: Easily track the status of kids attending your camp, with built-in auditing
 password-generator:
   source:
     repo: PythonBuddiesPasswordGenerator
   urls:
-    image: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg "YouTube thumbnail"
-    href: https://www.youtube.com/watch?v=1wepX5_ptTA
+    image: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
+    video: https://www.youtube.com/watch?v=1wepX5_ptTA
   text:
     title: Tkinter Password Generator
+    alt: YouTube thumbnail
+    description: Customizable and themable Password generator
 javascript-calculator:
-  source:
-    url: https://codepen.io/Rascal_Two/pen/RMMEXp
   urls:
-    image: https://i.imgur.com/qxwLglx.png "calculator with 1337 in text field"
+    source: https://codepen.io/Rascal_Two/pen/RMMEXp
+    image: https://i.imgur.com/qxwLglx.png
   text:
     title: JavaScript Calculator
+    alt: calculator with 1337 in text field
+    description: Standard calculator
 convex-hull-overlay:
   source:
     gist: 72443978d4f8f4464197e34838b112cd
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg "convex hull overlay around points in radius of center"
-    href: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
+    image: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg
+    video: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
   text:
     title: Convex Hull Overlay
+    alt: convex hull overlay around points in radius of center
+    description: Create a highlighted convex-hull around the selected points
 flappy-bird:
   source:
     repo: FlappyBird
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg "flappy bird flying between pipes with a score of 4 and high score of 6"
-    href: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
+    image: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg
+    video: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
   text:
     title: Flappy Bird
+    alt: Flappy bird flying between pipes with a score of 4 and high score of 6
+    description: Flappy Bird with randomized assets, high-score tracking, ghosts, and savable replays
 cross-platform-hangman:
   source:
     repo: PythonHangman
   urls:
-    image: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif "GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'"
+    image: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif
   text:
     title: Python Cross-Platform Hangman
+    alt: GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'
+    description: "Hangman with three interfaces sharing a single codebase: CLI, Tk, and Discord"
 rail-snake:
   source:
     repo: RailSnake
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg "rail snake turning around after picking up food in top right corner"
-    href: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
+    image: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg
+    video: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
   text:
     title: Rail Snake
+    alt: rail snake turning around after picking up food in top right corner
+    description: A Minetrack-themed game of snake
 brython-hangman:
   source:
     gist: 4161f2c1672b3e04d28cc934651eb95f
   urls:
-    image: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif "correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'"
+    image: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif
   text:
     title: Brython Hangman
+    alt: correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'
+    description: Identical hangman-themed game written in both JavaScript and Brython
 calculator-chaos:
   source:
     repo: Calculator-Chaos
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png "Nearly-perfect recreation of the flash game 'Calculator Chaos'"
-    href: https://rascaltwo.github.io/Calculator-Chaos/
+    image: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png
+    live: https://rascaltwo.github.io/Calculator-Chaos/
   text:
     title: Calculator Chaos
+    alt: Nearly-perfect recreation of the flash game 'Calculator Chaos'
+    description: Recreation of the flash game Calculator Chaos
 minesweeper-cli:
   source:
     gist: dbc362ccf8b2497f4d04a37df83575a9
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg "Minesweeper board half cleared of bombs"
-    href: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
+    image: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg
+    video: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
   text:
     title: Minesweeper CLI
+    alt: Minesweeper board half cleared of bombs
+    description: Playable Minesweeper game, with flags and everything
 number-memory:
   source:
     repo: Number-Memory-Game
   urls:
-    image: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png "four pairs of numbers matched with 8 pairs remaining"
-    href: https://rascaltwo.github.io/Number-Memory-Game/
+    image: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png
+    live: https://rascaltwo.github.io/Number-Memory-Game/
   text:
     title: Number Memory
+    alt: four pairs of numbers matched with 8 pairs remaining
+    description: Number-matching memory game with persistent high-scores
 morse-knight:
   source:
     repo: OneButtonMorseKnightPrototype
   urls:
-    image: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg "'Attack' menu action being selected"
-    href: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
+    image: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg
+    video: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
   text:
     title: Morse Knight
+    alt: Attack menu action being selected
+    description: One-button game in which successfully sending morse messages performs actions
 python-testing-bug-hunt:
   source:
     gist: 7fddf33011563a3f75045c3367541f30
   text:
     title: Python Testing Bug-Hunt
-    content: Python bug scavenger hunt
+    alt: Python bug scavenger hunt
 aoc:
   source:
     repo: AdventOfCode
   text:
     title: Advent of Code
-    content: My Advent of Code solutions
+    alt: My Advent of Code solutions
 hata-discord:
   source:
     repo: hata-code-jam/tree/rascaltwo/team-maple
   text:
     title: Hata Discord
-    content: Multiplayer Games
+    alt: Multiplayer Games
+    description: Multi-client bot proving multiple games and more
 pybuddies-discord:
   source:
     repo: PythonBuddiesBot
   text:
     title: PyBuddies Discord
-    content: Collaborative multi-feature Discord
+    alt: Collaborative multi-feature Discord
+    description: A collaborative multi-feature Discord bot, with games, scrapers, and more!
 reddit-rotten-tomatoes:
   source:
     repo: RedditRottenTomatoesBot
   text:
     title: Reddit RottenTomatoes
-    content: Post the Top Movies of the week
+    alt: Post the Top Movies of the week
+    description: Post all movies that enter the Top Box office on RottenTomatoes to subreddits
 reddit-googlealert-rss:
   source:
     repo: RedditGoogleAlertRSSPoster
   text:
     title: Reddit GoogleAlert RSS
-    content: Mirror items from GoogleAlert RSS as posts to Subreddit
+    alt: Mirror items from GoogleAlert RSS as posts to Subreddit
+    description: Submit links from a Google Alert RSS feed to subreddits
 reddit-pokemon-giveaway-flairer:
   source:
     repo: RedditPokemonGiveawayGalore
   text:
     title: Reddit PokemonGiveaway Flairer
-    content: Allow users to set their floairs via private message
+    alt: Allow users to set their floairs via private message
+    description: Provides custom commands via direct message allowig users to customize their flair accordingly
 reddit-auto-flairer:
   source:
     repo: RedditDevResponseFlairer
   text:
     title: Reddit Auto Flairer
-    content: Automatically flair comments of certain accounts
+    alt: Automatically flair comments of certain accounts
+    description: Automatically flair posts/comments with a suffix whenever customizable events occur
 reddit-soccer-standings-sync:
   source:
     repo: RedditSoccerStandingsSidebarSync
   text:
     title: Reddit Soccer Standings Sync
-    content: Sync standings table in sidebar of subreddit with website
+    alt: Sync standings table in sidebar of subreddit with website
+    description: Keep tables in subreddit sidebars synced with the actual soccar standings
 dropbox-orb:
   source:
     repo: dropbox-orb
@@ -185,7 +223,8 @@ dropbox-orb:
     dropbox_http_api: https://www.dropbox.com/developers/documentation/http/documentation
   text:
     title: Dropbox CircleCI Orb
-    content: "[Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]"
+    alt: "[Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]"
+    description: Allow developers to perform Dropbox actions in their workflows
 reddit-orb:
   source:
     repo: reddit-orb
@@ -194,87 +233,94 @@ reddit-orb:
     reddit_http_api: https://www.reddit.com/dev/api/
   text:
     title: Reddit CircleCI Orb
-    content: "[Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]"
-business-review:
-  source:
-    repo: Business-Review
-  text:
-    title: Business Review
-    content: A site to review businesses, backend is fully completed
+    alt: "[Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]"
+    description: Allow developers to perform Reddit actions in their workflows
 bible-trivia:
   source:
     repo: BibleTrivia
   urls:
-    image: https://user-images.githubusercontent.com/9403665/129602672-6cbd3b89-6ff0-408e-8bd2-a5fbe39e43b2.png "gameplay with two failed guesses, two correct guesses, and one life remainining"
-    href: https://user-images.githubusercontent.com/9403665/129601925-3d74cc16-5327-45b3-8973-fc67ef2f72cb.mp4
+    image: https://user-images.githubusercontent.com/9403665/129602672-6cbd3b89-6ff0-408e-8bd2-a5fbe39e43b2.png
+    video: https://user-images.githubusercontent.com/9403665/129601925-3d74cc16-5327-45b3-8973-fc67ef2f72cb.mp4
   text:
     title: Bible Trivia
+    alt: gameplay with two failed guesses, two correct guesses, and one life remainining
+    description: Trivia game based on where exactly verses in the Bible are at
 subnet-scanner:
   source:
     repo: RubySubnetScanner
   text:
     title: Subnet Scanner
-    content: Scan a given network for active IP addresses
+    alt: Scan a given network for active IP addresses
 socket-size-grapher:
   source:
     repo: SocketSizeGrapher
   urls:
-    image: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png "graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers"
+    image: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png
   text:
     title: Socket Size Grapher
+    alt: graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers
+    description: Take a CSV of socket sizes and generate a custom graph of all of them, so you can easily switch between them
 magicjack-call-forwarding-toggler:
   source:
     repo: MagicJackCallFowardingToggler
   urls:
-    image: https://user-images.githubusercontent.com/9403665/131440209-c7ee6f9c-8bc7-4671-bd2f-d60a95e0e415.jpg "dashboard showing call fowarding hving just been toggled on"
-    href: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
+    image: https://user-images.githubusercontent.com/9403665/131440209-c7ee6f9c-8bc7-4671-bd2f-d60a95e0e415.jpg
+    video: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
   text:
     title: MagicJack Call-Forwarding Toggler
+    alt: dashboard showing call fowarding hving just been toggled on
+    description: Automatically toggle the call-forwarding state of your MagicJack account with a single script
 bookmarks-backup-webextension:
   source:
     repo: BookmarksBackupExtension
   urls:
-    image: https://user-images.githubusercontent.com/9403665/131948277-6f5fd3e4-275c-4b21-95b5-e8f1cdb2dd46.jpg "bookmarks selected in extension popup, ready for download"
-    href: https://user-images.githubusercontent.com/9403665/131939321-0d49fd61-8cd6-4231-9af7-ea70526a2f7f.mp4
+    image: https://user-images.githubusercontent.com/9403665/131948277-6f5fd3e4-275c-4b21-95b5-e8f1cdb2dd46.jpg
+    video: https://user-images.githubusercontent.com/9403665/131939321-0d49fd61-8cd6-4231-9af7-ea70526a2f7f.mp4
   text:
     title: Bookmarks Backup WebExtension
+    alt: bookmarks selected in extension popup, ready for download
+    description: Backup and import bookmarks in a safe stable format - no more bookmark corruption or loss of bookmarks
 video-subimage-search:
   source:
     repo: VideoSubImageSearch
   urls:
-    image: https://user-images.githubusercontent.com/9403665/131948540-4c9991c2-f874-4ca2-8b61-dc31c8d5f489.jpg "GUI showing discovered frames of WatchMojo video with title on screen"
-    href: https://user-images.githubusercontent.com/9403665/131947673-89d0a59d-2d5c-4cfb-a440-487d1a518668.mp4
+    image: https://user-images.githubusercontent.com/9403665/131948540-4c9991c2-f874-4ca2-8b61-dc31c8d5f489.jpg
+    video: https://user-images.githubusercontent.com/9403665/131947673-89d0a59d-2d5c-4cfb-a440-487d1a518668.mp4
   text:
     title: Video SubImage Search
+    alt: GUI showing discovered frames of WatchMojo video with title on screen
+    description: Search through YouTube videos for subimages, displaying the frames and times of the found subimages
 reddit-participation-flair-bot:
   source:
     repo: RedditParticipationFlairBot
   text:
     title: Reddit Participation Flair Bot
-    content: Assign flairs to users based on how active they are commenting/posting in a subreddit
+    alt: Assign flairs to users based on how active they are commenting/posting in a subreddit
 reddit-phrase-unbanner:
   source:
     repo: RedditPhraseUnbanner
   text:
     title: Reddit Phrase Unbanner
-    content: Unban users who comment any of the configured phrases
+    alt: Unban users who comment any of the configured phrases
 reddit-tellsyouajoke-bot:
   source:
     repo: RedditTellsYouAJokeBot
   text:
     title: Reddit TellsYouAJoke Bot
-    content: Tells users who summon it a joke, sourced locally and from Trello boards
+    alt: Tells users who summon it a joke, sourced locally and from Trello boards
 wedidit-reddit-bot:
   source:
     repo: WeDidItRedditBot
   text:
     title: Reddit WeDidIt Bot
-    content: Responds to variable comments with responses
+    alt: Responds to variable comments with responses
 dynabook-driver-downloader:
   source:
     gist: d83eac06da6ec85c4095f146cab55a2e
   urls:
-    image: https://user-images.githubusercontent.com/9403665/135499436-b69c95da-ba52-4dad-ae75-0624d2d18381.jpg "Table showing recommended drivers selected for download"
-    href: https://user-images.githubusercontent.com/9403665/134781311-fdd89f3f-083d-457e-90ad-3b0f3637e62b.mp4
+    image: https://user-images.githubusercontent.com/9403665/135499436-b69c95da-ba52-4dad-ae75-0624d2d18381.jpg
+    video: https://user-images.githubusercontent.com/9403665/134781311-fdd89f3f-083d-457e-90ad-3b0f3637e62b.mp4
   text:
     title: Dynabook Driver Downloader
+    alt: Table showing recommended drivers selected for download
+    description: Custom UI for the Dynabook Driver Download page that allows for easy downloading of the drivers all at once

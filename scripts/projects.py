@@ -12,6 +12,7 @@ Project = TypedDict('Project', { 'slug': str, 'definitions': List[str], 'source'
 
 ProjectsIterable = Iterable[Project]
 
+IMAGE_LINKABLE = ['href', 'video']
 
 
 SOURCE_PREFIXES = {
@@ -28,8 +29,9 @@ def load_projects(input_filepath: str) -> ProjectsIterable:
 	for slug, project in raw_projects.items():
 		project['slug'] = slug
 
-		source_type, source = list(project['source'].items())[0]
-		project.setdefault('urls', {})['source'] = SOURCE_PREFIXES.get(source_type, '') + source  # type: ignore
+		if 'source' not in project.setdefault('urls', {}):
+			source_type, source = list(project['source'].items())[0]
+			project.setdefault('urls', {})['source'] = SOURCE_PREFIXES.get(source_type, '') + source  # type: ignore
 
 
 		project.setdefault('definitions', [])
@@ -45,13 +47,20 @@ def load_projects(input_filepath: str) -> ProjectsIterable:
 
 
 		if 'image' in project['urls']:
-			raw_url = project['definitions'][list(references.keys()).index('image')].split(']: ')[1]
-			alt_text = raw_url.split('"')[1] if '"' in raw_url else ''
+			alt_text = project['text'].get('alt', '')
+
+			if alt_text:
+				image_referece_key = list(references.keys()).index('image')
+				project['definitions'][image_referece_key] += f' "{alt_text}"'
 
 			markdown = f'![{alt_text}][{references["image"]}]'
-			if 'href' in project['urls']:
-				markdown = f'[{markdown}][{references["href"]}]'
+			for key in IMAGE_LINKABLE:
+				if key in project['urls']:
+					markdown = f'[{markdown}][{references[key]}]'
+					break
 
 			project['text']['content'] = markdown
+		if 'content' not in project['text']:
+			project['text']['content'] = project['text']['alt']
 
 		yield project
