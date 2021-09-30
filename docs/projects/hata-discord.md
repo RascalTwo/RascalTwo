@@ -5,4 +5,4 @@
 | [Source][hata-discord source] |
 | - |
 
-Multi-client bot proving multiple games and more
+Multi-client bot providing multiple games and more

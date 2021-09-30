@@ -5,4 +5,4 @@
 | [Source][pybuddies-discord source] |
 | - |
 
-A collaborative multi-feature Discord bot, with games, scrapers, and more!
+Collaborative multi-feature Discord bot, with games, scrapers, and more!

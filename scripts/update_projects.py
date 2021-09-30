@@ -70,7 +70,7 @@ def generate_projects(input_filepath: str, projects: Dict[str, Project]):
 
 		table = '\n'.join('| ' + ' | '.join(row) + ' |' for row in (headers, alignments, contents))
 
-		html += '\n'.join(definitions) + '\n\n'
+		html += '\n'.join(definition for definition in definitions if definition.split(':')[0] in table) + '\n\n'
 		html += f'<details open>\n  <summary>{category}</summary>\n\n{table}\n\n</details>\n\n'
 
 	return html.strip()
