@@ -29,6 +29,7 @@ Bots:
   - hata-discord
   - pybuddies-discord
   - reddit-rotten-tomatoes
+  - discord-mc-count-updater
   - reddit-googlealert-rss
   - reddit-pokemon-giveaway-flairer
   - reddit-auto-flairer

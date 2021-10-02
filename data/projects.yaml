@@ -326,3 +326,12 @@ dynabook-driver-downloader:
     title: Dynabook Driver Downloader
     alt: Table showing recommended drivers selected for download
     description: Custom UI for the Dynabook Driver Download page that allows for easy downloading of the drivers all at once
+discord-mc-count-updater:
+  source:
+    gist: 5af068c248aa9e4936a8219f8ffcf020
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/135724974-c2d80b44-9bbb-4db5-972a-e36b64155fbf.png
+  text:
+    title: Discord Minecraft Server Count Updator
+    alt: "bot playing text displaying 'Online: 11'"
+    description: Bot that updates the playing now text with the count of how many people are on a Minecraft server
