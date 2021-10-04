@@ -489,6 +489,22 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390587/dropbox_nygevc.svg" alt="Dropbox" title="Dropbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Dropbox
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 
@@ -1209,6 +1225,54 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391085/nosql_g2smt9.svg" alt="NoSQL" title="NoSQL" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                NoSQL
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390438/csv_dysqrr.svg" alt="CSV" title="CSV" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                CSV
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390871/gif_uvwgne.png" alt="GIF" title="GIF" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                GIF
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 
@@ -1668,6 +1732,22 @@
             <td>
               <p align="center">
                 Greasemonkey
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391153/web-extension_r9vijk.png" alt="Web Extension" title="Web Extension" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Web Extension
               </p>
             </td>
           </tr>
@@ -2211,6 +2291,38 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391292/chai_d9gval.svg" alt="Chai" title="Chai" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Chai
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389659/bundler_ufptfn.png" alt="Bundler" title="Bundler" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Bundler
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 
@@ -2527,6 +2639,22 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390567/discord-js_kaz6cr.png" alt="discord.js" title="discord.js" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                discord.js
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 
@@ -2773,6 +2901,22 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390477/curl_bmbyjw.svg" alt="curl" title="curl" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                curl
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 
@@ -2838,6 +2982,268 @@
             <td>
               <p align="center">
                 REST
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr><td>Concepts</td></tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389401/addition_iyfozn.png" alt="Addition" title="Addition" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Addition
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389474/authentication_kjsrq6.png" alt="Authentication" title="Authentication" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Authentication
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389477/authorization_jsxtu7.png" alt="Authorization" title="Authorization" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Authorization
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389527/automation_hq1yx8.svg" alt="Automation" title="Automation" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Automation
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389580/bot_wctus7.png" alt="Bot" title="Bot" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Bot
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633389940/challenge_ik4alo.svg" alt="Challenge" title="Challenge" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Challenge
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390501/database_i31jv6.svg" alt="Database" title="Database" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Database
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390526/data-scraping_k49jbl.svg" alt="Data Mining" title="Data Mining" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Data Mining
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390756/frontend_amswna.png" alt="Frontend" title="Frontend" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Frontend
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td class="color-bg-tertiary">
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390825/fullstack_h8ghdu.png" alt="Fullstack" title="Fullstack" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Fullstack
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390853/game_j6w5uv.svg" alt="Game" title="Game" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Game
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633390909/graph_mejult.svg" alt="Graph" title="Graph" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Graph
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391022/gui_erpfbm.png" alt="GUI" title="GUI" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                GUI
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391037/media-processing_e8hky3.svg" alt="Media Processing" title="Media Processing" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Media Processing
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391062/network_jbrcgo.svg" alt="Network" title="Network" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Network
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1633391103/text-art_cs2agu.png" alt="Text Art" title="Text Art" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Text Art
               </p>
             </td>
           </tr>

@@ -44,6 +44,22 @@ In no particular internal order:
 - [Gunicorn](https://worldvectorlogo.com/logo/gunicorn)
 - [Minecraft](https://freebiesupply.com/logos/minecraft-logo-2/)
 - [WebSocket](https://seeklogo.com/vector-logo/286189/websocket)
+- [CSV](https://www.svgrepo.com/svg/270169/csv)
+- [NoSQL](https://vecta.io/symbols/28/microsoft-azure-color/35/documentdb)
+- [GIF](https://www.flaticon.com/free-icon/gif_202307)
+- [curl](https://vecta.io/symbols/77/brands-cm-cz/138/curl-icon)
+- [Dropbox](https://vecta.io/symbols/64/social-media-shadow/24/dropbox)
+- [Chai](https://seeklogo.com/vector-logo/273151/chai)
+- [Graph](https://vecta.io/symbols/31/microsoft-enterprise/31/graph)
+- [GUI](https://www.pngwing.com/en/free-png-bkiga)
+- [Frontend](https://www.flaticon.com/free-icon/front-end_2166874?related_id=2166822&origin=search)
+- [Automation](https://www.veryicon.com/icons/education-technology/smart-technology-icon/automation-1.html)
+- [Bot](https://icon-library.com/icon/bot-icon-12.html)
+- [Game](https://loading.io/icon/1t0dg)
+- [Network](https://www.svgrepo.com/svg/157849/network)
+- [Data Scraping](https://www.svgrepo.com/svg/299231/data-mining)
+- [Authorization](https://www.iconfinder.com/icons/106165/authorization_icon)
+- [Authentication](https://icon-library.com/icon/authentication-icon-7.html)
 
 #### Wikipedia
 
@@ -53,6 +69,7 @@ In no particular internal order:
 - [Blender](https://commons.wikimedia.org/wiki/File:Logo_Blender.svg#/media/File:Blender_logo_no_text.svg)
 - [SVG](https://en.wikipedia.org/wiki/File:SVG_Logo.svg)
 - [Greasemonkey](https://commons.wikimedia.org/wiki/File:Greasemonkey.svg)
+- [Challenge](https://commons.wikimedia.org/wiki/File:Challenge_Icon.svg)
 
 #### GitHub Repositories
 
@@ -184,3 +201,5 @@ In no particular internal order:
 - [Chef](https://i.imgur.com/tN9Ctch.png)
 - [Web Worker/Service Worker](https://www.vippng.com/preview/hTTooRR_process-icon-service-worker-logo/)
 - [PyTest](https://marketplace.visualstudio.com/items?itemName=reverbc.vscode-pytest)
+- [Fullstack](https://bradgyemi.com)
+- [Text Art](https://pypi.org/project/art/)

@@ -91,6 +91,9 @@ Services:
   openstreetmap:
     name: OpenStreetMap
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924086/openstreetmap_xl0e7n.png
+  dropbox:
+    name: Dropbox
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390587/dropbox_nygevc.svg
 Languages:
   javascript:
     name: JavaScript
@@ -249,6 +252,16 @@ Data:
     name: RSS
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924089/rss_abcqvp.png
     query: +$n
+  nosql:
+    name: NoSQL
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391085/nosql_g2smt9.svg
+  csv:
+    name: CSV
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390438/csv_dysqrr.svg
+    background: light
+  gif:
+    name: GIF
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390871/gif_uvwgne.png
 Frameworks:
   react:
     name: React
@@ -347,6 +360,9 @@ Platforms:
   greasemonkey:
     name: Greasemonkey
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1633022193/greasemonkey_zpixwd.svg
+  web-extension:
+    name: Web Extension
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391153/web-extension_r9vijk.png
 Equipment:
   cypress-io:
     name: Cypress.io
@@ -459,6 +475,12 @@ Equipment:
   poetry:
     name: Poetry
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631987892/poetry_bujxnx.svg
+  chai:
+    name: Chai
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391292/chai_d9gval.svg
+  bundler:
+    name: Bundler
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389659/bundler_ufptfn.png
 Libraries:
   socket-io:
     name: Socket.IO
@@ -521,6 +543,9 @@ Libraries:
   discord-py:
     name: discord.py
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631991884/discord-py_rpkdvy.ico
+  discord-js:
+    name: discord.js
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390567/discord-js_kaz6cr.png
 Tooling:
   git:
     name: git
@@ -567,6 +592,10 @@ Tooling:
   sublime-text:
     name: Sublime Text
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924092/sublime-text_umugyx.svg
+  curl:
+    name: curl
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390477/curl_bmbyjw.svg
+    background: light
 Protocols:
   web-worker:
     name: Web Worker
@@ -583,3 +612,57 @@ Protocols:
   rest:
     name: REST
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631938643/rest_e5g282.png
+Concepts:
+  addition:
+    name: Addition
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389401/addition_iyfozn.png
+    background: light
+  authentication:
+    name: Authentication
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389474/authentication_kjsrq6.png
+    background: light
+  authorization:
+    name: Authorization
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389477/authorization_jsxtu7.png
+    background: light
+  automation:
+    name: Automation
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389527/automation_hq1yx8.svg
+  bot:
+    name: Bot
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389580/bot_wctus7.png
+  challenge:
+    name: Challenge
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633389940/challenge_ik4alo.svg
+    background: light
+  database:
+    name: Database
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390501/database_i31jv6.svg
+  data-mining:
+    name: Data Mining
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390526/data-scraping_k49jbl.svg
+  frontend:
+    name: Frontend
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390756/frontend_amswna.png
+  fullstack:
+    name: Fullstack
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390825/fullstack_h8ghdu.png
+    background: light
+  game:
+    name: Game
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390853/game_j6w5uv.svg
+  graph:
+    name: Graph
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390909/graph_mejult.svg
+  gui:
+    name: GUI
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391022/gui_erpfbm.png
+  media-processing:
+    name: Media Processing
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391037/media-processing_e8hky3.svg
+  network:
+    name: Network
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391062/network_jbrcgo.svg
+  text-art:
+    name: Text Art
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1633391103/text-art_cs2agu.png
