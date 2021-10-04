@@ -54,7 +54,7 @@ password-generator:
     repo: PythonBuddiesPasswordGenerator
   urls:
     image: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
-    video: https://www.youtube.com/watch?v=1wepX5_ptTA
+    external_video: https://www.youtube.com/watch?v=1wepX5_ptTA
   text:
     title: Tkinter Password Generator
     alt: YouTube thumbnail

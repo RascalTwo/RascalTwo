@@ -15,9 +15,9 @@ Project = TypedDict('Project', { 'slug': str, 'definitions': List[str], 'source'
 
 ProjectsIterable = Iterable[Project]
 
-IMAGE_LINKABLE = ['href', 'video']
+IMAGE_LINKABLE = ['href', 'video', 'external_video']
 
-URL_ORDER = ['live', 'source', 'video', 'image']
+URL_ORDER = ['live', 'source', 'video', 'external_video', 'image']
 
 
 SOURCE_PREFIXES = {

@@ -32,8 +32,10 @@ def generate_project_page(project: Project):
 
 
 	# Media - video or image
-	if video_url := project['urls'].get('video', None):
-		markdown += video_url
+	if direct_video_url := project['urls'].get('video', None):
+		markdown += direct_video_url
+	elif '![' in project['text']['content']:
+		markdown += project['text']['content']
 	elif has_image:
 		markdown += f'![{project["text"]["alt"]}][{project["slug"]} image]'
 
