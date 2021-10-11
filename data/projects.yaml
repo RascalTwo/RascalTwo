@@ -9,6 +9,9 @@ netgear-wgr614v9-monitor:
       Network Monitor
     alt: Dashboard showing graph of network traffic with statistics table below
     description: Scrapes network data from the router, then displays said data and generating a graph
+  tags:
+    technologies: go javascript html git
+    concepts: fullstack graph gui authorization data-mining
 vonage-chroma-key-video:
   urls:
     source: https://github.com/nexmo-community/build-a-thing-video/pull/13
@@ -18,6 +21,9 @@ vonage-chroma-key-video:
     title: Vonage Chroma-Key Video
     alt: Customizable chroma-keying of a background on live video with little latency
     description: Allows users to chroma-key-replace their background with an image they provide
+  tags:
+    technologies: javascript vue web-worker html css git github
+    concepts: addition gui frontend
 replit-code-challenges:
   source:
     repo: Repl.itJam10
@@ -28,6 +34,9 @@ replit-code-challenges:
     title: Repl.it Code Challenges
     alt: Submitted code showing failed test
     description: User-submited and solvable Python coding challenges
+  tags:
+    technologies: python javascript nosql replit html css jinga-2 poetry mypy git
+    concepts: fullstack gui authorization authentication database
 todo-fullstack:
   source:
     repo: Todo-Fullstack
@@ -39,6 +48,9 @@ todo-fullstack:
     title: Todo Fullstack
     alt: Empty todo list with field to add new entries
     description: Enterprise Todo list editor with realtime collaboration and offline support
+  tags:
+    technologies: typescript javascript express sequelize react material-ui heroku docker yarn json yaml github-actions nodemon eslint prettier websocket rest git gitlab
+    concepts: fullstack gui database
 camp-kid-tracker:
   source:
     repo: CampKidTracker
@@ -49,6 +61,9 @@ camp-kid-tracker:
     title: Camp Kid Tracker
     alt: Two students being listed in tracker
     description: Easily track the status of kids attending your camp, with built-in auditing
+  tags:
+    technologies: php javascript apache css jquery json git
+    concepts: fullstack gui authorization authentication database
 password-generator:
   source:
     repo: PythonBuddiesPasswordGenerator
@@ -59,6 +74,9 @@ password-generator:
     title: Tkinter Password Generator
     alt: YouTube thumbnail
     description: Customizable and themable Password generator
+  tags:
+    technologies: python tk pytest json git
+    concepts: gui
 javascript-calculator:
   urls:
     source: https://codepen.io/Rascal_Two/pen/RMMEXp
@@ -68,6 +86,9 @@ javascript-calculator:
     title: JavaScript Calculator
     alt: calculator with 1337 in text field
     description: Standard calculator
+  tags:
+    technologies: javascript css html
+    concepts: gui frontend codepen
 convex-hull-overlay:
   source:
     gist: 72443978d4f8f4464197e34838b112cd
@@ -78,6 +99,9 @@ convex-hull-overlay:
     title: Convex Hull Overlay
     alt: convex hull overlay around points in radius of center
     description: Create a highlighted convex-hull around the selected points
+  tags:
+    technologies: javascript svg git
+    concepts: addition
 flappy-bird:
   source:
     repo: FlappyBird
@@ -89,6 +113,9 @@ flappy-bird:
     title: Flappy Bird
     alt: Flappy bird flying between pipes with a score of 4 and high score of 6
     description: Flappy Bird with randomized assets, high-score tracking, ghosts, and savable replays
+  tags:
+    technologies: javascript kaboom git
+    concepts: game frontend gui
 cross-platform-hangman:
   source:
     repo: PythonHangman
@@ -98,6 +125,9 @@ cross-platform-hangman:
     title: Python Cross-Platform Hangman
     alt: GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'
     description: "Hangman with three interfaces sharing a single codebase: CLI, Tk, and Discord"
+  tags:
+    technologies: python tk discord-py pytest github-actions discord git mypy poetry pylint
+    concepts: game gui cli bot text-art
 rail-snake:
   source:
     repo: RailSnake
@@ -109,6 +139,9 @@ rail-snake:
     title: Rail Snake
     alt: rail snake turning around after picking up food in top right corner
     description: A Minetrack-themed game of snake
+  tags:
+    technologies: javascript kaboom git
+    concepts: game frontend gui
 brython-hangman:
   source:
     gist: 4161f2c1672b3e04d28cc934651eb95f
@@ -118,6 +151,9 @@ brython-hangman:
     title: Brython Hangman
     alt: correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'
     description: Identical hangman-themed game written in both JavaScript and Brython
+  tags:
+    technologies: javascript brython html css git
+    concepts: game frontend gui
 calculator-chaos:
   source:
     repo: Calculator-Chaos
@@ -128,6 +164,9 @@ calculator-chaos:
     title: Calculator Chaos
     alt: Nearly-perfect recreation of the flash game 'Calculator Chaos'
     description: Recreation of the flash game Calculator Chaos
+  tags:
+    technologies: javascript html css svg git
+    concepts: game frontend gui
 minesweeper-cli:
   source:
     gist: dbc362ccf8b2497f4d04a37df83575a9
@@ -138,6 +177,9 @@ minesweeper-cli:
     title: Minesweeper CLI
     alt: Minesweeper board half cleared of bombs
     description: Playable Minesweeper game, with flags and everything
+  tags:
+    technologies: python git
+    concepts: game cli text-art
 number-memory:
   source:
     repo: Number-Memory-Game
@@ -148,6 +190,9 @@ number-memory:
     title: Number Memory
     alt: four pairs of numbers matched with 8 pairs remaining
     description: Number-matching memory game with persistent high-scores
+  tags:
+    technologies: javascript css html git
+    concepts: game frontend gui
 morse-knight:
   source:
     repo: OneButtonMorseKnightPrototype
@@ -158,30 +203,45 @@ morse-knight:
     title: Morse Knight
     alt: Attack menu action being selected
     description: One-button game in which successfully sending morse messages performs actions
+  tags:
+    technologies: javascript css html git
+    concepts: game frontend gui
 python-testing-bug-hunt:
   source:
     gist: 7fddf33011563a3f75045c3367541f30
   text:
     title: Python Testing Bug-Hunt
     alt: Python bug scavenger hunt
+  tags:
+    technologies: python pytest mypy coverage-py git
+    concepts: challenge
 aoc:
   source:
     repo: AdventOfCode
   text:
     title: Advent of Code
     alt: My Advent of Code solutions
+  tags:
+    technologies: python pytest lua c c++ markdown git
+    concepts: challenge
 hata-discord:
   source:
     repo: hata-code-jam/tree/rascaltwo/team-maple
   text:
     title: Hata Discord
     alt: Multi-client bot providing multiple games and more
+  tags:
+    technologies: python discord mypy gif
+    concepts: bot game media-processing text-art
 pybuddies-discord:
   source:
     repo: PythonBuddiesBot
   text:
     title: PyBuddies Discord
     alt: Collaborative multi-feature Discord bot, with games, scrapers, and more!
+  tags:
+    technologies: python pylint discord-py travis-ci markdown json git reddit
+    concepts: bot game data-mining
 reddit-rotten-tomatoes:
   source:
     repo: RedditRottenTomatoesBot
@@ -189,6 +249,9 @@ reddit-rotten-tomatoes:
     title: Reddit RottenTomatoes
     alt: Post the Top Movies of the week
     description: Post all movies that enter the Top Box office on RottenTomatoes to subreddits
+  tags:
+    technologies: python reddit git json
+    concepts: bot data-mining
 reddit-googlealert-rss:
   source:
     repo: RedditGoogleAlertRSSPoster
@@ -196,6 +259,9 @@ reddit-googlealert-rss:
     title: Reddit GoogleAlert RSS
     alt: Mirror items from GoogleAlert RSS as posts to Subreddit
     description: Submit links from a Google Alert RSS feed to subreddits
+  tags:
+    technologies: python reddit git json sqlite
+    concepts: bot frontend database
 reddit-pokemon-giveaway-flairer:
   source:
     repo: RedditPokemonGiveawayGalore
@@ -203,6 +269,9 @@ reddit-pokemon-giveaway-flairer:
     title: Reddit PokemonGiveaway Flairer
     alt: Allow users to set their floairs via private message
     description: Provides custom commands via direct message allowig users to customize their flair accordingly
+  tags:
+    technologies: python reddit git json sqlite
+    concepts: bot database
 reddit-auto-flairer:
   source:
     repo: RedditDevResponseFlairer
@@ -210,6 +279,9 @@ reddit-auto-flairer:
     title: Reddit Auto Flairer
     alt: Automatically flair comments of certain accounts
     description: Automatically flair posts/comments with a suffix whenever customizable events occur
+  tags:
+    technologies: python reddit git json sqlite
+    concepts: bot database
 reddit-soccer-standings-sync:
   source:
     repo: RedditSoccerStandingsSidebarSync
@@ -217,6 +289,9 @@ reddit-soccer-standings-sync:
     title: Reddit Soccer Standings Sync
     alt: Sync standings table in sidebar of subreddit with website
     description: Keep tables in subreddit sidebars synced with the actual soccar standings
+  tags:
+    technologies: python reddit git json sqlite
+    concepts: bot data-mining database
 dropbox-orb:
   source:
     repo: dropbox-orb
@@ -227,6 +302,9 @@ dropbox-orb:
     title: Dropbox CircleCI Orb
     alt: "[Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]"
     description: Allow developers to perform Dropbox actions in their workflows
+  tags:
+    technologies: git circle-ci bash yaml curl dropbox
+    concepts: addition
 reddit-orb:
   source:
     repo: reddit-orb
@@ -237,6 +315,9 @@ reddit-orb:
     title: Reddit CircleCI Orb
     alt: "[Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]"
     description: Allow developers to perform Reddit actions in their workflows
+  tags:
+    technologies: git circle-ci bash yaml curl reddit
+    concepts: addition
 bible-trivia:
   source:
     repo: BibleTrivia
@@ -247,12 +328,18 @@ bible-trivia:
     title: Bible Trivia
     alt: gameplay with two failed guesses, two correct guesses, and one life remainining
     description: Trivia game based on where exactly verses in the Bible are at
+  tags:
+    technologies: vue javascript html css cypress-io mocha chai sqlite eslint json
+    concepts: game fullstack gui database
 subnet-scanner:
   source:
     repo: RubySubnetScanner
   text:
     title: Subnet Scanner
     alt: Scan a given network for active IP addresses
+  tags:
+    technologies: ruby bundler
+    concepts: cli network
 socket-size-grapher:
   source:
     repo: SocketSizeGrapher
@@ -262,6 +349,9 @@ socket-size-grapher:
     title: Socket Size Grapher
     alt: graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers
     description: Take a CSV of socket sizes and generate a custom graph of all of them, so you can easily switch between them
+  tags:
+    technologies: javascript csv
+    concepts: graph
 magicjack-call-forwarding-toggler:
   source:
     repo: MagicJackCallFowardingToggler
@@ -272,6 +362,9 @@ magicjack-call-forwarding-toggler:
     title: MagicJack Call-Forwarding Toggler
     alt: dashboard showing call fowarding hving just been toggled on
     description: Automatically toggle the call-forwarding state of your MagicJack account with a single script
+  tags:
+    technologies: python selenium
+    concepts: automation cli
 bookmarks-backup-webextension:
   source:
     repo: BookmarksBackupExtension
@@ -282,6 +375,9 @@ bookmarks-backup-webextension:
     title: Bookmarks Backup WebExtension
     alt: bookmarks selected in extension popup, ready for download
     description: Backup and import bookmarks in a safe stable format - no more bookmark corruption or loss of bookmarks
+  tags:
+    technologies: javascript html css web-extension
+    concepts: frontend gui
 video-subimage-search:
   source:
     repo: VideoSubImageSearch
@@ -292,30 +388,45 @@ video-subimage-search:
     title: Video SubImage Search
     alt: GUI showing discovered frames of WatchMojo video with title on screen
     description: Search through YouTube videos for subimages, displaying the frames and times of the found subimages
+  tags:
+    technologies: python opencv tk
+    concepts: media-processing gui cli youtube
 reddit-participation-flair-bot:
   source:
     repo: RedditParticipationFlairBot
   text:
     title: Reddit Participation Flair Bot
     alt: Assign flairs to users based on how active they are commenting/posting in a subreddit
+  tags:
+    technologies: python reddit json
+    concepts: bot
 reddit-phrase-unbanner:
   source:
     repo: RedditPhraseUnbanner
   text:
     title: Reddit Phrase Unbanner
     alt: Unban users who comment any of the configured phrases
+  tags:
+    technologies: python reddit json
+    concepts: bot
 reddit-tellsyouajoke-bot:
   source:
     repo: RedditTellsYouAJokeBot
   text:
     title: Reddit TellsYouAJoke Bot
     alt: Tells users who summon it a joke, sourced locally and from Trello boards
+  tags:
+    technologies: python reddit json
+    concepts: bot
 wedidit-reddit-bot:
   source:
     repo: WeDidItRedditBot
   text:
     title: Reddit WeDidIt Bot
     alt: Responds to variable comments with responses
+  tags:
+    technologies: python reddit json
+    concepts: bot
 dynabook-driver-downloader:
   source:
     gist: d83eac06da6ec85c4095f146cab55a2e
@@ -326,6 +437,9 @@ dynabook-driver-downloader:
     title: Dynabook Driver Downloader
     alt: Table showing recommended drivers selected for download
     description: Custom UI for the Dynabook Driver Download page that allows for easy downloading of the drivers all at once
+  tags:
+    technologies: javascript greasemonkey html css
+    concepts: addition
 discord-mc-count-updater:
   source:
     gist: 5af068c248aa9e4936a8219f8ffcf020
@@ -335,3 +449,6 @@ discord-mc-count-updater:
     title: Discord Minecraft Server Count Updator
     alt: "bot playing text displaying 'Online: 11'"
     description: Bot that updates the playing now text with the count of how many people are on a Minecraft server
+  tags:
+    technologies: javascript discord-js
+    concepts: bot

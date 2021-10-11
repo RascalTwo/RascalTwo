@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="mailto:therealrascaltwo@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
+  <a href="https://github.com/RascalTwo"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
+  <a href="https://twitter.com/RealRascalTwo"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Polyglot;...and+more!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!">
 </p>
 
@@ -3414,10 +3420,4 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 </details>
 <!-- PROJECTS END -->
 
-## Where to find me?
-
 Feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
-
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:therealrascaltwo@gmail.com)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/RascalTwo)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealRascalTwo)
