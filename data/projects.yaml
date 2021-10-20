@@ -102,6 +102,20 @@ convex-hull-overlay:
   tags:
     technologies: javascript svg git
     concepts: addition
+infinite-driver:
+  source:
+    repo: InfiniteDriver
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/145287983-cbbc20d3-87de-44e2-b0c1-3195860db953.jpg
+    video: https://user-images.githubusercontent.com/9403665/145287295-5d352e49-c081-4d70-b210-b31d9f862f1f.mp4
+    live: https://infinitedriver--rascaltwo.repl.co/
+  text:
+    title: Infinite Driver
+    alt: Red car turning towards gas can
+    description: Infinitely drive, collecting as many gems until you run out of fuel
+  tags:
+    technologies: javascript typescript kaboom git
+    concepts: game frontend gui
 flappy-bird:
   source:
     repo: FlappyBird
