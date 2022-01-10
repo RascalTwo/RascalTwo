@@ -37,7 +37,7 @@ replit-code-challenges:
   tags:
     technologies: python javascript nosql replit html css jinga-2 poetry mypy git
     concepts: fullstack gui authorization authentication database
-todo-fullstack:
+synced-task-manager:
   source:
     repo: Todo-Fullstack
   urls:
@@ -45,9 +45,9 @@ todo-fullstack:
     video: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
     live: https://r2-todo-fullstack.herokuapp.com/
   text:
-    title: Todo Fullstack
-    alt: Empty todo list with field to add new entries
-    description: Enterprise Todo list editor with realtime collaboration and offline support
+    title: Synced-Task Manager
+    alt: Empty task list with field to add new entries
+    description: Task manager with realtime collaboration and offline support
   tags:
     technologies: typescript javascript express sequelize react material-ui heroku docker yarn json yaml github-actions nodemon eslint prettier websocket rest git gitlab
     concepts: fullstack gui database
