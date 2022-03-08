@@ -489,3 +489,81 @@ twitch-vod-chat-downloader:
   tags:
     technologies: python json git
     concepts: data-mining
+level-ground-clone:
+  source:
+    repo: static-websites/tree/main/Level-Ground
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Level-Ground/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Level-Ground/1920x1080.webm
+    live: https://rascaltwo.github.io/static-websites/Level-Ground
+  text:
+    title: Level Ground Clone
+    alt: Clone of Level Ground
+  tags:
+    technologies: html css git
+    concepts: frontend
+khan-academy-clone:
+  source:
+    repo: static-websites/tree/main/Khan-Academy
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Khan-Academy/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Khan-Academy/1920x1080.webm
+    live: https://rascaltwo.github.io/static-websites/Khan-Academy
+  text:
+    title: Khan Academy Clone
+    alt: Clone of Khan Academy
+  tags:
+    technologies: html css git
+    concepts: frontend
+cuisine-restaurant-frontend:
+  source:
+    repo: static-websites/tree/main/12927498-Cuisine-Restaurant-Website
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/12927498-Cuisine-Restaurant-Website/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/12927498-Cuisine-Restaurant-Website/1920x1080.webm
+    live: https://rascaltwo.github.io-websites/12927498-Cuisine-Restaurant-Website
+  text:
+    title: Restaurant Website
+    alt: Website of a Cuisine Restaurant
+  tags:
+    technologies: html css git
+    concepts: frontend
+marketing-firm-frontend:
+  source:
+    repo: static-websites/tree/main/4017934-Homepage-Wireframe-for-Marketing-Website
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/4017934-Homepage-Wireframe-for-Marketing-Website/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/4017934-Homepage-Wireframe-for-Marketing-Website/1920x1080.webm
+    live: https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website
+  text:
+    title: Marketing Firm Website
+    alt: Website of a Marketing & Design Firm
+  tags:
+    technologies: html css git
+    concepts: frontend
+ayesha-hair-salon-frontend:
+  source:
+    repo: static-websites/tree/main/6872630-Ayesha-Hair-Salon-Template-Home-03
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/6872630-Ayesha-Hair-Salon-Template-Home-03/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/6872630-Ayesha-Hair-Salon-Template-Home-03/1920x1080.webm
+    live: https://rascaltwo.github.io/static-websites/6872630-Ayesha-Hair-Salon-Template-Home-03
+  text:
+    title: Ayesha Hair Salon Website
+    alt: Website of Ayesha Hair Salon
+  tags:
+    technologies: html css git
+    concepts: frontend
+creator-collaboration-frontend:
+  source:
+    repo: static-websites/tree/main/8718928-Source-Wireframes
+  urls:
+    image: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/8718928-Source-Wireframes/1920x1080.png
+    video: https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/8718928-Source-Wireframes/1920x1080.webm
+    live: https://rascaltwo.github.io/static-websites/8718928-Source-Wireframes
+  text:
+    title: Creator Collaboration Website
+    alt: Website of a Creator Collaboration
+  tags:
+    technologies: html css git
+    concepts: frontend

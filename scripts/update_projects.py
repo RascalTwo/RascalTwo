@@ -32,7 +32,8 @@ def generate_project_page(project: Project):
 
 
 	# Media - video or image
-	if direct_video_url := project['urls'].get('video', None):
+	direct_video_url = project['urls'].get('video', None)
+	if direct_video_url and 'raw.githubusercontent' not in direct_video_url:
 		markdown += direct_video_url
 	elif '![' in project['text']['content']:
 		markdown += project['text']['content']
