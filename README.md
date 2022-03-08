@@ -3407,6 +3407,9 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 
 </details>
 
+[twitch-user-markers image]: https://user-images.githubusercontent.com/9403665/157343750-c92ddaa2-56f1-498f-95ac-bbad16484a0e.jpg "Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs"
+[twitch-user-markers video]: https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4
+[twitch-user-markers source]: https://github.com/RascalTwo/TwitchUserMarkers
 [dropbox-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
 [dropbox-orb dropbox_http_api]: https://www.dropbox.com/developers/documentation/http/documentation
 [dropbox-orb source]: https://github.com/RascalTwo/dropbox-orb
@@ -3419,9 +3422,9 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 <details open>
   <summary>Tools</summary>
 
-| [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> | [Twitch VOD Chat Downloader](docs/projects/twitch-vod-chat-downloader.md) <sup>[&#x1F5D7;][twitch-vod-chat-downloader source]</sup> |
-| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   |                           Scan a given network for active IP addresses                          |                                                         Download Twitch Chat                                                        |
+|                                      [Twitch User-Markers](docs/projects/twitch-user-markers.md) <sup>[&#x1F5D7;][twitch-user-markers source]</sup>                                      | [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> | [Twitch VOD Chat Downloader](docs/projects/twitch-vod-chat-downloader.md) <sup>[&#x1F5D7;][twitch-vod-chat-downloader source]</sup> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| [![Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs][twitch-user-markers image]][twitch-user-markers video] |   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   |                           Scan a given network for active IP addresses                          |                                                         Download Twitch Chat                                                        |
 
 </details>
 <!-- PROJECTS END -->

@@ -567,3 +567,16 @@ creator-collaboration-frontend:
   tags:
     technologies: html css git
     concepts: frontend
+twitch-user-markers:
+  source:
+    repo: TwitchUserMarkers
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/157343750-c92ddaa2-56f1-498f-95ac-bbad16484a0e.jpg
+    video: https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4
+  text:
+    title: Twitch User-Markers
+    alt: navigation of all userscript features
+    description: Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs
+  tags:
+    technologies: typescript html css git
+    concepts: addition frontend gui

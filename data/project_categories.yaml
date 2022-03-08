@@ -41,6 +41,7 @@ Bots:
   - reddit-tellsyouajoke-bot
   - wedidit-reddit-bot
 Tools:
+  - twitch-user-markers
   - dropbox-orb
   - reddit-orb
   - subnet-scanner
