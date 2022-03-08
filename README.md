@@ -3414,13 +3414,14 @@ Much of my work is private, but you can see my public work in my one-of-many rep
 [reddit-orb reddit_http_api]: https://www.reddit.com/dev/api/
 [reddit-orb source]: https://github.com/RascalTwo/reddit-orb
 [subnet-scanner source]: https://github.com/RascalTwo/RubySubnetScanner
+[twitch-vod-chat-downloader source]: https://github.com/RascalTwo/TwitchVODChatDownloader
 
 <details open>
   <summary>Tools</summary>
 
-| [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> |
-| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-|   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   |                           Scan a given network for active IP addresses                          |
+| [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> | [Twitch VOD Chat Downloader](docs/projects/twitch-vod-chat-downloader.md) <sup>[&#x1F5D7;][twitch-vod-chat-downloader source]</sup> |
+| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   |                           Scan a given network for active IP addresses                          |                                                         Download Twitch Chat                                                        |
 
 </details>
 <!-- PROJECTS END -->

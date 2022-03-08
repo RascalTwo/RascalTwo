@@ -479,3 +479,13 @@ tech-crunch-clone:
   tags:
     technologies: typescript javascript html css git
     concepts: frontend data-mining
+twitch-vod-chat-downloader:
+  source:
+    repo: TwitchVODChatDownloader
+  text:
+    title: Twitch VOD Chat Downloader
+    alt: Download Twitch Chat
+    description: Download Twitch VOD Chat to a single file
+  tags:
+    technologies: python json git
+    concepts: data-mining
