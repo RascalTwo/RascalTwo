@@ -466,3 +466,16 @@ discord-mc-count-updater:
   tags:
     technologies: javascript discord-js
     concepts: bot
+tech-crunch-clone:
+  source:
+    repo: TechCrunchClone
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/157214139-e79c186a-0848-45c9-aa0f-79dc80127fed.png
+    live: https://rascaltwo.github.io/TechCrunchClone/
+  text:
+    title: Tech Crunch Clone
+    alt: "tech crunch homepage"
+    description: incrementally Static Regenerating clone of the Tech Crunch Homepage
+  tags:
+    technologies: typescript javascript html css git
+    concepts: frontend data-mining
