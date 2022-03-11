@@ -36,6 +36,9 @@ Services:
     name: CodePen
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924064/codepen_vvkzrf.svg
     background: light
+  glitch:
+    name: Glitch
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1647010788/glitch_kvxjzm.png
   azure:
     name: Azure
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/azure_qrju2w.png

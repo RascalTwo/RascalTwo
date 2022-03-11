@@ -221,6 +221,22 @@
         <table>
           <tr>
             <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1647010788/glitch_kvxjzm.png" alt="Glitch" title="Glitch" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Glitch
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924060/azure_qrju2w.png" alt="Azure" title="Azure" />
             </td>
           </tr>
