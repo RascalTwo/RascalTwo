@@ -2661,6 +2661,22 @@
           </tr>
         </table>
       </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1647009096/chartjs-logo_yfn30u.svg" alt="Chart.js" title="Chart.js" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Chart.js
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
   </table>
 

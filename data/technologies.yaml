@@ -546,6 +546,9 @@ Libraries:
   discord-js:
     name: discord.js
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1633390567/discord-js_kaz6cr.png
+  chart-js:
+    name: Chart.js
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1647009096/chartjs-logo_yfn30u.svg
 Tooling:
   git:
     name: git
