@@ -580,3 +580,17 @@ twitch-user-markers:
   tags:
     technologies: typescript html css git
     concepts: addition frontend gui
+twitch-chat-poll-visualizer:
+  source:
+    repo: Twitch-Chat-Poll-Visualizer
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/157885882-8a604a8f-cb8b-4cf9-bd08-5ffac5776af0.jpg
+    video: https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4
+    live: https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/
+  text:
+    title: Twitch Chat Poll Visualizer
+    alt: "line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric"
+    description: Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
+  tags:
+    technologies: javascript html css chart-js git
+    concepts: graph frontend gui

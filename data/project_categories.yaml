@@ -42,7 +42,8 @@ Bots:
   - wedidit-reddit-bot
 Tools:
   - twitch-user-markers
-  - dropbox-orb
   - reddit-orb
+  - twitch-chat-poll-visualizer
+  - dropbox-orb
   - subnet-scanner
   - twitch-vod-chat-downloader
