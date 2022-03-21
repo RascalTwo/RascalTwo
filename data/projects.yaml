@@ -606,3 +606,16 @@ dominoel:
   tags:
     technologies: javascript html css jquery glitch
     concepts: frontend
+novemator:
+  source:
+    repo: novemator
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/159194192-c1aee587-496e-4e31-b64f-e6a7e26bf379.png
+    live: https://rascaltwo.github.io/Novemator/
+  text:
+    title: Novemator
+    alt: game shown with a single key pressed
+    description: A game for math nerds - given a target number and a shuffled keypad of numbers and operators, calculate that target!
+  tags:
+    technologies: javascript html css
+    concepts: game frontend
