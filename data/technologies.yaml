@@ -141,8 +141,8 @@ Languages:
   less:
     name: Less
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924080/less_i27dep.svg
-  bash:
-    name: Bash
+  sh:
+    name: Shell
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bash_pab85f.svg
     query: '&l=$n'
     background: light
@@ -158,11 +158,11 @@ Languages:
   google-apps-script:
     name: Google Apps Script
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924072/google-apps-script_ppzxvk.svg
-  c++:
+  cpp:
     name: C++
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924063/c_xystla.svg
     query: '&l=C%2B%2B'
-  c#:
+  cs:
     name: C#
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924063/c_bnvpsm.svg
   dart:

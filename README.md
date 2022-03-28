@@ -727,14 +727,14 @@
         <table>
           <tr>
             <td class="color-bg-tertiary">
-              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bash_pab85f.svg" alt="Bash" title="Bash" />
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924061/bash_pab85f.svg" alt="Shell" title="Shell" />
             </td>
           </tr>
           <tr>
             <td>
               <p align="center">
-                <a href="https://github.com/search?q=user%3ARascalTwo&l=Bash">
-                  Bash
+                <a href="https://github.com/search?q=user%3ARascalTwo&l=Shell">
+                  Shell
                 </a>
               </p>
             </td>

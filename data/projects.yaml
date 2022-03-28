@@ -236,7 +236,7 @@ aoc:
     title: Advent of Code
     alt: My Advent of Code solutions
   tags:
-    technologies: python pytest lua c c++ markdown git
+    technologies: python pytest lua c cpp markdown git
     concepts: challenge
 hata-discord:
   source:
@@ -317,7 +317,7 @@ dropbox-orb:
     alt: "[Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]"
     description: Allow developers to perform Dropbox actions in their workflows
   tags:
-    technologies: git circle-ci bash yaml curl dropbox
+    technologies: git circle-ci sh yaml curl dropbox
     concepts: addition
 reddit-orb:
   source:
@@ -330,7 +330,7 @@ reddit-orb:
     alt: "[Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]"
     description: Allow developers to perform Reddit actions in their workflows
   tags:
-    technologies: git circle-ci bash yaml curl reddit
+    technologies: git circle-ci sh yaml curl reddit
     concepts: addition
 bible-trivia:
   source:
