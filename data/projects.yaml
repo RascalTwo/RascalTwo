@@ -5,8 +5,7 @@ netgear-wgr614v9-monitor:
     image: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg
     video: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
   text:
-    title: NETGEAR WGR614v9
-      Network Monitor
+    title: NETGEAR WGR614v9 Network Monitor
     alt: Dashboard showing graph of network traffic with statistics table below
     description: Scrapes network data from the router, then displays said data and generating a graph
   tags:
@@ -87,8 +86,8 @@ javascript-calculator:
     alt: calculator with 1337 in text field
     description: Standard calculator
   tags:
-    technologies: javascript css html
-    concepts: gui frontend codepen
+    technologies: javascript codepen html css
+    concepts: gui frontend
 convex-hull-overlay:
   source:
     gist: 72443978d4f8f4464197e34838b112cd
@@ -128,7 +127,7 @@ flappy-bird:
     alt: Flappy bird flying between pipes with a score of 4 and high score of 6
     description: Flappy Bird with randomized assets, high-score tracking, ghosts, and savable replays
   tags:
-    technologies: javascript kaboom git
+    technologies: kaboom replit javascript html css json npm
     concepts: game frontend gui
 cross-platform-hangman:
   source:
@@ -205,7 +204,7 @@ number-memory:
     alt: four pairs of numbers matched with 8 pairs remaining
     description: Number-matching memory game with persistent high-scores
   tags:
-    technologies: javascript css html git
+    technologies: javascript html css
     concepts: game frontend gui
 morse-knight:
   source:
@@ -218,8 +217,8 @@ morse-knight:
     alt: Attack menu action being selected
     description: One-button game in which successfully sending morse messages performs actions
   tags:
-    technologies: javascript css html git
-    concepts: game frontend gui
+    technologies: javascript html css
+    concepts: game frontend fullstack gui
 python-testing-bug-hunt:
   source:
     gist: 7fddf33011563a3f75045c3367541f30
@@ -227,7 +226,7 @@ python-testing-bug-hunt:
     title: Python Testing Bug-Hunt
     alt: Python bug scavenger hunt
   tags:
-    technologies: python pytest mypy coverage-py git
+    technologies: python coverage-py mypy
     concepts: challenge
 aoc:
   source:
@@ -236,7 +235,7 @@ aoc:
     title: Advent of Code
     alt: My Advent of Code solutions
   tags:
-    technologies: python pytest lua c cpp markdown git
+    technologies: python javascript c typescript cpp kotlin lua pytest mypy
     concepts: challenge
 hata-discord:
   source:
@@ -264,8 +263,8 @@ reddit-rotten-tomatoes:
     alt: Post the Top Movies of the week
     description: Post all movies that enter the Top Box office on RottenTomatoes to subreddits
   tags:
-    technologies: python reddit git json
-    concepts: bot data-mining
+    technologies: python reddit json
+    concepts: bot automation data-mining
 reddit-googlealert-rss:
   source:
     repo: RedditGoogleAlertRSSPoster
@@ -274,8 +273,8 @@ reddit-googlealert-rss:
     alt: Mirror items from GoogleAlert RSS as posts to Subreddit
     description: Submit links from a Google Alert RSS feed to subreddits
   tags:
-    technologies: python reddit git json sqlite
-    concepts: bot frontend database
+    technologies: reddit python html css sqlite json xml rss
+    concepts: bot automation database data-mining frontend fullstack gui
 reddit-pokemon-giveaway-flairer:
   source:
     repo: RedditPokemonGiveawayGalore
@@ -284,7 +283,7 @@ reddit-pokemon-giveaway-flairer:
     alt: Allow users to set their floairs via private message
     description: Provides custom commands via direct message allowig users to customize their flair accordingly
   tags:
-    technologies: python reddit git json sqlite
+    technologies: reddit python sqlite json
     concepts: bot database
 reddit-auto-flairer:
   source:
@@ -294,7 +293,7 @@ reddit-auto-flairer:
     alt: Automatically flair comments of certain accounts
     description: Automatically flair posts/comments with a suffix whenever customizable events occur
   tags:
-    technologies: python reddit git json sqlite
+    technologies: python reddit sqlite json
     concepts: bot database
 reddit-soccer-standings-sync:
   source:
@@ -304,8 +303,8 @@ reddit-soccer-standings-sync:
     alt: Sync standings table in sidebar of subreddit with website
     description: Keep tables in subreddit sidebars synced with the actual soccar standings
   tags:
-    technologies: python reddit git json sqlite
-    concepts: bot data-mining database
+    technologies: reddit python markdown json rest
+    concepts: data-mining automation bot
 dropbox-orb:
   source:
     repo: dropbox-orb
@@ -317,8 +316,8 @@ dropbox-orb:
     alt: "[Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]"
     description: Allow developers to perform Dropbox actions in their workflows
   tags:
-    technologies: git circle-ci sh yaml curl dropbox
-    concepts: addition
+    technologies: circle-ci dropbox sh yaml curl
+    concepts: automation authentication authorization
 reddit-orb:
   source:
     repo: reddit-orb
@@ -330,8 +329,8 @@ reddit-orb:
     alt: "[Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]"
     description: Allow developers to perform Reddit actions in their workflows
   tags:
-    technologies: git circle-ci sh yaml curl reddit
-    concepts: addition
+    technologies: circle-ci reddit sh yaml curl rest
+    concepts: automation authentication authorization
 bible-trivia:
   source:
     repo: BibleTrivia
@@ -352,8 +351,8 @@ subnet-scanner:
     title: Subnet Scanner
     alt: Scan a given network for active IP addresses
   tags:
-    technologies: ruby bundler
-    concepts: cli network
+    technologies: ruby cli bundler
+    concepts: network
 socket-size-grapher:
   source:
     repo: SocketSizeGrapher
@@ -364,7 +363,7 @@ socket-size-grapher:
     alt: graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers
     description: Take a CSV of socket sizes and generate a custom graph of all of them, so you can easily switch between them
   tags:
-    technologies: javascript csv
+    technologies: javascript csv cli npm
     concepts: graph
 magicjack-call-forwarding-toggler:
   source:
@@ -422,7 +421,7 @@ reddit-phrase-unbanner:
     alt: Unban users who comment any of the configured phrases
   tags:
     technologies: python reddit json
-    concepts: bot
+    concepts: bot automation
 reddit-tellsyouajoke-bot:
   source:
     repo: RedditTellsYouAJokeBot
@@ -440,7 +439,7 @@ wedidit-reddit-bot:
     alt: Responds to variable comments with responses
   tags:
     technologies: python reddit json
-    concepts: bot
+    concepts: bot automation
 dynabook-driver-downloader:
   source:
     gist: d83eac06da6ec85c4095f146cab55a2e
@@ -464,7 +463,7 @@ discord-mc-count-updater:
     alt: "bot playing text displaying 'Online: 11'"
     description: Bot that updates the playing now text with the count of how many people are on a Minecraft server
   tags:
-    technologies: javascript discord-js
+    technologies: discord-js discord javascript json npm rest
     concepts: bot
 tech-crunch-clone:
   source:
@@ -474,11 +473,11 @@ tech-crunch-clone:
     live: https://rascaltwo.github.io/TechCrunchClone/
   text:
     title: Tech Crunch Clone
-    alt: "tech crunch homepage"
+    alt: tech crunch homepage
     description: incrementally Static Regenerating clone of the Tech Crunch Homepage
   tags:
-    technologies: typescript javascript html css git
-    concepts: frontend data-mining
+    technologies: typescript github javascript html css sh ejs json svg github-actions npm
+    concepts: data-mining automation frontend fullstack
 twitch-vod-chat-downloader:
   source:
     repo: TwitchVODChatDownloader
@@ -630,8 +629,8 @@ ultimate-random-animal-generator:
     alt: Four random animal images; fish, koala, snake, and two foxes
     description: A Random Animal picture Generator utilizing over 13 unique datasets
   tags:
-    technologies: javascript html css
-    concepts: frontend
+    technologies: rest github javascript html css json
+    concepts: frontend gui
 daily-problems:
   source:
     repo: DailyProblem
@@ -639,5 +638,5 @@ daily-problems:
     title: Daily Coding Problems
     alt: Catalog of all my daily-completed coding challenge solutions
   tags:
-    technologies: javascript typescript python java ruby cs markdown php sh cpp lua
+    technologies: javascript python java c typescript sh cpp cs lua php ruby markdown postgresql svg yaml pytest coverage-py git
     concepts: challenge
