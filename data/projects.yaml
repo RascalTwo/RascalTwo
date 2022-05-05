@@ -650,3 +650,17 @@ codewar-scripts:
   tags:
     technologies: typescript javascript chrome firefox greasemonkey npm playwright git rest
     concepts: automation addition authentication data-mining
+multiplayer-trivia:
+  source:
+    repo: MultiplayerTrivia
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/167023738-20ece14a-fa81-445c-a541-3d3502b16c91.jpg
+    video: https://user-images.githubusercontent.com/9403665/167023620-473c29ca-5a23-443d-bdd8-46cc72dff8e8.mp4
+    live: https://rascaltwo.github.io/MultiplayerTrivia/public
+  text:
+    title: Multiplayer Trivia
+    alt: Three browsers playing the trivia game
+    description: Multiplayer trivia game built with frontend-only technologies!
+  tags:
+    technologies: typescript github javascript html css json npm
+    concepts: network authentication frontend game gui
