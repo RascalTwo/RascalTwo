@@ -640,3 +640,13 @@ daily-problems:
   tags:
     technologies: javascript python java c typescript sh cpp cs lua php ruby markdown postgresql svg yaml pytest coverage-py git
     concepts: challenge
+codewar-scripts:
+  source:
+    repo: CodewarScripts
+  text:
+    title: Codewars Scripts
+    alt: Various Scripts for automating the Codewars experience
+    description: Scripts for automating the Codewars experience, from downloading your clan rankings & own solutions, improving the website UI, to automatically voting on katas!
+  tags:
+    technologies: typescript javascript chrome firefox greasemonkey npm playwright git rest
+    concepts: automation addition authentication data-mining
