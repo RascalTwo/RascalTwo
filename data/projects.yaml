@@ -632,3 +632,12 @@ ultimate-random-animal-generator:
   tags:
     technologies: javascript html css
     concepts: frontend
+daily-problems:
+  source:
+    repo: DailyProblem
+  text:
+    title: Daily Coding Problems
+    alt: Catalog of all my daily-completed coding challenge solutions
+  tags:
+    technologies: javascript typescript python java ruby cs markdown php sh cpp lua
+    concepts: challenge
