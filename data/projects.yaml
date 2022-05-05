@@ -619,3 +619,16 @@ novemator:
   tags:
     technologies: javascript html css
     concepts: game frontend
+ultimate-random-animal-generator:
+  source:
+    repo: RandomAnimalGenerator
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/166978208-781e2077-e4be-43a7-b6d8-e50bbec37b17.png
+    live: https://rascaltwo.github.io/RandomAnimalGenerator/
+  text:
+    title: Ultimate Random Animal Generator
+    alt: Four random animal images; fish, koala, snake, and two foxes
+    description: A Random Animal picture Generator utilizing over 13 unique datasets
+  tags:
+    technologies: javascript html css
+    concepts: frontend
