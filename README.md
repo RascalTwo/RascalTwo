@@ -1,25 +1,23 @@
-<h1 align="center">Hello, World!</h1>
+![Rascal Two - Software Engineer](https://user-images.githubusercontent.com/9403665/168090287-55e86873-e614-40f7-810b-bd0c1e730eab.png)
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50px"> <img src="https://media4.giphy.com/media/dlh7c1N7NqrH1ns4Yf/giphy.gif" height="50px">
 </p>
 
 <p align="center">
+  <a href="https://rascaltwo.com"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a>
   <a href="mailto:therealrascaltwo@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
-  <a href="https://github.com/RascalTwo"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
   <a href="https://twitter.com/RealRascalTwo"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
+  <a href="https://github.com/RascalTwo"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
+  <a href="https://www.linkedin.com/in/joseph97milliken/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://angel.co/u/joseph-milliken"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
+  <a href="https://josephmilliken.com/resume.pdf"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=Frontend+Programmer;Backend+Developer;Fullstack+Engineer;Polyglot;...and+more!" alt="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!" title="Frontend Programmer, Backend Developer, Fullstack Engineer, and more!">
-</p>
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/rascaltwo" />
-</p>
+ Making technology make sense, ask me about anything!
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary><img src="https://gpvc.arturio.dev/rascaltwo" /></summary>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascaltwo&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&hide_border=true&custom_title=GitHub%20Breakdown" alt="Top language used in my public repos" />
@@ -27,6 +25,161 @@
     <img src="https://metrics.lecoq.io/RascalTwo?template=classic&repositories.forks=true&isocalendar=1&gists=1&lines=1&achievements=1&activity=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York" />
   </p>
 </details>
+
+## Projects
+
+<!-- PROJECTS BEGIN -->
+[netgear-wgr614v9-monitor image]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg "Dashboard showing graph of network traffic with statistics table below"
+[netgear-wgr614v9-monitor video]: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
+[netgear-wgr614v9-monitor source]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
+[vonage-chroma-key-video source]: https://github.com/nexmo-community/build-a-thing-video/pull/13
+[vonage-chroma-key-video image]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif "Customizable chroma-keying of a background on live video with little latency"
+[vonage-chroma-key-video video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
+[replit-code-challenges image]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg "Submitted code showing failed test"
+[replit-code-challenges video]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
+[replit-code-challenges source]: https://github.com/RascalTwo/Repl.itJam10
+[synced-task-manager image]: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg "Empty task list with field to add new entries"
+[synced-task-manager video]: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
+[synced-task-manager source]: https://github.com/RascalTwo/Todo-Fullstack
+[camp-kid-tracker image]: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg "Two students being listed in tracker"
+[camp-kid-tracker video]: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
+[camp-kid-tracker source]: https://github.com/RascalTwo/CampKidTracker
+[magicjack-call-forwarding-toggler image]: https://user-images.githubusercontent.com/9403665/131440209-c7ee6f9c-8bc7-4671-bd2f-d60a95e0e415.jpg "dashboard showing call fowarding hving just been toggled on"
+[magicjack-call-forwarding-toggler video]: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
+[magicjack-call-forwarding-toggler source]: https://github.com/RascalTwo/MagicJackCallFowardingToggler
+[video-subimage-search image]: https://user-images.githubusercontent.com/9403665/131948540-4c9991c2-f874-4ca2-8b61-dc31c8d5f489.jpg "GUI showing discovered frames of WatchMojo video with title on screen"
+[video-subimage-search video]: https://user-images.githubusercontent.com/9403665/131947673-89d0a59d-2d5c-4cfb-a440-487d1a518668.mp4
+[video-subimage-search source]: https://github.com/RascalTwo/VideoSubImageSearch
+[tech-crunch-clone image]: https://user-images.githubusercontent.com/9403665/157214139-e79c186a-0848-45c9-aa0f-79dc80127fed.png "tech crunch homepage"
+[tech-crunch-clone source]: https://github.com/RascalTwo/TechCrunchClone
+[password-generator image]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg "YouTube thumbnail"
+[password-generator external_video]: https://www.youtube.com/watch?v=1wepX5_ptTA
+[password-generator source]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
+[javascript-calculator source]: https://codepen.io/Rascal_Two/pen/RMMEXp
+[javascript-calculator image]: https://i.imgur.com/qxwLglx.png "calculator with 1337 in text field"
+[bookmarks-backup-webextension image]: https://user-images.githubusercontent.com/9403665/131948277-6f5fd3e4-275c-4b21-95b5-e8f1cdb2dd46.jpg "bookmarks selected in extension popup, ready for download"
+[bookmarks-backup-webextension video]: https://user-images.githubusercontent.com/9403665/131939321-0d49fd61-8cd6-4231-9af7-ea70526a2f7f.mp4
+[bookmarks-backup-webextension source]: https://github.com/RascalTwo/BookmarksBackupExtension
+[dynabook-driver-downloader image]: https://user-images.githubusercontent.com/9403665/135499436-b69c95da-ba52-4dad-ae75-0624d2d18381.jpg "Table showing recommended drivers selected for download"
+[dynabook-driver-downloader video]: https://user-images.githubusercontent.com/9403665/134781311-fdd89f3f-083d-457e-90ad-3b0f3637e62b.mp4
+[dynabook-driver-downloader source]: https://gist.github.com/RascalTwo/d83eac06da6ec85c4095f146cab55a2e
+[convex-hull-overlay image]: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg "convex hull overlay around points in radius of center"
+[convex-hull-overlay video]: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
+[convex-hull-overlay source]: https://gist.github.com/RascalTwo/72443978d4f8f4464197e34838b112cd
+[dominoel image]: https://user-images.githubusercontent.com/9403665/157889815-9d607ccc-9a2f-46bf-a964-a1d295256ad7.png "homepage showing an opening message and various ingredient images to the right"
+[dominoel source]: https://glitch.com/edit/#!/festive-hazel-gauge
+[socket-size-grapher image]: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png "graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers"
+[socket-size-grapher source]: https://github.com/RascalTwo/SocketSizeGrapher
+
+<details open>
+  <summary>Generic</summary>
+
+|    [NETGEAR WGR614v9 Network Monitor](docs/projects/netgear-wgr614v9-monitor.md) <sup>[&#x1F5D7;][netgear-wgr614v9-monitor source]</sup>    |            [Vonage Chroma-Key Video](docs/projects/vonage-chroma-key-video.md) <sup>[&#x1F5D7;][vonage-chroma-key-video source]</sup>           | [Repl.it Code Challenges](docs/projects/replit-code-challenges.md) <sup>[&#x1F5D7;][replit-code-challenges source]</sup> | [Synced-Task Manager](docs/projects/synced-task-manager.md) <sup>[&#x1F5D7;][synced-task-manager source]</sup> | [Camp Kid Tracker](docs/projects/camp-kid-tracker.md) <sup>[&#x1F5D7;][camp-kid-tracker source]</sup> | [MagicJack Call-Forwarding Toggler](docs/projects/magicjack-call-forwarding-toggler.md) <sup>[&#x1F5D7;][magicjack-call-forwarding-toggler source]</sup> |         [Video SubImage Search](docs/projects/video-subimage-search.md) <sup>[&#x1F5D7;][video-subimage-search source]</sup>         | [Tech Crunch Clone](docs/projects/tech-crunch-clone.md) <sup>[&#x1F5D7;][tech-crunch-clone source]</sup> | [Tkinter Password Generator](docs/projects/password-generator.md) <sup>[&#x1F5D7;][password-generator source]</sup> | [JavaScript Calculator](docs/projects/javascript-calculator.md) <sup>[&#x1F5D7;][javascript-calculator source]</sup> | [Bookmarks Backup WebExtension](docs/projects/bookmarks-backup-webextension.md) <sup>[&#x1F5D7;][bookmarks-backup-webextension source]</sup> | [Dynabook Driver Downloader](docs/projects/dynabook-driver-downloader.md) <sup>[&#x1F5D7;][dynabook-driver-downloader source]</sup> |  [Convex Hull Overlay](docs/projects/convex-hull-overlay.md) <sup>[&#x1F5D7;][convex-hull-overlay source]</sup>  |       [Dominoel Website](docs/projects/dominoel.md) <sup>[&#x1F5D7;][dominoel source]</sup>       | [Socket Size Grapher](docs/projects/socket-size-grapher.md) <sup>[&#x1F5D7;][socket-size-grapher source]</sup> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| [![Dashboard showing graph of network traffic with statistics table below][netgear-wgr614v9-monitor image]][netgear-wgr614v9-monitor video] | [![Customizable chroma-keying of a background on live video with little latency][vonage-chroma-key-video image]][vonage-chroma-key-video video] |           [![Submitted code showing failed test][replit-code-challenges image]][replit-code-challenges video]            |    [![Empty task list with field to add new entries][synced-task-manager image]][synced-task-manager video]    |       [![Two students being listed in tracker][camp-kid-tracker image]][camp-kid-tracker video]       |    [![dashboard showing call fowarding hving just been toggled on][magicjack-call-forwarding-toggler image]][magicjack-call-forwarding-toggler video]    | [![GUI showing discovered frames of WatchMojo video with title on screen][video-subimage-search image]][video-subimage-search video] |                             ![tech crunch homepage][tech-crunch-clone image]                             |                 [![YouTube thumbnail][password-generator image]][password-generator external_video]                 |                          ![calculator with 1337 in text field][javascript-calculator image]                          |   [![bookmarks selected in extension popup, ready for download][bookmarks-backup-webextension image]][bookmarks-backup-webextension video]   |   [![Table showing recommended drivers selected for download][dynabook-driver-downloader image]][dynabook-driver-downloader video]  | [![convex hull overlay around points in radius of center][convex-hull-overlay image]][convex-hull-overlay video] | ![homepage showing an opening message and various ingredient images to the right][dominoel image] |      ![graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers][socket-size-grapher image]      |
+
+</details>
+
+[flappy-bird image]: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg "Flappy bird flying between pipes with a score of 4 and high score of 6"
+[flappy-bird video]: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
+[flappy-bird source]: https://github.com/RascalTwo/FlappyBird
+[cross-platform-hangman image]: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif "GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'"
+[cross-platform-hangman source]: https://github.com/RascalTwo/PythonHangman
+[rail-snake image]: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg "rail snake turning around after picking up food in top right corner"
+[rail-snake video]: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
+[rail-snake source]: https://github.com/RascalTwo/RailSnake
+[brython-hangman image]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif "correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'"
+[brython-hangman source]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
+[infinite-driver image]: https://user-images.githubusercontent.com/9403665/145287983-cbbc20d3-87de-44e2-b0c1-3195860db953.jpg "Red car turning towards gas can"
+[infinite-driver video]: https://user-images.githubusercontent.com/9403665/145287295-5d352e49-c081-4d70-b210-b31d9f862f1f.mp4
+[infinite-driver source]: https://github.com/RascalTwo/InfiniteDriver
+[novemator image]: https://user-images.githubusercontent.com/9403665/159194192-c1aee587-496e-4e31-b64f-e6a7e26bf379.png "game shown with a single key pressed"
+[novemator source]: https://github.com/RascalTwo/novemator
+[calculator-chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png "Nearly-perfect recreation of the flash game 'Calculator Chaos'"
+[calculator-chaos source]: https://github.com/RascalTwo/Calculator-Chaos
+[bible-trivia image]: https://user-images.githubusercontent.com/9403665/129602672-6cbd3b89-6ff0-408e-8bd2-a5fbe39e43b2.png "gameplay with two failed guesses, two correct guesses, and one life remainining"
+[bible-trivia video]: https://user-images.githubusercontent.com/9403665/129601925-3d74cc16-5327-45b3-8973-fc67ef2f72cb.mp4
+[bible-trivia source]: https://github.com/RascalTwo/BibleTrivia
+[minesweeper-cli image]: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg "Minesweeper board half cleared of bombs"
+[minesweeper-cli video]: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
+[minesweeper-cli source]: https://gist.github.com/RascalTwo/dbc362ccf8b2497f4d04a37df83575a9
+[number-memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png "four pairs of numbers matched with 8 pairs remaining"
+[number-memory source]: https://github.com/RascalTwo/Number-Memory-Game
+[morse-knight image]: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg "Attack menu action being selected"
+[morse-knight video]: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
+[morse-knight source]: https://github.com/RascalTwo/OneButtonMorseKnightPrototype
+
+<details open>
+  <summary>Games</summary>
+
+|               [Flappy Bird](docs/projects/flappy-bird.md) <sup>[&#x1F5D7;][flappy-bird source]</sup>              | [Python Cross-Platform Hangman](docs/projects/cross-platform-hangman.md) <sup>[&#x1F5D7;][cross-platform-hangman source]</sup> |             [Rail Snake](docs/projects/rail-snake.md) <sup>[&#x1F5D7;][rail-snake source]</sup>              |    [Brython Hangman](docs/projects/brython-hangman.md) <sup>[&#x1F5D7;][brython-hangman source]</sup>   | [Infinite Driver](docs/projects/infinite-driver.md) <sup>[&#x1F5D7;][infinite-driver source]</sup> | [Novemator](docs/projects/novemator.md) <sup>[&#x1F5D7;][novemator source]</sup> | [Calculator Chaos](docs/projects/calculator-chaos.md) <sup>[&#x1F5D7;][calculator-chaos source]</sup> |                  [Bible Trivia](docs/projects/bible-trivia.md) <sup>[&#x1F5D7;][bible-trivia source]</sup>                   | [Minesweeper CLI](docs/projects/minesweeper-cli.md) <sup>[&#x1F5D7;][minesweeper-cli source]</sup> | [Number Memory](docs/projects/number-memory.md) <sup>[&#x1F5D7;][number-memory source]</sup> | [Morse Knight](docs/projects/morse-knight.md) <sup>[&#x1F5D7;][morse-knight source]</sup> |
+| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| [![Flappy bird flying between pipes with a score of 4 and high score of 6][flappy-bird image]][flappy-bird video] |           ![GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'][cross-platform-hangman image]           | [![rail snake turning around after picking up food in top right corner][rail-snake image]][rail-snake video] | ![correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'][brython-hangman image] |         [![Red car turning towards gas can][infinite-driver image]][infinite-driver video]         |             ![game shown with a single key pressed][novemator image]             |       ![Nearly-perfect recreation of the flash game 'Calculator Chaos'][calculator-chaos image]       | [![gameplay with two failed guesses, two correct guesses, and one life remainining][bible-trivia image]][bible-trivia video] |     [![Minesweeper board half cleared of bombs][minesweeper-cli image]][minesweeper-cli video]     |         ![four pairs of numbers matched with 8 pairs remaining][number-memory image]         |       [![Attack menu action being selected][morse-knight image]][morse-knight video]      |
+
+</details>
+
+[python-testing-bug-hunt source]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
+[aoc source]: https://github.com/RascalTwo/AdventOfCode
+
+<details open>
+  <summary>Challenges</summary>
+
+| [Python Testing Bug-Hunt](docs/projects/python-testing-bug-hunt.md) <sup>[&#x1F5D7;][python-testing-bug-hunt source]</sup> | [Advent of Code](docs/projects/aoc.md) <sup>[&#x1F5D7;][aoc source]</sup> |
+| :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|                                                 Python bug scavenger hunt                                                  |                        My Advent of Code solutions                        |
+
+</details>
+
+[hata-discord source]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
+[pybuddies-discord source]: https://github.com/RascalTwo/PythonBuddiesBot
+[reddit-rotten-tomatoes source]: https://github.com/RascalTwo/RedditRottenTomatoesBot
+[discord-mc-count-updater image]: https://user-images.githubusercontent.com/9403665/135724974-c2d80b44-9bbb-4db5-972a-e36b64155fbf.png "bot playing text displaying 'Online: 11'"
+[discord-mc-count-updater source]: https://gist.github.com/RascalTwo/5af068c248aa9e4936a8219f8ffcf020
+[reddit-googlealert-rss source]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
+[reddit-pokemon-giveaway-flairer source]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
+[reddit-auto-flairer source]: https://github.com/RascalTwo/RedditDevResponseFlairer
+[reddit-soccer-standings-sync source]: https://github.com/RascalTwo/RedditSoccerStandingsSidebarSync
+[reddit-participation-flair-bot source]: https://github.com/RascalTwo/RedditParticipationFlairBot
+[reddit-phrase-unbanner source]: https://github.com/RascalTwo/RedditPhraseUnbanner
+[reddit-tellsyouajoke-bot source]: https://github.com/RascalTwo/RedditTellsYouAJokeBot
+[wedidit-reddit-bot source]: https://github.com/RascalTwo/WeDidItRedditBot
+
+<details open>
+  <summary>Bots</summary>
+
+| [Hata Discord](docs/projects/hata-discord.md) <sup>[&#x1F5D7;][hata-discord source]</sup> | [PyBuddies Discord](docs/projects/pybuddies-discord.md) <sup>[&#x1F5D7;][pybuddies-discord source]</sup> | [Reddit RottenTomatoes](docs/projects/reddit-rotten-tomatoes.md) <sup>[&#x1F5D7;][reddit-rotten-tomatoes source]</sup> | [Discord Minecraft Server Count Updator](docs/projects/discord-mc-count-updater.md) <sup>[&#x1F5D7;][discord-mc-count-updater source]</sup> | [Reddit GoogleAlert RSS](docs/projects/reddit-googlealert-rss.md) <sup>[&#x1F5D7;][reddit-googlealert-rss source]</sup> | [Reddit PokemonGiveaway Flairer](docs/projects/reddit-pokemon-giveaway-flairer.md) <sup>[&#x1F5D7;][reddit-pokemon-giveaway-flairer source]</sup> | [Reddit Auto Flairer](docs/projects/reddit-auto-flairer.md) <sup>[&#x1F5D7;][reddit-auto-flairer source]</sup> | [Reddit Soccer Standings Sync](docs/projects/reddit-soccer-standings-sync.md) <sup>[&#x1F5D7;][reddit-soccer-standings-sync source]</sup> | [Reddit Participation Flair Bot](docs/projects/reddit-participation-flair-bot.md) <sup>[&#x1F5D7;][reddit-participation-flair-bot source]</sup> | [Reddit Phrase Unbanner](docs/projects/reddit-phrase-unbanner.md) <sup>[&#x1F5D7;][reddit-phrase-unbanner source]</sup> | [Reddit TellsYouAJoke Bot](docs/projects/reddit-tellsyouajoke-bot.md) <sup>[&#x1F5D7;][reddit-tellsyouajoke-bot source]</sup> | [Reddit WeDidIt Bot](docs/projects/wedidit-reddit-bot.md) <sup>[&#x1F5D7;][wedidit-reddit-bot source]</sup> |
+| :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                     Multi-client bot providing multiple games and more                    |                 Collaborative multi-feature Discord bot, with games, scrapers, and more!                 |                                            Post the Top Movies of the week                                             |                                 ![bot playing text displaying 'Online: 11'][discord-mc-count-updater image]                                 |                                 Mirror items from GoogleAlert RSS as posts to Subreddit                                 |                                                Allow users to set their floairs via private message                                               |                                Automatically flair comments of certain accounts                                |                                         Sync standings table in sidebar of subreddit with website                                         |                              Assign flairs to users based on how active they are commenting/posting in a subreddit                              |                                  Unban users who comment any of the configured phrases                                  |                            Tells users who summon it a joke, sourced locally and from Trello boards                           |                                 Responds to variable comments with responses                                |
+
+</details>
+
+[twitch-user-markers image]: https://user-images.githubusercontent.com/9403665/157343750-c92ddaa2-56f1-498f-95ac-bbad16484a0e.jpg "navigation of all userscript features"
+[twitch-user-markers video]: https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4
+[twitch-user-markers source]: https://github.com/RascalTwo/TwitchUserMarkers
+[reddit-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
+[reddit-orb reddit_http_api]: https://www.reddit.com/dev/api/
+[reddit-orb source]: https://github.com/RascalTwo/reddit-orb
+[twitch-chat-poll-visualizer image]: https://user-images.githubusercontent.com/9403665/157885882-8a604a8f-cb8b-4cf9-bd08-5ffac5776af0.jpg "line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric"
+[twitch-chat-poll-visualizer video]: https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4
+[twitch-chat-poll-visualizer source]: https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer
+[dropbox-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
+[dropbox-orb dropbox_http_api]: https://www.dropbox.com/developers/documentation/http/documentation
+[dropbox-orb source]: https://github.com/RascalTwo/dropbox-orb
+[subnet-scanner source]: https://github.com/RascalTwo/RubySubnetScanner
+[twitch-vod-chat-downloader source]: https://github.com/RascalTwo/TwitchVODChatDownloader
+
+<details open>
+  <summary>Tools</summary>
+
+| [Twitch User-Markers](docs/projects/twitch-user-markers.md) <sup>[&#x1F5D7;][twitch-user-markers source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> |                        [Twitch Chat Poll Visualizer](docs/projects/twitch-chat-poll-visualizer.md) <sup>[&#x1F5D7;][twitch-chat-poll-visualizer source]</sup>                       | [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> | [Twitch VOD Chat Downloader](docs/projects/twitch-vod-chat-downloader.md) <sup>[&#x1F5D7;][twitch-vod-chat-downloader source]</sup> |
+| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|        [![navigation of all userscript features][twitch-user-markers image]][twitch-user-markers video]        |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   | [![line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric][twitch-chat-poll-visualizer image]][twitch-chat-poll-visualizer video] |   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |                           Scan a given network for active IP addresses                          |                                                         Download Twitch Chat                                                        |
+
+</details>
+<!-- PROJECTS END -->
+
+## Technologies
+
 
 <details>
   <summary>Experienced Technologies</summary>
@@ -3292,180 +3445,8 @@
   <!-- TECHNOLOGIES END -->
 </details>
 
-## Projects
+## Connect
 
-[gists]: https://gist.github.com/RascalTwo/
-[vonage chroma-key branch]: https://github.com/RascalTwo/build-a-thing-video/tree/feature/greenscreen-background-image
-[vonage chroma-key gif]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif
-[vonage chroma-key video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
-[js-calc-img]: https://i.imgur.com/qxwLglx.png
-[js-calc-link]: https://codepen.io/Rascal_Two/pen/RMMEXp
-[tkinter password generator thumbnail]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg
-[tkinter password generator video]: https://www.youtube.com/watch?v=1wepX5_ptTA
-[tkinter password generator repo]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
-[replit jam 10 repo]: https://github.com/RascalTwo/Repl.itJam10
-[replit jam 10 thumbnail]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg
-[replit jam 10 video]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
-[convex hull overlay gist]: https://gist.github.com/RascalTwo/72443978d4f8f4464197e34838b112cd
-[convex hull overlay thumbnail]: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg
-[convex hull overlay video]: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
-[todo fullstack repo]: https://github.com/RascalTwo/Todo-Fullstack
-[todo fullstack thumbnail]: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg
-[todo fullstack video]: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
-[campkidtracker repo]: https://github.com/RascalTwo/CampKidTracker
-[campkidtracker thumbnail]: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg
-[campkidtracker video]: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
 
-Much of my work is private, but you can see my public work in my one-of-many repos here, and in my many [gists][gists]
-
-<!-- PROJECTS BEGIN -->
-[netgear-wgr614v9-monitor image]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg "Dashboard showing graph of network traffic with statistics table below"
-[netgear-wgr614v9-monitor video]: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
-[netgear-wgr614v9-monitor source]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
-[vonage-chroma-key-video source]: https://github.com/nexmo-community/build-a-thing-video/pull/13
-[vonage-chroma-key-video image]: https://user-images.githubusercontent.com/9403665/97345723-cc648980-1860-11eb-973d-71a84de607f3.gif "Customizable chroma-keying of a background on live video with little latency"
-[vonage-chroma-key-video video]: https://user-images.githubusercontent.com/9403665/128147168-103c45a8-b20f-4f68-a837-649dc5f3272c.mp4
-[replit-code-challenges image]: https://user-images.githubusercontent.com/9403665/128227990-23ab8a1c-f074-4d51-bad5-357df3e6590b.jpg "Submitted code showing failed test"
-[replit-code-challenges video]: https://user-images.githubusercontent.com/9403665/128227331-f132060e-0b3c-4ba9-befc-5f1a5fe04c8b.mp4
-[replit-code-challenges source]: https://github.com/RascalTwo/Repl.itJam10
-[synced-task-manager image]: https://user-images.githubusercontent.com/9403665/128641893-76f31094-8c4b-427b-93f6-cbc1c0f6d67c.jpg "Empty task list with field to add new entries"
-[synced-task-manager video]: https://user-images.githubusercontent.com/9403665/128641790-101528de-1d00-4648-83cc-072ddd6bc83f.mp4
-[synced-task-manager source]: https://github.com/RascalTwo/Todo-Fullstack
-[camp-kid-tracker image]: https://user-images.githubusercontent.com/9403665/129500888-76990752-6d8e-4ef1-b110-4f18bd66a146.jpg "Two students being listed in tracker"
-[camp-kid-tracker video]: https://user-images.githubusercontent.com/9403665/129500590-9681126a-9883-4242-86c8-43636c875fad.mp4
-[camp-kid-tracker source]: https://github.com/RascalTwo/CampKidTracker
-[magicjack-call-forwarding-toggler image]: https://user-images.githubusercontent.com/9403665/131440209-c7ee6f9c-8bc7-4671-bd2f-d60a95e0e415.jpg "dashboard showing call fowarding hving just been toggled on"
-[magicjack-call-forwarding-toggler video]: https://user-images.githubusercontent.com/9403665/131439320-d292e3f7-ff15-4ba1-8132-ea2565406e5c.mp4
-[magicjack-call-forwarding-toggler source]: https://github.com/RascalTwo/MagicJackCallFowardingToggler
-[video-subimage-search image]: https://user-images.githubusercontent.com/9403665/131948540-4c9991c2-f874-4ca2-8b61-dc31c8d5f489.jpg "GUI showing discovered frames of WatchMojo video with title on screen"
-[video-subimage-search video]: https://user-images.githubusercontent.com/9403665/131947673-89d0a59d-2d5c-4cfb-a440-487d1a518668.mp4
-[video-subimage-search source]: https://github.com/RascalTwo/VideoSubImageSearch
-[tech-crunch-clone image]: https://user-images.githubusercontent.com/9403665/157214139-e79c186a-0848-45c9-aa0f-79dc80127fed.png "tech crunch homepage"
-[tech-crunch-clone source]: https://github.com/RascalTwo/TechCrunchClone
-[password-generator image]: https://img.youtube.com/vi/1wepX5_ptTA/maxresdefault.jpg "YouTube thumbnail"
-[password-generator external_video]: https://www.youtube.com/watch?v=1wepX5_ptTA
-[password-generator source]: https://github.com/RascalTwo/PythonBuddiesPasswordGenerator
-[javascript-calculator source]: https://codepen.io/Rascal_Two/pen/RMMEXp
-[javascript-calculator image]: https://i.imgur.com/qxwLglx.png "calculator with 1337 in text field"
-[bookmarks-backup-webextension image]: https://user-images.githubusercontent.com/9403665/131948277-6f5fd3e4-275c-4b21-95b5-e8f1cdb2dd46.jpg "bookmarks selected in extension popup, ready for download"
-[bookmarks-backup-webextension video]: https://user-images.githubusercontent.com/9403665/131939321-0d49fd61-8cd6-4231-9af7-ea70526a2f7f.mp4
-[bookmarks-backup-webextension source]: https://github.com/RascalTwo/BookmarksBackupExtension
-[dynabook-driver-downloader image]: https://user-images.githubusercontent.com/9403665/135499436-b69c95da-ba52-4dad-ae75-0624d2d18381.jpg "Table showing recommended drivers selected for download"
-[dynabook-driver-downloader video]: https://user-images.githubusercontent.com/9403665/134781311-fdd89f3f-083d-457e-90ad-3b0f3637e62b.mp4
-[dynabook-driver-downloader source]: https://gist.github.com/RascalTwo/d83eac06da6ec85c4095f146cab55a2e
-[convex-hull-overlay image]: https://user-images.githubusercontent.com/9403665/128611440-e00d2be8-bf4b-45d6-932c-e8a810e21cb3.jpg "convex hull overlay around points in radius of center"
-[convex-hull-overlay video]: https://user-images.githubusercontent.com/9403665/128611294-7d930c26-d562-49a6-af73-813c0888e25f.mp4
-[convex-hull-overlay source]: https://gist.github.com/RascalTwo/72443978d4f8f4464197e34838b112cd
-[dominoel image]: https://user-images.githubusercontent.com/9403665/157889815-9d607ccc-9a2f-46bf-a964-a1d295256ad7.png "homepage showing an opening message and various ingredient images to the right"
-[dominoel source]: https://glitch.com/edit/#!/festive-hazel-gauge
-[socket-size-grapher image]: https://user-images.githubusercontent.com/9403665/131432559-3afcbc35-c844-4604-a41a-b9f5413da207.png "graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers"
-[socket-size-grapher source]: https://github.com/RascalTwo/SocketSizeGrapher
-
-<details open>
-  <summary>Generic</summary>
-
-|    [NETGEAR WGR614v9 Network Monitor](docs/projects/netgear-wgr614v9-monitor.md) <sup>[&#x1F5D7;][netgear-wgr614v9-monitor source]</sup>    |            [Vonage Chroma-Key Video](docs/projects/vonage-chroma-key-video.md) <sup>[&#x1F5D7;][vonage-chroma-key-video source]</sup>           | [Repl.it Code Challenges](docs/projects/replit-code-challenges.md) <sup>[&#x1F5D7;][replit-code-challenges source]</sup> | [Synced-Task Manager](docs/projects/synced-task-manager.md) <sup>[&#x1F5D7;][synced-task-manager source]</sup> | [Camp Kid Tracker](docs/projects/camp-kid-tracker.md) <sup>[&#x1F5D7;][camp-kid-tracker source]</sup> | [MagicJack Call-Forwarding Toggler](docs/projects/magicjack-call-forwarding-toggler.md) <sup>[&#x1F5D7;][magicjack-call-forwarding-toggler source]</sup> |         [Video SubImage Search](docs/projects/video-subimage-search.md) <sup>[&#x1F5D7;][video-subimage-search source]</sup>         | [Tech Crunch Clone](docs/projects/tech-crunch-clone.md) <sup>[&#x1F5D7;][tech-crunch-clone source]</sup> | [Tkinter Password Generator](docs/projects/password-generator.md) <sup>[&#x1F5D7;][password-generator source]</sup> | [JavaScript Calculator](docs/projects/javascript-calculator.md) <sup>[&#x1F5D7;][javascript-calculator source]</sup> | [Bookmarks Backup WebExtension](docs/projects/bookmarks-backup-webextension.md) <sup>[&#x1F5D7;][bookmarks-backup-webextension source]</sup> | [Dynabook Driver Downloader](docs/projects/dynabook-driver-downloader.md) <sup>[&#x1F5D7;][dynabook-driver-downloader source]</sup> |  [Convex Hull Overlay](docs/projects/convex-hull-overlay.md) <sup>[&#x1F5D7;][convex-hull-overlay source]</sup>  |       [Dominoel Website](docs/projects/dominoel.md) <sup>[&#x1F5D7;][dominoel source]</sup>       | [Socket Size Grapher](docs/projects/socket-size-grapher.md) <sup>[&#x1F5D7;][socket-size-grapher source]</sup> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| [![Dashboard showing graph of network traffic with statistics table below][netgear-wgr614v9-monitor image]][netgear-wgr614v9-monitor video] | [![Customizable chroma-keying of a background on live video with little latency][vonage-chroma-key-video image]][vonage-chroma-key-video video] |           [![Submitted code showing failed test][replit-code-challenges image]][replit-code-challenges video]            |    [![Empty task list with field to add new entries][synced-task-manager image]][synced-task-manager video]    |       [![Two students being listed in tracker][camp-kid-tracker image]][camp-kid-tracker video]       |    [![dashboard showing call fowarding hving just been toggled on][magicjack-call-forwarding-toggler image]][magicjack-call-forwarding-toggler video]    | [![GUI showing discovered frames of WatchMojo video with title on screen][video-subimage-search image]][video-subimage-search video] |                             ![tech crunch homepage][tech-crunch-clone image]                             |                 [![YouTube thumbnail][password-generator image]][password-generator external_video]                 |                          ![calculator with 1337 in text field][javascript-calculator image]                          |   [![bookmarks selected in extension popup, ready for download][bookmarks-backup-webextension image]][bookmarks-backup-webextension video]   |   [![Table showing recommended drivers selected for download][dynabook-driver-downloader image]][dynabook-driver-downloader video]  | [![convex hull overlay around points in radius of center][convex-hull-overlay image]][convex-hull-overlay video] | ![homepage showing an opening message and various ingredient images to the right][dominoel image] |      ![graph of imperial and metric sockets for 1/4 inch and 3/8 inch drivers][socket-size-grapher image]      |
-
-</details>
-
-[flappy-bird image]: https://user-images.githubusercontent.com/9403665/128610949-175ed3aa-0390-414d-83fc-e24c684bf6c4.jpg "Flappy bird flying between pipes with a score of 4 and high score of 6"
-[flappy-bird video]: https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4
-[flappy-bird source]: https://github.com/RascalTwo/FlappyBird
-[cross-platform-hangman image]: https://raw.githubusercontent.com/RascalTwo/PythonHangman/assets/gui.gif "GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'"
-[cross-platform-hangman source]: https://github.com/RascalTwo/PythonHangman
-[rail-snake image]: https://user-images.githubusercontent.com/9403665/128610992-885f1ad7-d1e1-4d3b-a0d5-a018b86367ac.jpg "rail snake turning around after picking up food in top right corner"
-[rail-snake video]: https://user-images.githubusercontent.com/9403665/128609025-1953e58b-5f51-463f-807a-2e68ce5d302d.mp4
-[rail-snake source]: https://github.com/RascalTwo/RailSnake
-[brython-hangman image]: https://user-images.githubusercontent.com/9403665/81029366-9bc40a00-8e52-11ea-97b7-73585662d1ae.gif "correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'"
-[brython-hangman source]: https://gist.github.com/RascalTwo/4161f2c1672b3e04d28cc934651eb95f
-[infinite-driver image]: https://user-images.githubusercontent.com/9403665/145287983-cbbc20d3-87de-44e2-b0c1-3195860db953.jpg "Red car turning towards gas can"
-[infinite-driver video]: https://user-images.githubusercontent.com/9403665/145287295-5d352e49-c081-4d70-b210-b31d9f862f1f.mp4
-[infinite-driver source]: https://github.com/RascalTwo/InfiniteDriver
-[novemator image]: https://user-images.githubusercontent.com/9403665/159194192-c1aee587-496e-4e31-b64f-e6a7e26bf379.png "game shown with a single key pressed"
-[novemator source]: https://github.com/RascalTwo/novemator
-[calculator-chaos image]: https://user-images.githubusercontent.com/9403665/128142933-41c04f98-3fb6-4cea-9eb5-99c754798910.png "Nearly-perfect recreation of the flash game 'Calculator Chaos'"
-[calculator-chaos source]: https://github.com/RascalTwo/Calculator-Chaos
-[bible-trivia image]: https://user-images.githubusercontent.com/9403665/129602672-6cbd3b89-6ff0-408e-8bd2-a5fbe39e43b2.png "gameplay with two failed guesses, two correct guesses, and one life remainining"
-[bible-trivia video]: https://user-images.githubusercontent.com/9403665/129601925-3d74cc16-5327-45b3-8973-fc67ef2f72cb.mp4
-[bible-trivia source]: https://github.com/RascalTwo/BibleTrivia
-[minesweeper-cli image]: https://user-images.githubusercontent.com/9403665/128233304-44a46fdd-ae45-456a-8fca-3d50d18cbe69.jpg "Minesweeper board half cleared of bombs"
-[minesweeper-cli video]: https://user-images.githubusercontent.com/9403665/128233154-42cc4624-c90b-4531-87af-4d2086839bfa.mp4
-[minesweeper-cli source]: https://gist.github.com/RascalTwo/dbc362ccf8b2497f4d04a37df83575a9
-[number-memory image]: https://user-images.githubusercontent.com/9403665/128144179-2f596210-7a85-4deb-a45a-20c9dee66266.png "four pairs of numbers matched with 8 pairs remaining"
-[number-memory source]: https://github.com/RascalTwo/Number-Memory-Game
-[morse-knight image]: https://user-images.githubusercontent.com/9403665/129433014-a31b8f0e-c630-4329-82e6-c6cdae6986a2.jpg "Attack menu action being selected"
-[morse-knight video]: https://user-images.githubusercontent.com/9403665/129432949-88329673-b23a-4e3d-b9b2-b408c6daf2a6.mp4
-[morse-knight source]: https://github.com/RascalTwo/OneButtonMorseKnightPrototype
-
-<details open>
-  <summary>Games</summary>
-
-|               [Flappy Bird](docs/projects/flappy-bird.md) <sup>[&#x1F5D7;][flappy-bird source]</sup>              | [Python Cross-Platform Hangman](docs/projects/cross-platform-hangman.md) <sup>[&#x1F5D7;][cross-platform-hangman source]</sup> |             [Rail Snake](docs/projects/rail-snake.md) <sup>[&#x1F5D7;][rail-snake source]</sup>              |    [Brython Hangman](docs/projects/brython-hangman.md) <sup>[&#x1F5D7;][brython-hangman source]</sup>   | [Infinite Driver](docs/projects/infinite-driver.md) <sup>[&#x1F5D7;][infinite-driver source]</sup> | [Novemator](docs/projects/novemator.md) <sup>[&#x1F5D7;][novemator source]</sup> | [Calculator Chaos](docs/projects/calculator-chaos.md) <sup>[&#x1F5D7;][calculator-chaos source]</sup> |                  [Bible Trivia](docs/projects/bible-trivia.md) <sup>[&#x1F5D7;][bible-trivia source]</sup>                   | [Minesweeper CLI](docs/projects/minesweeper-cli.md) <sup>[&#x1F5D7;][minesweeper-cli source]</sup> | [Number Memory](docs/projects/number-memory.md) <sup>[&#x1F5D7;][number-memory source]</sup> | [Morse Knight](docs/projects/morse-knight.md) <sup>[&#x1F5D7;][morse-knight source]</sup> |
-| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-| [![Flappy bird flying between pipes with a score of 4 and high score of 6][flappy-bird image]][flappy-bird video] |           ![GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'][cross-platform-hangman image]           | [![rail snake turning around after picking up food in top right corner][rail-snake image]][rail-snake video] | ![correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'][brython-hangman image] |         [![Red car turning towards gas can][infinite-driver image]][infinite-driver video]         |             ![game shown with a single key pressed][novemator image]             |       ![Nearly-perfect recreation of the flash game 'Calculator Chaos'][calculator-chaos image]       | [![gameplay with two failed guesses, two correct guesses, and one life remainining][bible-trivia image]][bible-trivia video] |     [![Minesweeper board half cleared of bombs][minesweeper-cli image]][minesweeper-cli video]     |         ![four pairs of numbers matched with 8 pairs remaining][number-memory image]         |       [![Attack menu action being selected][morse-knight image]][morse-knight video]      |
-
-</details>
-
-[python-testing-bug-hunt source]: https://gist.github.com/RascalTwo/7fddf33011563a3f75045c3367541f30
-[aoc source]: https://github.com/RascalTwo/AdventOfCode
-
-<details open>
-  <summary>Challenges</summary>
-
-| [Python Testing Bug-Hunt](docs/projects/python-testing-bug-hunt.md) <sup>[&#x1F5D7;][python-testing-bug-hunt source]</sup> | [Advent of Code](docs/projects/aoc.md) <sup>[&#x1F5D7;][aoc source]</sup> |
-| :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|                                                 Python bug scavenger hunt                                                  |                        My Advent of Code solutions                        |
-
-</details>
-
-[hata-discord source]: https://github.com/RascalTwo/hata-code-jam/tree/rascaltwo/team-maple
-[pybuddies-discord source]: https://github.com/RascalTwo/PythonBuddiesBot
-[reddit-rotten-tomatoes source]: https://github.com/RascalTwo/RedditRottenTomatoesBot
-[discord-mc-count-updater image]: https://user-images.githubusercontent.com/9403665/135724974-c2d80b44-9bbb-4db5-972a-e36b64155fbf.png "bot playing text displaying 'Online: 11'"
-[discord-mc-count-updater source]: https://gist.github.com/RascalTwo/5af068c248aa9e4936a8219f8ffcf020
-[reddit-googlealert-rss source]: https://github.com/RascalTwo/RedditGoogleAlertRSSPoster
-[reddit-pokemon-giveaway-flairer source]: https://github.com/RascalTwo/RedditPokemonGiveawayGalore
-[reddit-auto-flairer source]: https://github.com/RascalTwo/RedditDevResponseFlairer
-[reddit-soccer-standings-sync source]: https://github.com/RascalTwo/RedditSoccerStandingsSidebarSync
-[reddit-participation-flair-bot source]: https://github.com/RascalTwo/RedditParticipationFlairBot
-[reddit-phrase-unbanner source]: https://github.com/RascalTwo/RedditPhraseUnbanner
-[reddit-tellsyouajoke-bot source]: https://github.com/RascalTwo/RedditTellsYouAJokeBot
-[wedidit-reddit-bot source]: https://github.com/RascalTwo/WeDidItRedditBot
-
-<details open>
-  <summary>Bots</summary>
-
-| [Hata Discord](docs/projects/hata-discord.md) <sup>[&#x1F5D7;][hata-discord source]</sup> | [PyBuddies Discord](docs/projects/pybuddies-discord.md) <sup>[&#x1F5D7;][pybuddies-discord source]</sup> | [Reddit RottenTomatoes](docs/projects/reddit-rotten-tomatoes.md) <sup>[&#x1F5D7;][reddit-rotten-tomatoes source]</sup> | [Discord Minecraft Server Count Updator](docs/projects/discord-mc-count-updater.md) <sup>[&#x1F5D7;][discord-mc-count-updater source]</sup> | [Reddit GoogleAlert RSS](docs/projects/reddit-googlealert-rss.md) <sup>[&#x1F5D7;][reddit-googlealert-rss source]</sup> | [Reddit PokemonGiveaway Flairer](docs/projects/reddit-pokemon-giveaway-flairer.md) <sup>[&#x1F5D7;][reddit-pokemon-giveaway-flairer source]</sup> | [Reddit Auto Flairer](docs/projects/reddit-auto-flairer.md) <sup>[&#x1F5D7;][reddit-auto-flairer source]</sup> | [Reddit Soccer Standings Sync](docs/projects/reddit-soccer-standings-sync.md) <sup>[&#x1F5D7;][reddit-soccer-standings-sync source]</sup> | [Reddit Participation Flair Bot](docs/projects/reddit-participation-flair-bot.md) <sup>[&#x1F5D7;][reddit-participation-flair-bot source]</sup> | [Reddit Phrase Unbanner](docs/projects/reddit-phrase-unbanner.md) <sup>[&#x1F5D7;][reddit-phrase-unbanner source]</sup> | [Reddit TellsYouAJoke Bot](docs/projects/reddit-tellsyouajoke-bot.md) <sup>[&#x1F5D7;][reddit-tellsyouajoke-bot source]</sup> | [Reddit WeDidIt Bot](docs/projects/wedidit-reddit-bot.md) <sup>[&#x1F5D7;][wedidit-reddit-bot source]</sup> |
-| :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-|                     Multi-client bot providing multiple games and more                    |                 Collaborative multi-feature Discord bot, with games, scrapers, and more!                 |                                            Post the Top Movies of the week                                             |                                 ![bot playing text displaying 'Online: 11'][discord-mc-count-updater image]                                 |                                 Mirror items from GoogleAlert RSS as posts to Subreddit                                 |                                                Allow users to set their floairs via private message                                               |                                Automatically flair comments of certain accounts                                |                                         Sync standings table in sidebar of subreddit with website                                         |                              Assign flairs to users based on how active they are commenting/posting in a subreddit                              |                                  Unban users who comment any of the configured phrases                                  |                            Tells users who summon it a joke, sourced locally and from Trello boards                           |                                 Responds to variable comments with responses                                |
-
-</details>
-
-[twitch-user-markers image]: https://user-images.githubusercontent.com/9403665/157343750-c92ddaa2-56f1-498f-95ac-bbad16484a0e.jpg "navigation of all userscript features"
-[twitch-user-markers video]: https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4
-[twitch-user-markers source]: https://github.com/RascalTwo/TwitchUserMarkers
-[reddit-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/reddit-orb
-[reddit-orb reddit_http_api]: https://www.reddit.com/dev/api/
-[reddit-orb source]: https://github.com/RascalTwo/reddit-orb
-[twitch-chat-poll-visualizer image]: https://user-images.githubusercontent.com/9403665/157885882-8a604a8f-cb8b-4cf9-bd08-5ffac5776af0.jpg "line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric"
-[twitch-chat-poll-visualizer video]: https://user-images.githubusercontent.com/9403665/156878940-b72b7486-179f-4e02-9075-5c9b7ef969ce.mp4
-[twitch-chat-poll-visualizer source]: https://github.com/RascalTwo/Twitch-Chat-Poll-Visualizer
-[dropbox-orb orb_listing]: https://circleci.com/developer/orbs/orb/rascaltwo/dropbox-orb
-[dropbox-orb dropbox_http_api]: https://www.dropbox.com/developers/documentation/http/documentation
-[dropbox-orb source]: https://github.com/RascalTwo/dropbox-orb
-[subnet-scanner source]: https://github.com/RascalTwo/RubySubnetScanner
-[twitch-vod-chat-downloader source]: https://github.com/RascalTwo/TwitchVODChatDownloader
-
-<details open>
-  <summary>Tools</summary>
-
-| [Twitch User-Markers](docs/projects/twitch-user-markers.md) <sup>[&#x1F5D7;][twitch-user-markers source]</sup> | [Reddit CircleCI Orb](docs/projects/reddit-orb.md) <sup>[&#x1F5D7;][reddit-orb source]</sup> |                        [Twitch Chat Poll Visualizer](docs/projects/twitch-chat-poll-visualizer.md) <sup>[&#x1F5D7;][twitch-chat-poll-visualizer source]</sup>                       | [Dropbox CircleCI Orb](docs/projects/dropbox-orb.md) <sup>[&#x1F5D7;][dropbox-orb source]</sup> | [Subnet Scanner](docs/projects/subnet-scanner.md) <sup>[&#x1F5D7;][subnet-scanner source]</sup> | [Twitch VOD Chat Downloader](docs/projects/twitch-vod-chat-downloader.md) <sup>[&#x1F5D7;][twitch-vod-chat-downloader source]</sup> |
-| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|        [![navigation of all userscript features][twitch-user-markers image]][twitch-user-markers video]        |   [Reddit HTTP API][reddit-orb reddit_http_api] via [CircleCI Orb][reddit-orb orb_listing]   | [![line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric][twitch-chat-poll-visualizer image]][twitch-chat-poll-visualizer video] |   [Dropbox HTTP API][dropbox-orb dropbox_http_api] via [CircleCI Orb][dropbox-orb orb_listing]  |                           Scan a given network for active IP addresses                          |                                                         Download Twitch Chat                                                        |
-
-</details>
-<!-- PROJECTS END -->
 
 Feel free to reach out with any questions you'd like answered, or if you'd like some help or to hire me for a project of yours!
