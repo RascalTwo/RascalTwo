@@ -577,8 +577,8 @@ twitch-user-markers:
     alt: navigation of all userscript features
     description: Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs
   tags:
-    technologies: typescript html css git
-    concepts: addition frontend gui
+    technologies: twitch javascript typescript html css json csv chrome firefox greasemonkey web-extension npm graphql rest
+    concepts: addition data-mining frontend gui
 twitch-chat-poll-visualizer:
   source:
     repo: Twitch-Chat-Poll-Visualizer
@@ -591,8 +591,8 @@ twitch-chat-poll-visualizer:
     alt: "line & pie chart showing the results of which starter pokemon users choose: Grass, Fire, Water, Electric"
     description: Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
   tags:
-    technologies: javascript html css chart-js git
-    concepts: graph frontend gui
+    technologies: chart-js twitch javascript html css json
+    concepts: graph data-mining frontend gui
 dominoel:
   urls:
     image: https://user-images.githubusercontent.com/9403665/157889815-9d607ccc-9a2f-46bf-a964-a1d295256ad7.png
