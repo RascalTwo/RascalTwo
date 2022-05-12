@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://rascaltwo.com"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a>
-  <a href="mailto:therealrascaltwo@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
-  <a href="https://twitter.com/RealRascalTwo"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
-  <a href="https://github.com/RascalTwo"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
-  <a href="https://www.linkedin.com/in/joseph97milliken/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
-  <a href="https://angel.co/u/joseph-milliken"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
-  <a href="https://josephmilliken.com/resume.pdf"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
+  <a href="https://rascaltwo.com"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a>
+  <a href="mailto:therealrascaltwo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
+  <a href="https://twitter.com/RealRascalTwo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
+  <a href="https://github.com/RascalTwo" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
+  <a href="https://www.linkedin.com/in/joseph97milliken/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://angel.co/u/joseph-milliken" target="_blank"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
+  <a href="https://josephmilliken.com/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a>
 </p>
 
  Making technology make sense, ask me about anything!
@@ -29,6 +29,31 @@
 ## Projects
 
 <!-- PROJECTS BEGIN -->
+
+<table bordercolor="#33bef5">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelara.org</h3>
+      <br />
+      <a href="" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="http://travelara.herokuapp.com" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        <strong>LANGUAGES & LAST_LANGUAGE</strong> - DESCRIPTION
+      </p>
+    </td>
+  </tr>
+</table>
+
 [netgear-wgr614v9-monitor image]: https://user-images.githubusercontent.com/9403665/128139905-9abc1907-216e-467a-8f77-ed1e04562683.jpg "Dashboard showing graph of network traffic with statistics table below"
 [netgear-wgr614v9-monitor video]: https://user-images.githubusercontent.com/9403665/128138759-af37011b-1511-4365-b792-314fb8d62403.mp4
 [netgear-wgr614v9-monitor source]: https://github.com/RascalTwo/NETGEAR-WGR614v9-Monitor
