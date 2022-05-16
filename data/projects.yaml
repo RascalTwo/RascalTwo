@@ -9,8 +9,8 @@ netgear-wgr614v9-monitor:
     alt: Dashboard showing graph of network traffic with statistics table below
     description: Scrapes network data from the router, then displays said data and generating a graph
   tags:
-    technologies: go javascript html git
-    concepts: fullstack graph gui authorization data-mining
+    technologies: go javascript html css json
+    concepts: network addition authentication automation bot data-mining frontend fullstack graph gui
 vonage-chroma-key-video:
   urls:
     source: https://github.com/nexmo-community/build-a-thing-video/pull/13
@@ -21,8 +21,8 @@ vonage-chroma-key-video:
     alt: Customizable chroma-keying of a background on live video with little latency
     description: Allows users to chroma-key-replace their background with an image they provide
   tags:
-    technologies: javascript vue web-worker html css git github
-    concepts: addition gui frontend
+    technologies: web-worker javascript html css vue
+    concepts: media-processing addition frontend gui
 replit-code-challenges:
   source:
     repo: Repl.itJam10
@@ -34,8 +34,8 @@ replit-code-challenges:
     alt: Submitted code showing failed test
     description: User-submited and solvable Python coding challenges
   tags:
-    technologies: python javascript nosql replit html css jinga-2 poetry mypy git
-    concepts: fullstack gui authorization authentication database
+    technologies: replit javascript python html css jinga-2 json nosql flask poetry rest
+    concepts: challenge authentication authorization database frontend fullstack game gui
 synced-task-manager:
   source:
     repo: Todo-Fullstack
@@ -48,8 +48,8 @@ synced-task-manager:
     alt: Empty task list with field to add new entries
     description: Task manager with realtime collaboration and offline support
   tags:
-    technologies: typescript javascript express sequelize react material-ui heroku docker yarn json yaml github-actions nodemon eslint prettier websocket rest git gitlab
-    concepts: fullstack gui database
+    technologies: typescript heroku github javascript html css postgresql json react express docker alpine github-actions npm material-ui sequelize
+    concepts: fullstack authentication authorization database frontend gui network
 camp-kid-tracker:
   source:
     repo: CampKidTracker
@@ -61,8 +61,8 @@ camp-kid-tracker:
     alt: Two students being listed in tracker
     description: Easily track the status of kids attending your camp, with built-in auditing
   tags:
-    technologies: php javascript apache css jquery json git
-    concepts: fullstack gui authorization authentication database
+    technologies: php openshift javascript html css json jquery
+    concepts: fullstack authentication authorization database frontend gui
 password-generator:
   source:
     repo: PythonBuddiesPasswordGenerator
@@ -74,7 +74,7 @@ password-generator:
     alt: YouTube thumbnail
     description: Customizable and themable Password generator
   tags:
-    technologies: python tk pytest json git
+    technologies: python replit github json tk pylint coverage-py
     concepts: gui
 javascript-calculator:
   urls:
@@ -99,8 +99,8 @@ convex-hull-overlay:
     alt: convex hull overlay around points in radius of center
     description: Create a highlighted convex-hull around the selected points
   tags:
-    technologies: javascript svg git
-    concepts: addition
+    technologies: javascript svg jquery
+    concepts: addition frontend
 infinite-driver:
   source:
     repo: InfiniteDriver
@@ -113,7 +113,7 @@ infinite-driver:
     alt: Red car turning towards gas can
     description: Infinitely drive, collecting as many gems until you run out of fuel
   tags:
-    technologies: javascript typescript kaboom git
+    technologies: kaboom replit javascript typescript html css svg yarn vite
     concepts: game frontend gui
 flappy-bird:
   source:
@@ -139,8 +139,8 @@ cross-platform-hangman:
     alt: GUI gameplay of hangman, failing to guess the phrase 'VISUAL STUDIO CODE'
     description: "Hangman with three interfaces sharing a single codebase: CLI, Tk, and Discord"
   tags:
-    technologies: python tk discord-py pytest github-actions discord git mypy poetry pylint
-    concepts: game gui cli bot text-art
+    technologies: python replit discord cli tk github-actions pylint pytest coverage-py mypy poetry discord-py
+    concepts: game bot gui text-art
 rail-snake:
   source:
     repo: RailSnake
@@ -153,7 +153,7 @@ rail-snake:
     alt: rail snake turning around after picking up food in top right corner
     description: A Minetrack-themed game of snake
   tags:
-    technologies: javascript kaboom git
+    technologies: kaboom replit javascript html css json
     concepts: game frontend gui
 brython-hangman:
   source:
@@ -165,7 +165,7 @@ brython-hangman:
     alt: correctly guessing the word 'JavaScript', failing to guess the word 'Hangman'
     description: Identical hangman-themed game written in both JavaScript and Brython
   tags:
-    technologies: javascript brython html css git
+    technologies: brython javascript python html css
     concepts: game frontend gui
 calculator-chaos:
   source:
@@ -178,7 +178,7 @@ calculator-chaos:
     alt: Nearly-perfect recreation of the flash game 'Calculator Chaos'
     description: Recreation of the flash game Calculator Chaos
   tags:
-    technologies: javascript html css svg git
+    technologies: javascript html css svg
     concepts: game frontend gui
 minesweeper-cli:
   source:
@@ -191,8 +191,8 @@ minesweeper-cli:
     alt: Minesweeper board half cleared of bombs
     description: Playable Minesweeper game, with flags and everything
   tags:
-    technologies: python git
-    concepts: game cli text-art
+    technologies: python cli
+    concepts: game text-art
 number-memory:
   source:
     repo: Number-Memory-Game
@@ -244,8 +244,8 @@ hata-discord:
     title: Hata Discord
     alt: Multi-client bot providing multiple games and more
   tags:
-    technologies: python discord mypy gif
-    concepts: bot game media-processing text-art
+    technologies: discord python gif cli pylint tox mypy opencv numpy
+    concepts: bot authorization game media-processing text-art
 pybuddies-discord:
   source:
     repo: PythonBuddiesBot
@@ -253,8 +253,8 @@ pybuddies-discord:
     title: PyBuddies Discord
     alt: Collaborative multi-feature Discord bot, with games, scrapers, and more!
   tags:
-    technologies: python pylint discord-py travis-ci markdown json git reddit
-    concepts: bot game data-mining
+    technologies: discord-py reddit discord travis-ci python markdown json pylint
+    concepts: bot authorization data-mining game
 reddit-rotten-tomatoes:
   source:
     repo: RedditRottenTomatoesBot
@@ -342,8 +342,8 @@ bible-trivia:
     alt: gameplay with two failed guesses, two correct guesses, and one life remainining
     description: Trivia game based on where exactly verses in the Bible are at
   tags:
-    technologies: vue javascript html css cypress-io mocha chai sqlite eslint json
-    concepts: game fullstack gui database
+    technologies: vue javascript html css sqlite json xml svg express cypress-io eslint npm nodemon istanbul chai rest
+    concepts: fullstack database frontend game gui
 subnet-scanner:
   source:
     repo: RubySubnetScanner
@@ -376,8 +376,8 @@ magicjack-call-forwarding-toggler:
     alt: dashboard showing call fowarding hving just been toggled on
     description: Automatically toggle the call-forwarding state of your MagicJack account with a single script
   tags:
-    technologies: python selenium
-    concepts: automation cli
+    technologies: selenium python cli
+    concepts: automation
 bookmarks-backup-webextension:
   source:
     repo: BookmarksBackupExtension
@@ -389,8 +389,8 @@ bookmarks-backup-webextension:
     alt: bookmarks selected in extension popup, ready for download
     description: Backup and import bookmarks in a safe stable format - no more bookmark corruption or loss of bookmarks
   tags:
-    technologies: javascript html css web-extension
-    concepts: frontend gui
+    technologies: web-extension javascript html css json svg firefox
+    concepts: gui addition frontend
 video-subimage-search:
   source:
     repo: VideoSubImageSearch
@@ -402,8 +402,8 @@ video-subimage-search:
     alt: GUI showing discovered frames of WatchMojo video with title on screen
     description: Search through YouTube videos for subimages, displaying the frames and times of the found subimages
   tags:
-    technologies: python opencv tk
-    concepts: media-processing gui cli youtube
+    technologies: opencv youtube python cli tk
+    concepts: media-processing gui
 reddit-participation-flair-bot:
   source:
     repo: RedditParticipationFlairBot
@@ -411,8 +411,8 @@ reddit-participation-flair-bot:
     title: Reddit Participation Flair Bot
     alt: Assign flairs to users based on how active they are commenting/posting in a subreddit
   tags:
-    technologies: python reddit json
-    concepts: bot
+    technologies: reddit python json csv cli rest
+    concepts: bot authentication automation
 reddit-phrase-unbanner:
   source:
     repo: RedditPhraseUnbanner
@@ -429,7 +429,7 @@ reddit-tellsyouajoke-bot:
     title: Reddit TellsYouAJoke Bot
     alt: Tells users who summon it a joke, sourced locally and from Trello boards
   tags:
-    technologies: python reddit json
+    technologies: reddit python json
     concepts: bot
 wedidit-reddit-bot:
   source:
@@ -451,8 +451,8 @@ dynabook-driver-downloader:
     alt: Table showing recommended drivers selected for download
     description: Custom UI for the Dynabook Driver Download page that allows for easy downloading of the drivers all at once
   tags:
-    technologies: javascript greasemonkey html css
-    concepts: addition
+    technologies: greasemonkey javascript html css json
+    concepts: addition data-mining frontend gui
 discord-mc-count-updater:
   source:
     gist: 5af068c248aa9e4936a8219f8ffcf020
@@ -486,7 +486,7 @@ twitch-vod-chat-downloader:
     alt: Download Twitch Chat
     description: Download Twitch VOD Chat to a single file
   tags:
-    technologies: python json git
+    technologies: python twitch json cli
     concepts: data-mining
 level-ground-clone:
   source:
@@ -499,7 +499,7 @@ level-ground-clone:
     title: Level Ground Clone
     alt: Clone of Level Ground
   tags:
-    technologies: html css git
+    technologies: css html svg
     concepts: frontend
 khan-academy-clone:
   source:
@@ -512,7 +512,7 @@ khan-academy-clone:
     title: Khan Academy Clone
     alt: Clone of Khan Academy
   tags:
-    technologies: html css git
+    technologies: css javascript html svg
     concepts: frontend
 cuisine-restaurant-frontend:
   source:
@@ -525,7 +525,7 @@ cuisine-restaurant-frontend:
     title: Restaurant Website
     alt: Website of a Cuisine Restaurant
   tags:
-    technologies: html css git
+    technologies: css javascript html svg
     concepts: frontend
 marketing-firm-frontend:
   source:
@@ -538,7 +538,7 @@ marketing-firm-frontend:
     title: Marketing Firm Website
     alt: Website of a Marketing & Design Firm
   tags:
-    technologies: html css git
+    technologies: css html svg
     concepts: frontend
 ayesha-hair-salon-frontend:
   source:
@@ -551,7 +551,7 @@ ayesha-hair-salon-frontend:
     title: Ayesha Hair Salon Website
     alt: Website of Ayesha Hair Salon
   tags:
-    technologies: html css git
+    technologies: css html svg
     concepts: frontend
 creator-collaboration-frontend:
   source:
@@ -564,7 +564,7 @@ creator-collaboration-frontend:
     title: Creator Collaboration Website
     alt: Website of a Creator Collaboration
   tags:
-    technologies: html css git
+    technologies: css html
     concepts: frontend
 twitch-user-markers:
   source:
@@ -603,7 +603,7 @@ dominoel:
     alt: homepage showing an opening message and various ingredient images to the right
     description: Showcase of all the primary ingredients needed for a Dominos Pizza, along with instructions on how to grow & care for each of them - collaboratively developed in only two and a half hours
   tags:
-    technologies: javascript html css jquery glitch
+    technologies: glitch javascript html css svg jquery
     concepts: frontend
 novemator:
   source:
@@ -616,8 +616,8 @@ novemator:
     alt: game shown with a single key pressed
     description: A game for math nerds - given a target number and a shuffled keypad of numbers and operators, calculate that target!
   tags:
-    technologies: javascript html css
-    concepts: game frontend
+    technologies: javascript html css web-worker
+    concepts: game frontend gui
 ultimate-random-animal-generator:
   source:
     repo: RandomAnimalGenerator
