@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <img src="https://gpvc.arturio.dev/rascaltwo" />
+  <br/>
   <a href="https://rascaltwo.com"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a>
   <a href="mailto:therealrascaltwo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="EMail" title="EMail" /></a>
   <a href="https://twitter.com/RealRascalTwo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" /></a>
@@ -23,7 +25,6 @@
   <summary>GitHub Stats</summary>
 
   <p align="center">
-    <img src="https://gpvc.arturio.dev/rascaltwo" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascaltwo&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&hide_border=true&custom_title=GitHub%20Breakdown" alt="Top language used in my public repos" />
     <img src="https://activity-graph.herokuapp.com/graph?username=rascaltwo&theme=react-dark&hide_border=true&custom_title=Public%20Activity" />
     <img src="https://metrics.lecoq.io/RascalTwo?template=classic&repositories.forks=true&isocalendar=1&gists=1&lines=1&achievements=1&activity=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FNew_York" />
