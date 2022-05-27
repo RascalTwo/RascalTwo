@@ -238,6 +238,9 @@ Data:
     name: JSON
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631924078/json_ibbmdn.png
     query: +$n
+  xml:
+    name: XML
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1653674153/xml_xtxsv5.svg
   svg:
     name: SVG
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631990877/svg_njzxg6.svg
@@ -472,6 +475,9 @@ Equipment:
   coverage-py:
     name: coverage.py
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631991854/coverage-py_tvunu8.png
+  istanbul:
+    name: Istanbul
+    image: https://res.cloudinary.com/rascaltwo/image/upload/v1653674028/istanbul_eom8mv.png
   mypy:
     name: MyPy
     image: https://res.cloudinary.com/rascaltwo/image/upload/v1631987888/mypy_ve3zgu.svg
