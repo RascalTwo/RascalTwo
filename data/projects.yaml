@@ -664,3 +664,16 @@ multiplayer-trivia:
   tags:
     technologies: typescript github javascript html css json npm
     concepts: network authentication frontend game gui
+media-quotes-api:
+  source:
+    repo: Quotes
+  urls:
+    image: https://user-images.githubusercontent.com/9403665/177627276-2b2beaf2-b269-4933-9657-1215fff7612a.png
+    live: https://r2-quotes.herokuapp.com/
+  text:
+    title: Media Quotes API
+    alt: search for "Sometimes I'll" showing one quote from Friends and two from The Office
+    description: Return when things were said in your favorite media!
+  tags:
+    technologies: javascript heroku html css ejs mongodb json express cli github-actions mocha npm playwright puppeteer nodemon rest
+    concepts: fullstack database data-mining frontend gui media-processing
