@@ -668,7 +668,7 @@ media-quotes-api:
     repo: Quotes
   urls:
     image: https://user-images.githubusercontent.com/9403665/177627276-2b2beaf2-b269-4933-9657-1215fff7612a.png
-    live: https://r2-quotes.herokuapp.com/
+    live: https://media-quotes.onrender.com
   text:
     title: Media Quotes API
     alt: search for "Sometimes I'll" showing one quote from Friends and two from The Office
