@@ -39,22 +39,22 @@
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Flappy Bird</h3>
+      <h3 align="center">Video User Markers</h3>
       <br />
-      <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4" />
+      <a href="https://video-user-markers.cyclic.app/" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4" poster="https://user-images.githubusercontent.com/9403665/213323973-3b3c4e6c-2212-44f8-94f3-50d25918d842.png" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/FlappyBird" target="_blank">
+        <a href="https://github.com/RascalTwo/VideoUserMarkers" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
+        <a href="https://video-user-markers.cyclic.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>Kaboom.js, Repl.it, JavaScript, HTML, CSS, JSON, and NPM</strong> - Flappy Bird with randomized assets, high-score tracking, ghosts, and savable replays
+        <strong>TypeScript, MongoDB, React, Express, WebExtension API, and Tailwind</strong> - Allowing users to create and manage timestamps associated with analog and digital content
       </p>
     </td>
     <td width="50%" valign="top">
@@ -79,22 +79,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Twitch User-Markers</h3>
-      <br />
-      <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
-        <video src="https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/RascalTwo/TwitchUserMarkers" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <strong>Twitch, JavaScript, TypeScript, HTML, CSS, JSON, CSV, Chrome, Firefox, Greasemonkey, Web Extension, NPM, GraphQL, and REST</strong> - Userscript giving users the ability to create, read, update, and delete their own markers for Twitch.tv live streams and VODs
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Twitch Chat Poll Visualizer</h3>
       <br />
       <a href="https://rascaltwo.github.io/Twitch-Chat-Poll-Visualizer/" target="_blank">
@@ -113,44 +97,23 @@
         <strong>Chart.js, Twitch, JavaScript, HTML, CSS, and JSON</strong> - Generator of Pie & Line charts showcasing the responses of a Twitch chat to impromptu polls
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Marketing Firm Website</h3>
+      <h3 align="center">Flappy Bird</h3>
       <br />
-      <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
-        <img src="https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/4017934-Homepage-Wireframe-for-Marketing-Website/1920x1080.png" />
+      <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
+        <video src="https://user-images.githubusercontent.com/9403665/128610838-e544f830-d833-42b3-b37c-2006e5ffc28f.mp4" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/RascalTwo/static-websites/tree/main/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+        <a href="https://github.com/RascalTwo/FlappyBird" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
         </a>
-        <a href="https://rascaltwo.github.io/static-websites/4017934-Homepage-Wireframe-for-Marketing-Website" target="_blank">
+        <a href="https://flappybird--rascaltwo.repl.co/" target="_blank">
           <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, and git</strong> - Website of a Marketing & Design Firm
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Khan Academy Clone</h3>
-      <br />
-      <a href="https://rascaltwo.github.io/static-websites/Khan-Academy" target="_blank">
-        <img src="https://raw.githubusercontent.com/RascalTwo/static-websites/assets/assets/Khan-Academy/1920x1080.png" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/RascalTwo/static-websites/tree/main/Khan-Academy" target="_blank">
-          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-        </a>
-        <a href="https://rascaltwo.github.io/static-websites/Khan-Academy" target="_blank">
-          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-        </a>
-      </p>
-      <p>
-        <strong>HTML, CSS, and git</strong> - Clone of Khan Academy
+        <strong>Kaboom.js, Repl.it, JavaScript, HTML, CSS, JSON, and NPM</strong> - Flappy Bird with randomized assets, high-score tracking, ghosts, and savable replays
       </p>
     </td>
   </tr>
@@ -1424,6 +1387,22 @@
         <table>
           <tr>
             <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1653674153/xml_xtxsv5.svg" alt="XML" title="XML" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                XML
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
               <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1631990877/svg_njzxg6.svg" alt="SVG" title="SVG" />
             </td>
           </tr>
@@ -2519,6 +2498,22 @@
             <td>
               <p align="center">
                 coverage.py
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>
+              <img height="100px" src="https://res.cloudinary.com/rascaltwo/image/upload/v1653674028/istanbul_eom8mv.png" alt="Istanbul" title="Istanbul" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p align="center">
+                Istanbul
               </p>
             </td>
           </tr>

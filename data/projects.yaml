@@ -565,19 +565,19 @@ creator-collaboration-frontend:
   tags:
     technologies: css html
     concepts: frontend
-video-user-markers-userscript-extension:
+video-user-markers:
   source:
-    repo: VideoUserMarkersUserscriptExtension
+    repo: VideoUserMarkers
   urls:
-    image: https://user-images.githubusercontent.com/9403665/157343750-c92ddaa2-56f1-498f-95ac-bbad16484a0e.jpg
+    image: https://user-images.githubusercontent.com/9403665/213323973-3b3c4e6c-2212-44f8-94f3-50d25918d842.png
     video: https://user-images.githubusercontent.com/9403665/155326353-e6eca746-ebb3-421b-99d1-674666e4554d.mp4
   text:
     title: Video User Markers
     alt: navigation of all userscript features
-    description: Userscript & Extension giving users the ability to create, read, update, and delete their own markers for Twitch & YouTube live streams and Videos
+    description: Website & companion Userscript/Extension giving users the ability to create, read, update, and delete their own markers for Twitch & YouTube live streams and Videos, additionally to share their marker collections with other users
   tags:
-    technologies: twitch javascript typescript html css json csv chrome firefox greasemonkey web-extension npm graphql rest
-    concepts: addition data-mining frontend gui
+    technologies: typescript github twitch youtube javascript html css markdown ejs mongodb json nosql csv react express docker chrome firefox greasemonkey web-extension webpack babel github-actions eslint prettier npm nodemon mongoose tailwind graphql git rest
+    concepts: fullstack addition authentication authorization automation database data-mining frontend gui media-processing network
 twitch-chat-poll-visualizer:
   source:
     repo: Twitch-Chat-Poll-Visualizer
