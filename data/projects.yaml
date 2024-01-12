@@ -73,7 +73,7 @@ password-generator:
     alt: YouTube thumbnail
     description: Customizable and themable Password generator
   tags:
-    technologies: python replit github json tk pylint coverage-py
+    technologies: python replit json tk pylint coverage-py
     concepts: gui
 javascript-calculator:
   urls:
@@ -576,7 +576,7 @@ video-user-markers:
     alt: navigation of all userscript features
     description: Website & companion Userscript/Extension giving users the ability to create, read, update, and delete their own markers for Twitch & YouTube live streams and Videos, additionally to share their marker collections with other users
   tags:
-    technologies: typescript github twitch youtube javascript html css markdown ejs mongodb json nosql csv react express docker chrome firefox greasemonkey web-extension webpack babel github-actions eslint prettier npm nodemon mongoose tailwind graphql git rest
+    technologies: typescript twitch youtube javascript html css ejs mongodb json nosql csv react express docker chrome firefox greasemonkey web-extension webpack babel github-actions eslint prettier npm nodemon mongoose tailwind graphql rest
     concepts: fullstack addition authentication authorization automation database data-mining frontend gui media-processing network
 twitch-chat-poll-visualizer:
   source:
@@ -676,3 +676,16 @@ media-quotes-api:
   tags:
     technologies: javascript heroku html css ejs mongodb json express cli github-actions mocha npm playwright puppeteer nodemon rest
     concepts: fullstack database data-mining frontend gui media-processing
+questdrive-syncer:
+  source:
+    repo: QuestDrive-Syncer
+  urls:
+    image: https://github.com/RascalTwo/QuestDrive-Syncer/assets/9403665/a6401393-6bc5-47ad-a51a-950130d117cd
+    video: https://github.com/RascalTwo/QuestDrive-Syncer/assets/9403665/19c7ebb1-373e-4ea5-8bc2-d639dbd98c1a
+  text:
+    title: QuestDrive Syncer
+    alt: search for "Sometimes I'll" showing one quote from Friends and two from The Office
+    description: A tool to sync files from a device running QuestDrive to a local directory.
+  tags:
+    technologies: python yaml toml cli pytest coverage-py mypy poetry
+    concepts: automation addition data-mining media-processing network
