@@ -141,7 +141,7 @@
       <h3 align="center">QuestDrive Syncer</h3>
       <br />
       <a href="https://github.com/RascalTwo/QuestDrive-Syncer" target="_blank">
-        <img src="https://github.com/RascalTwo/QuestDrive-Syncer/assets/9403665/a6401393-6bc5-47ad-a51a-950130d117cd" />
+        <video src="https://github.com/RascalTwo/QuestDrive-Syncer/assets/9403665/19c7ebb1-373e-4ea5-8bc2-d639dbd98c1a" />
       </a>
       <br />
       <p align="center">

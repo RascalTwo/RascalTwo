@@ -685,7 +685,7 @@ questdrive-syncer:
     video: https://github.com/RascalTwo/QuestDrive-Syncer/assets/9403665/19c7ebb1-373e-4ea5-8bc2-d639dbd98c1a
   text:
     title: QuestDrive Syncer
-    alt: search for "Sometimes I'll" showing one quote from Friends and two from The Office
+    alt: help CLI arguments
     description: A tool to sync files from a device running QuestDrive to a local directory.
   tags:
     technologies: python yaml toml cli pytest coverage-py mypy poetry
