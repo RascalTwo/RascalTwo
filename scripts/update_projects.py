@@ -68,7 +68,7 @@ def generate_projects(order_filepath: str, projects: Dict[str, Project]):
 		if not project:
 			continue
 		print(project['slug'])
-		media_is_video = project['urls'].get('video', '').endswith('mp4')
+		media_is_video = project['urls'].get('video', '').endswith('mp4') or '/assets/' in project['urls'].get('video', '')
 		source_html = f'        <a href="{project["urls"]["source"]}" target="_blank">\n          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />\n        </a>\n' if 'source' in project["urls"] else ''
 		live_html = f'        <a href="{project["urls"]["live"]}" target="_blank">\n          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />\n        </a>\n' if 'live' in project['urls'] else ''
 		tech_slugs = project['tags']['technologies'].split(' ')
